@@ -2,7 +2,7 @@
 Project under DSE203 to show knowledge graph
 Data can be downloaded with the help of commented code and stored in csv file under Data folder. News and Wiki data has not been uploaded because of file size but intermediate data has been stored to create knowledge graph.
 
-<B>Technique used to process text:</B>
+<B>Technique used to process text:</B>/n
 Identify the Subject Verb Object triplet 
 Identify Token & Entity to create node csv
 Lemmatize the verb, remove stopwords and identify synonyms using Wordnet
