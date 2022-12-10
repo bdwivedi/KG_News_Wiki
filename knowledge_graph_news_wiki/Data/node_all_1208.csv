@@ -1,0 +1,2035 @@
+Id:ID,name,:LABEL
+GOLDMAN_SACHS_GS.N,goldman sachs gs.n,ORG
+APPLE,apple,ORG
+ABADA,abada,PERSON
+SOUTH_AFRICA,south africa,GPE
+WILLIAM_HUFFHINE,william huffhine,PERSON
+RIVIAN,rivian,NORP
+SHORTAGES,shortages,ORG
+THE_COMMERCE_DEPARTMENT,the commerce department,ORG
+AMERICANS,americans,NORP
+CHINA,china,GPE
+CHIPS,chips,ORG
+LUCID_MOTORS,lucid motors,ORG
+TESLA,tesla,PRODUCT
+CLIENTS,clients,ORG
+2022,2022,PRODUCT
+HOMEOWNERS,homeowners,ORG
+KATE_VALE,kate vale,PERSON
+ELON_MUSKS,elon musks,PERSON
+SPOTIFY,spotify,PERSON
+RAPIDPAY,rapidpay,ORG
+HOUZZ,houzz,PERSON
+HERTZ,hertz,GPE
+ALEXORACLE,alexoracle,ORG
+COMPANIES,companies,ORG
+TESLA_TSLA,tesla tsla,PERSON
+HEARSCH,hearsch,PERSON
+TROY_FORD,troy ford,ORG
+INTELLIGENCER,intelligencer,GPE
+ZIPCAR,zipcar,GPE
+CISCO_SYSTEMS,cisco systems,ORG
+DUO_SECURITY,duo security,ORG
+ARISTA,arista,ORG
+TIME,time,ORG
+JOB_OPENINGS,job openings,ORG
+THANKSGIVING,thanksgiving,EVENT
+NEED,need,PERSON
+VICTORIAS_SECRET,victorias secret,PERSON
+BLOOMBERG_NEWS,bloomberg news,ORG
+DOLLAR_TREE,dollar tree,ORG
+ANALYST_DAN_IVES,analyst dan ives,PERSON
+FACEBOOK,facebook,PERSON
+THE_BIDEN_ADMINISTRATION,the biden administration,ORG
+FORD,ford,ORG
+FAMILIES,families,ORG
+DRIVES,drives,PERSON
+WARD,ward,ORG
+EVERYONE,everyone,ORG
+ROBLOXPRIVATELY,robloxprivately,ORG
+ZYNGA,zynga,PERSON
+THE_FEDERAL_RESERVE,the federal reserve,ORG
+SHORTFALLS,shortfalls,ORG
+PICKUP_TRUCK,pickup truck,ORG
+WORKERS,workers,ORG
+EMPLOYERS,employers,GPE
+THE_U.S.,the u.s.,ORG
+FIRMS,firms,ORG
+NASDAQ,nasdaq,ORG
+PRODUCTION_MATERIALS,production materials,ORG
+SALES,sales,PRODUCT
+TOYOTA,toyota,ORG
+RIVAL_TOYOTA,rival toyota,PERSON
+AMERICAS,americas,PERSON
+FEATURES,features,ORG
+BUYERS,buyers,ORG
+DUSTIN_KRAUSE,dustin krause,ORG
+CHRISTOPHER_VAN_DYKE,christopher van dyke,PERSON
+GREG_REICHOW,greg reichow,PERSON
+CARLSSON,carlsson,PERSON
+SUPPLY,supply,ORG
+DEMAND,demand,ORG
+KELLEY_BLUE_BOOK,kelley blue book,ORG
+MICRON_TECHNOLOGY_INC.,micron technology inc.,ORG
+MICRON,micron,ORG
+BUSINESSES,businesses,PERSON
+BLOOMBERG,bloomberg,PERSON
+HILL,hill,ORG
+BRANDS,brands,ORG
+NIKE,nike,ORG
+STORES,stores,ORG
+DSW,dsw,PERSON
+COVID19,covid19,PERSON
+AUSTRALIA,australia,GPE
+CANON,canon,PRODUCT
+U.S.,u.s.,GPE
+CONSUMERS,consumers,GPE
+NICOLAS_PETER,nicolas peter,PERSON
+NOTHING,nothing,GPE
+2019,2019,PRODUCT
+2023,2023,PRODUCT
+INTEL,intel,ORG
+SELLERS,sellers,ORG
+GOGORO,gogoro,ORG
+CAKE,cake,PERSON
+CADENCE,cadence,ORG
+INC._REPORT,inc. report,ORG
+STRAUSS,strauss,PERSON
+PLAYERS,players,ORG
+THE_US,the us,ORG
+MITSUBISHI_MOTORS_DE_MEXICO,mitsubishi motors de mexico,ORG
+RUSSIA,russia,GPE
+SAMSUNG_ELECTRONICS_CO.,samsung electronics co.,ORG
+OHIO,ohio,GPE
+INFLATION,inflation,ORG
+STEPS,steps,PERSON
+GPU,gpu,ORG
+AMD,amd,ORG
+BIDEN,biden,PERSON
+VMWARE,vmware,ORG
+MOUNT_PLEASANT,mount pleasant,ORG
+WISCONSIN,wisconsin,GPE
+STARLINK,starlink,PERSON
+100,100,PRODUCT
+GELSINGER,gelsinger,PERSON
+CUSTOMERS,customers,ORG
+MAVERICKS,mavericks,ORG
+STELLANTIS_STLA.MI,stellantis stla.mi,ORG
+PRODUCTS,products,ORG
+ANALOG_DEVICESTHEY,analog devicesthey,ORG
+ALEXGOOGLE,alexgoogle,ORG
+THE_COMPANY,the company,ORG
+STARTUP_SYLVERA,startup sylvera,PERSON
+SOMETHING,something,PERSON
+IMPORTS,imports,ORG
+RAIMONDO,raimondo,PERSON
+TEXAS_INSTRUMENTS,texas instruments,ORG
+MANUFACTURERS,manufacturers,ORG
+CAPACITY,capacity,ORG
+BROKERS,brokers,ORG
+INVENTORIES,inventories,ORG
+RIFFLES,riffles,PERSON
+CANADA,canada,GPE
+TESLA_INC.,tesla inc.,ORG
+TESLAS,teslas,ORG
+GOVERNMENTS,governments,NORP
+YOURE,youre,PERSON
+RETAILERS,retailers,PERSON
+SAVINGS,savings,ORG
+ROLLSROYCE,rollsroyce,PERSON
+EARNINGS,earnings,ORG
+BILLY_STEELE,billy steele,PERSON
+KYLE_DUMONT,kyle dumont,PERSON
+THE_CALIFORNIA_DMV,the california dmv,ORG
+MARKET,market,PERSON
+BATTERIES,batteries,GPE
+MUSK,musk,ORG
+META,meta,ORG
+FOUNDER,founder,PERSON
+SMARTPHONES,smartphones,PERSON
+CNBC,cnbc,ORG
+TAIWAN_SEMICONDUCTOR_MANUFACTURING_COMPANY,taiwan semiconductor manufacturing company,ORG
+MORRIS_CHANG,morris chang,PERSON
+THE_TAIWAN_STOCK_EXCHANGE,the taiwan stock exchange,ORG
+TAIWAN,taiwan,GPE
+SONY,sony,ORG
+EBIT,ebit,ORG
+USA_TODAY.IN,usa today.in,ORG
+FORD_MOTOR_CO.,ford motor co.,ORG
+CHIP_SHORTAGES,chip shortages,PERSON
+SAMSUNG,samsung,ORG
+GOOGLE,google,ORG
+SUNROOM,sunroom,ORG
+THE_COMMISSION,the commission,ORG
+SPACEX,spacex,ORG
+HONDA,honda,ORG
+WAGES,wages,PERSON
+SMIC,smic,ORG
+COVID,covid,PERSON
+MICHAEL_BRUSH,michael brush,PERSON
+GENERAL_MOTORS,general motors,ORG
+TWITTER,twitter,GPE
+REUTERS,reuters,ORG
+SULAGNA_SAHA,sulagna saha,PERSON
+SOFTBANK,softbank,ORG
+INTELS,intels,GPE
+EDMUNDS,edmunds,GPE
+SCRONA_AG,scrona ag,ORG
+ADVANCED_MICRO_DEVICES,advanced micro devices,ORG
+STEVE,steve,PERSON
+DEVELOPERS,developers,PERSON
+FITNESS,fitness,ORG
+SHOPIFY,shopify,ORG
+MARKETWATCH,marketwatch,ORG
+FED,fed,ORG
+THE_FED,the fed,ORG
+THE_UK_GOVERNMENT,the uk government,ORG
+PLANTS,plants,ORG
+SAN_FRANCISCO,san francisco,GPE
+CORNING,corning,ORG
+LG_DISPLAY,lg display,ORG
+THEYRE,theyre,ORG
+PORTUGUESE_NAVY,portuguese navy,ORG
+BOSCH,bosch,ORG
+CHIPMAKERS,chipmakers,PRODUCT
+LONDON,london,GPE
+VEO,veo,PERSON
+AXLEHIRE,axlehire,ORG
+ARBE_ROBOTICS,arbe robotics,PERSON
+FORT_LAUDERDALE,fort lauderdale,GPE
+THE_UNITED_STATES,the united states,GPE
+PANELISTS,panelists,NORP
+JASON_KEATS,jason keats,PERSON
+RUSSIAS,russias,GPE
+SERGEI_SHOIGU,sergei shoigu,PERSON
+LAWMAKERS,lawmakers,PERSON
+TIER,tier,ORG
+COFOUNDER,cofounder,ORG
+OKLAHOMA,oklahoma,GPE
+TALENT,talent,ORG
+BILLIONS,billions,GPE
+THE_FUTURE_FUND,the future fund,ORG
+GERMAN,german,NORP
+MODELS,models,PERSON
+QUAH,quah,PERSON
+ADVERTISEMENT_FORD,advertisement ford,ORG
+GERMANY,germany,GPE
+THE_LABOR_DEPARTMENT,the labor department,ORG
+STELLANTIS,stellantis,NORP
+BLOOM,bloom,NORP
+MICROSOFT,microsoft,ORG
+PEI,pei,PERSON
+2020,2020,PRODUCT
+MERCEDESBENZ,mercedesbenz,ORG
+COLEMAN,coleman,PERSON
+BUSINESS_FORD,business ford,ORG
+PLANT,plant,GPE
+FIAT_CHRYSLER,fiat chrysler,ORG
+VALVES,valves,ORG
+AUTOMAKERSRE,automakersre,ORG
+SOUTH_CAROLINA,south carolina,GPE
+VOLVO,volvo,ORG
+UKRAINIANS,ukrainians,NORP
+SCHOOLS,schools,GPE
+PARTNERS,partners,ORG
+THE_WHITE_HOUSE,the white house,ORG
+MOTOROLA,motorola,ORG
+WHITE_OAK_BAYOU,white oak bayou,ORG
+THE_ASSOCIATED_PRESS,the associated press,ORG
+SILICON,silicon,NORP
+INVESTIGATION_BUREAU,investigation bureau,ORG
+2021,2021,PRODUCT
+THE_MODEL_S._RAWLINSON,the model s. rawlinson,ORG
+EVS,evs,PERSON
+CONGRESS,congress,ORG
+TAIWAN_SEMICONDUCTOR,taiwan semiconductor,ORG
+AUTHORITIES,authorities,ORG
+DATA,data,ORG
+CHAIR_LINA_KHAN,chair lina khan,PERSON
+NHTSA,nhtsa,ORG
+SETLOCK,setlock,ORG
+MANAGERS,managers,ORG
+STAN_PAVLOVSKY,stan pavlovsky,PERSON
+SCARINGE,scaringe,ORG
+HOUSE,house,ORG
+TESLA_INC_REPORT,tesla inc report,PERSON
+AUTONOMY,autonomy,PERSON
+SCHUMER,schumer,PERSON
+WASHINGTON,washington,GPE
+ELIZABETH_WARREN_DMASS,elizabeth warren dmass,PERSON
+MANCHIN,manchin,PERSON
+REPUBLICANS,republicans,NORP
+DMASS,dmass,ORG
+IPHONE,iphone,ORG
+THE_RUSSIAUKRAINE_WAR,the russiaukraine war,EVENT
+MICROSOFT_CORPORATION_REPORT,microsoft corporation report,ORG
+UNITED_RENTALS,united rentals,ORG
+CARMAKER,carmaker,ORG
+APPLE_INC,apple inc,ORG
+GOODS,goods,ORG
+SUBSCRIPTIONS,subscriptions,ORG
+CHALLENGES,challenges,PERSON
+LUCID,lucid,PERSON
+VIC_LARANJA,vic laranja,PERSON
+LARANJA,laranja,NORP
+JAPAN,japan,GPE
+9TO5MAC,9to5mac,PRODUCT
+SP_GLOBAL_MARKET_INTELLIGENCE,sp global market intelligence,ORG
+CALIFORNIA,california,GPE
+SUBJECT_CONTENT_REQUEST,subject content request,ORG
+PAT_GELSINGER,pat gelsinger,PERSON
+BROWN,brown,PERSON
+JESSICA_CALDWELL,jessica caldwell,PERSON
+USDOT,usdot,ORG
+"27,505.50","27,505.50",PRODUCT
+HANNES_NIEDERHAUSER,hannes niederhauser,PERSON
+FRATZKE,fratzke,ORG
+REVENUE,revenue,PRODUCT
+BLACKBURNS_TWITTER,blackburns twitter,GPE
+BLOOMBERG_NEWSSTARBUCKS,bloomberg newsstarbucks,ORG
+LOGISTICS,logistics,ORG
+INNES,innes,ORG
+INNE,inne,GPE
+USERS,users,ORG
+LEXISNEXIS_RISK_SOLUTIONS,lexisnexis risk solutions,ORG
+NVIDIA,nvidia,ORG
+INDUSTRY,industry,ORG
+KFC,kfc,ORG
+TECHCRUNCH,techcrunch,ORG
+CHINAS,chinas,ORG
+FORRESTERS_CHHABRA,forresters chhabra,ORG
+JIM_FARLEY,jim farley,PERSON
+THE_F150_LIGHTNING,the f150 lightning,PRODUCT
+WALMART,walmart,ORG
+DENSO_CORP_6902.T,denso corp 6902.t,ORG
+KATO,kato,PERSON
+GLOBAL_CHIP_SHORTAGE,global chip shortage,ORG
+THE_CENTRAL_BANK,the central bank,ORG
+PIPE_OBVIOUSLY,pipe obviously,ORG
+ROGER,roger,PERSON
+BRIGHTDROP,brightdrop,ORG
+CARS.COM,cars.com,ORG
+INSIDER,insider,PERSON
+BARRONS,barrons,PRODUCT
+GLOBITECH,globitech,ORG
+EAP,eap,ORG
+THE_EUS_MARKETS,the eus markets,ORG
+ENGINEERS,engineers,ORG
+KLAUSNER,klausner,PERSON
+INOUE,inoue,ORG
+BUYING,buying,NORP
+TAIPEI,taipei,ORG
+SPAIN,spain,GPE
+FOXCONN,foxconn,GPE
+KELVIN_PANG,kelvin pang,PERSON
+AMERICAS_FRONTIER_FUND,americas frontier fund,ORG
+BARRA,barra,ORG
+BELL,bell,ORG
+CHIPS_ACT,chips act,PRODUCT
+CRYPTOCURRENCY,cryptocurrency,NORP
+AUTONATION,autonation,ORG
+SHIBATA,shibata,PERSON
+IFS,ifs,ORG
+CERANS,cerans,NORP
+NXP,nxp,ORG
+MOTORS_CO_GM.N,motors co gm.n,PERSON
+SPACE,space,PERSON
+PALKHIWALA,palkhiwala,GPE
+FINNEGAN,finnegan,GPE
+CHINARE,chinare,PERSON
+JUNE,june,PRODUCT
+JNICHOLSONINDC,jnicholsonindc,PERSON
+JOHNSON,johnson,PERSON
+TIMES,times,ORG
+THE_JUSTICE_DEPARTMENT,the justice department,ORG
+THE_REPUBLICAN_PARTY,the republican party,ORG
+HAJE,haje,ORG
+JETBLUE,jetblue,ORG
+NINTENDO,nintendo,NORP
+CHAIR_MARK_LIU,chair mark liu,PERSON
+MEHROTRA,mehrotra,PERSON
+TRATON_8TRA.DE,traton 8tra.de,PERSON
+RESEARCH,research,ORG
+CARRIE,carrie,PERSON
+NUMBERS,numbers,ORG
+DRURY,drury,ORG
+AMAZON,amazon,ORG
+INNOVATION,innovation,NORP
+BRINKMAN,brinkman,PERSON
+PROTOCOL,protocol,GPE
+CHANG,chang,PERSON
+RILEY,riley,ORG
+DEALERSHIPS,dealerships,PERSON
+WHEELS,wheels,ORG
+MARC_LORE,marc lore,ORG
+AVIV,aviv,ORG
+CSAA,csaa,ORG
+INVESTMENT,investment,ORG
+LIGHTNINGS,lightnings,PERSON
+SWITZERLAND,switzerland,GPE
+THE_STATE,the state,GPE
+RANDY,randy,PERSON
+PAUL_ONEILL,paul oneill,PERSON
+SKYWATER,skywater,ORG
+MANUFACTURING,manufacturing,ORG
+UTILITIES,utilities,ORG
+BERLIN,berlin,GPE
+JACKSON_HOLE,jackson hole,ORG
+VISIBILITY,visibility,ORG
+HOUSES,houses,ORG
+BAIN,bain,GPE
+STELLANTIS_N.V._REPORT,stellantis n.v. report,ORG
+FORDS_F,fords f,PRODUCT
+REINARTS,reinarts,ORG
+GEARS,gears,ORG
+SUPPLIERS,suppliers,NORP
+RIVERBED,riverbed,PERSON
+FORD_F,ford f,ORG
+INVENTORY,inventory,ORG
+RUSSIANS,russians,NORP
+GERMANYS_HARTING,germanys harting,PERSON
+GIOVANNI_VELEZ,giovanni velez,PERSON
+BANKS,banks,ORG
+RISK,risk,PRODUCT
+HORIZON,horizon,PRODUCT
+BRINKMANS,brinkmans,NORP
+MCKENZIE,mckenzie,PERSON
+DONILON,donilon,PERSON
+LAYOFFS,layoffs,ORG
+ACTIONS,actions,PERSON
+BUSINESS,business,GPE
+TOURISM,tourism,NORP
+MASSACHUSETTS,massachusetts,GPE
+TOPICS,topics,ORG
+SCALE,scale,ORG
+ONOMONDO,onomondo,ORG
+RECENT_FEDERAL_RESERVE,recent federal reserve,ORG
+THE_NETHERLANDS,the netherlands,GPE
+PHILIPS,philips,GPE
+MONEY,money,ORG
+LORA_DICARLOS,lora dicarlos,PERSON
+CALIFORNIABASED_AMD,californiabased amd,ORG
+UPS,ups,ORG
+WINDOWS,windows,PRODUCT
+MOORHEAD,moorhead,ORG
+BUSINESS_INSIDER,business insider,ORG
+SWAN,swan,PERSON
+HUAWEIS,huaweis,NORP
+BOOT_CAMP,boot camp,PRODUCT
+THE_MOTLEY_FOOL,the motley fool,ORG
+GLOBALFOUNDRIES,globalfoundries,ORG
+HUAWEI,huawei,GPE
+YOUTUBE,youtube,ORG
+TOYOTA_MOTOR_CORP.,toyota motor corp.,ORG
+TAIWANS_ECONOMICS_MINISTRY,taiwans economics ministry,ORG
+BYD,byd,ORG
+TSMC,tsmc,ORG
+THE_EUROPEAN_UNION,the european union,ORG
+TOKYO,tokyo,GPE
+MAZDA_MOTOR_CORP_CX5,mazda motor corp cx5,ORG
+GOOGLE_MAPS,google maps,PERSON
+DRIVERS,drivers,PERSON
+QUALCOMM,qualcomm,PERSON
+FORDS,fords,NORP
+SHELL,shell,ORG
+KRAFT_HEINZ,kraft heinz,ORG
+THE_SUPREME_COURT,the supreme court,ORG
+DIALOG_SEMICONDUCTOR,dialog semiconductor,GPE
+KELLEN_BROWNING,kellen browning,PERSON
+LOS_ANGELES,los angeles,GPE
+GET_REPORT,get report,ORG
+EXPECTATIONS,expectations,PERSON
+TARGETS,targets,NORP
+NATWEST,natwest,ORG
+BOLIDEN_AB,boliden ab,ORG
+MOMENTUM,momentum,PRODUCT
+GREENVISION_ACQUISITION_CORP.,greenvision acquisition corp.,ORG
+PARIS_REUTERS,paris reuters   ,ORG
+THE_CONGRESSIONAL_BLACK_CAUCUS,the congressional black caucus,ORG
+CHAIR_JEROME_POWELL,chair jerome powell,PERSON
+HYUNDAI,hyundai,ORG
+NATIONS,nations,ORG
+MAKERS,makers,ORG
+ARCIAGA,arciaga,GPE
+THINGS,things,GPE
+THE_TRUMP_ADMINISTRATION,the trump administration,ORG
+MARVELL_TECHNOLOGY_GROUP,marvell technology group,ORG
+JONATHAN,jonathan,PERSON
+BARON,baron,PERSON
+XPENG,xpeng,PERSON
+HALL,hall,PERSON
+SINGAPORE,singapore,GPE
+REBECCA_BELLAN,rebecca bellan,PERSON
+TEXAS,texas,GPE
+JABLONSKI,jablonski,PERSON
+INTEL_CORP_INTC.O,intel corp intc.o,ORG
+TONSOR,tonsor,PERSON
+VALUE,value,PERSON
+COLE_VILLENA,cole villena,GPE
+JIM_CRAMER,jim cramer,PERSON
+JORDAN,jordan,GPE
+DOWNTIME,downtime,ORG
+RAWLINSON,rawlinson,ORG
+FIORANI,fiorani,PERSON
+VALENTE,valente,PERSON
+CRITICS,critics,ORG
+GROWTH,growth,ORG
+COOK,cook,PERSON
+GAMERS,gamers,ORG
+INTEL_CORP.,intel corp.,ORG
+ANALYST_DANIEL_IVES,analyst daniel ives,ORG
+GETTY_IMAGESIT,getty imagesit,PERSON
+XILINX_XLNX,xilinx xlnx,PERSON
+GOVERNMENT,government,ORG
+SPLACH,splach,PERSON
+FISKER,fisker,ORG
+MOTORS,motors,ORG
+CARMAKER_STELLANTIS,carmaker stellantis,ORG
+SUCCESS,success,ORG
+BMW,bmw,ORG
+MARVELL,marvell,ORG
+RETAILMENOTS_MCGRATH,retailmenots mcgrath,PRODUCT
+REPORT,report,ORG
+INC_TSLA.O.,inc tsla.o.,PERSON
+YANG,yang,PERSON
+TRANSPORTATION,transportation,ORG
+FOCUS,focus,PRODUCT
+BEN_CASSELMAN,ben casselman,PERSON
+MAYS,mays,PERSON
+HIRING,hiring,PERSON
+CNN_BUSINESS,cnn business,ORG
+SPENDING,spending,GPE
+CANADA_DRIVES,canada drives,PERSON
+GREEN,green,PERSON
+HOME_DEPOT,home depot,PERSON
+TAIWANS_FOREIGN_MINISTRY,taiwans foreign ministry,ORG
+GLOBALFOUNDRIES_INC,globalfoundries inc,ORG
+CONCERNS,concerns,PERSON
+WANG,wang,PERSON
+STOCKS,stocks,PERSON
+HARDWARE,hardware,ORG
+SALEM,salem,GPE
+MASON_TRINCA,mason trinca,ORG
+SAFETY,safety,PERSON
+NYC,nyc,ORG
+LIME,lime,ORG
+VOLKSWAGEN,volkswagen,ORG
+BILL_ACKMAN,bill ackman,PERSON
+DE_GEUS,de geus,PERSON
+HARRIS,harris,PERSON
+VENTUREBEAT,venturebeat,ORG
+EMAIL,email,ORG
+TRUECAR,truecar,ORG
+VIETNAM,vietnam,GPE
+JEREMY_OLIVIER,jeremy olivier,PERSON
+HII,hii,ORG
+ENDERS,enders,ORG
+GITLIN,gitlin,PERSON
+BAKER,baker,PERSON
+JACK_DORSEY,jack dorsey,PERSON
+TRIMBLE,trimble,ORG
+CUSTOMERS_INVENTORIES,customers inventories,ORG
+RADNET,radnet,ORG
+TOYOTA_TM,toyota tm  ,ORG
+BARACK_OBAMA,barack obama,PERSON
+WEIR,weir,PERSON
+KEITH_BOSSE,keith bosse,PERSON
+NIOS,nios,PERSON
+APP_STORES,app stores,ORG
+NEW_IPHONES,new iphones,GPE
+APPLE_MUSIC,apple music,ORG
+CONTINENTAL,continental,ORG
+RAILROADS,railroads,ORG
+STOWELL,stowell,PERSON
+INSTACART,instacart,ORG
+MARKETS,markets,ORG
+F_LEARN,f learn,PERSON
+GETTY_IMAGESMUSK,getty imagesmusk,PERSON
+NEW_YORK,new york,GPE
+CHINAIN,chinain,PERSON
+NEIDERMEYER,neidermeyer,ORG
+FITTIPALDI,fittipaldi,PERSON
+NYCBASED_PAVE_MOTORS,nycbased pave motors,ORG
+ONSTAR,onstar,PERSON
+BLACKBERRY_LIMITED_REPORT,blackberry limited report,ORG
+REVENUES,revenues,PERSON
+FARLEY,farley,PERSON
+INFORMATION,information,ORG
+WARREN,warren,PERSON
+POWELL,powell,PERSON
+VEHICLES,vehicles,GPE
+EMPLOYEES,employees,ORG
+VIJAYAN,vijayan,PERSON
+RFI,rfi,ORG
+TIBCO,tibco,ORG
+FARMERS,farmers,ORG
+LABOR,labor,ORG
+GLOFO,glofo,GPE
+NEWLANDS,newlands,PERSON
+NUCOR,nucor,ORG
+WORONKA,woronka,GPE
+UPDATES,updates,GPE
+ELON_MUSK,elon musk,PERSON
+TRUMP,trump,ORG
+TYNAN,tynan,PERSON
+SEMICONDUCTORS,semiconductors,GPE
+GARTNER,gartner,PERSON
+CUPERTINO,cupertino,GPE
+LONGTERM,longterm,NORP
+DELOITTE_GLOBAL,deloitte global,PERSON
+HYUNDAI_MOTOR,hyundai motor,ORG
+WILLIAM_SHATNER,william shatner,PERSON
+THE_CITY_COUNCIL,the city council,ORG
+AAPL,aapl,ORG
+HARDWARE_SECURITY_MODULES_HSM,hardware security modules hsm,ORG
+UNICREDIT,unicredit,ORG
+DAVIS,davis,PERSON
+AIRLINES,airlines,ORG
+VOLKSWAGENS_PROJECT_TRINITY,volkswagens project trinity,ORG
+KANE_PIN,kane pin,PERSON
+YEUNG,yeung,PERSON
+CARMAKERS,carmakers,ORG
+SALESPEOPLE,salespeople,ORG
+WONG,wong,PERSON
+SOFTWARE,software,ORG
+ASML,asml,ORG
+TRADING,trading,PRODUCT
+HONG_KONG,hong kong,GPE
+LAUNDRIE,laundrie,PERSON
+NAVITAS,navitas,PERSON
+SUBSCRIBE,subscribe,PERSON
+CAPITAL_EXPENDITURES,capital expenditures,ORG
+SIENNA,sienna,ORG
+SMARTPHONE,smartphone,PRODUCT
+GLOBALFOUNDRIES_INC.,globalfoundries inc.,ORG
+ZOOX,zoox,GPE
+THE_FINANCIAL_TIMES,the financial times,ORG
+FIELDS,fields,ORG
+TOYOTAS_COROLLA,toyotas corolla,PERSON
+THE_BIDEN_ADMINISTRATIONS,the biden administrations,ORG
+TRIMBLE_TRMB,trimble trmb,ORG
+AAPL_REPORT,aapl report,ORG
+CUSTOMERSRE,customersre,PERSON
+APPLE_INC.,apple inc.,ORG
+MICROSOFT_CORP.,microsoft corp.,ORG
+DEMOCRATS,democrats,NORP
+HOME,home,ORG
+CRAMER,cramer,ORG
+VENDORS,vendors,PRODUCT
+DUPONT,dupont,ORG
+FCC,fcc,ORG
+SENATE,senate,ORG
+FEB,feb,GPE
+FEDEX,fedex,ORG
+UBS,ubs,ORG
+AMON,amon,PERSON
+SHIPPERS,shippers,ORG
+THOMAS,thomas,PERSON
+EVGA,evga,ORG
+MITSUBISHI,mitsubishi,ORG
+LYFT,lyft,PERSON
+DEFI,defi,PERSON
+CHAILLAN,chaillan,PERSON
+MOOV,moov,ORG
+MORGAN,morgan,ORG
+AIR,air,ORG
+ANALOG_DEVICES,analog devices,ORG
+GABELLI,gabelli,ORG
+SMITH,smith,ORG
+THE_ARIZONA_REPUBLIC,the arizona republic,GPE
+MCGRATH,mcgrath,PERSON
+HART,hart,ORG
+MOBILE,mobile,GPE
+FRANCE,france,GPE
+BOTS,bots,ORG
+TOTOKI,totoki,PERSON
+CHINAS_SHANGHAI_COMPOSITE,chinas shanghai composite,ORG
+ROBINHOOD_MARKETS_INC.,robinhood markets inc.,ORG
+MORE.HILLARY_CLINTON,more.hillary clinton,PERSON
+JOHN_KERRY,john kerry,PERSON
+NICK_NELSON,nick nelson,PERSON
+CONSENSUS,consensus,ORG
+MAINTENANCE,maintenance,PERSON
+FORWARD.THE_UNITED_STATES,forward.the united states,GPE
+CONTAINERS,containers,ORG
+DISNEY,disney,ORG
+KIDS,kids,PERSON
+ABBOTT,abbott,ORG
+NUROS,nuros,ORG
+ZUM,zum,PERSON
+OREGON,oregon,GPE
+PALANTIR,palantir,ORG
+KELLOGG,kellogg,ORG
+AGGARWAL,aggarwal,GPE
+FREEMAN,freeman,ORG
+FIDELITY,fidelity,ORG
+BITFLY,bitfly,PERSON
+R.J._SCARINGE,r.j. scaringe,PERSON
+STATESIDE,stateside,PRODUCT
+MODEL_S,model s,ORG
+ALIAVIA_VENTURES,aliavia ventures,ORG
+WHOOSHKAA,whooshkaa,ORG
+QUICKAPAY,quickapay,ORG
+CONX,conx,ORG
+CERNER,cerner,PRODUCT
+RISKS,risks,PRODUCT
+APPLE_GLASSES,apple glasses,ORG
+HELLER,heller,PERSON
+SOCIO_LABS,socio labs,PERSON
+HYBRIDIZATION,hybridization,GPE
+SHARE,share,ORG
+BROADSOFT,broadsoft,ORG
+SANTAS,santas,ORG
+ALLEN,allen,PERSON
+SHOPPERS,shoppers,PERSON
+FACEBOOK_META,facebook meta,PERSON
+THE_NEW_YEAR,the new year,EVENT
+1.2,1.2,PRODUCT
+ARISTA_NETWORKS,arista networks,PERSON
+INC.,inc.,ORG
+NIANTIC_INC.,niantic inc.,ORG
+ADS,ads,ORG
+0.3,0.3,PRODUCT
+4.6,4.6,PRODUCT
+AUTOMAKER,automaker,PERSON
+5.4,5.4,PRODUCT
+CENTRAL_TEXAS,central texas,ORG
+JOBS,jobs,PERSON
+FURMAN,furman,PERSON
+CYBERTRUCK,cybertruck,ORG
+GREATER_COLUMBUS,greater columbus,PERSON
+MPB,mpb,ORG
+SPIN,spin,ORG
+TECHCRUNCH_FORD,techcrunch ford,ORG
+DOMETICS,dometics,ORG
+APPS,apps,ORG
+PELOTON,peloton,PERSON
+GAMES,games,PRODUCT
+VERIZON,verizon,GPE
+UKRAINE,ukraine,GPE
+AUTOMOBILES,automobiles,PERSON
+PLAN,plan,PERSON
+DANLEY,danley,ORG
+EMC,emc,ORG
+MAVERICK_MAVERICK,maverick maverick,PERSON
+MINIVANS,minivans,NORP
+CHIP_IP,chip ip,PERSON
+WAFER_FAB_EQUIPMENT,wafer fab equipment,ORG
+MACHINE,machine,ORG
+BITCOIN,bitcoin,GPE
+PAY,pay,GPE
+THE_STRATEGIC_PETROLEUM_RESERVE,the strategic petroleum reserve,ORG
+MEXICO,mexico,GPE
+MODEL_YS,model ys,PERSON
+MODEL_3,model 3,ORG
+WAYMO,waymo,ORG
+CALIFORNIAS,californias,PERSON
+UPFRONT,upfront,ORG
+THESELL,thesell,ORG
+RICK_CASSIDY,rick cassidy,PERSON
+SAPPHIRE_RAPIDS,sapphire rapids,GPE
+VEDANT_PATEL,vedant patel,PERSON
+CREDIT,credit,PERSON
+CHEVY,chevy,ORG
+SEARCH,search,ORG
+FIJI,fiji,GPE
+SHANGHAI,shanghai,ORG
+FAB,fab,ORG
+OMICRON,omicron,ORG
+PRODUCTIVITY,productivity,ORG
+CLR,clr,ORG
+CADILLAC,cadillac,ORG
+CHRIS_EVANS,chris evans,PERSON
+ARM,arm,ORG
+STOCK,stock,ORG
+FOUNDRY_BUSINESS,foundry business,ORG
+EPS,eps,ORG
+SERVICES,services,ORG
+MACBOOK_PRO,macbook pro,ORG
+STANLEY,stanley,PERSON
+GLASS,glass,PERSON
+PRESSURES,pressures,ORG
+LX_SEMICON,lx semicon,ORG
+TAUR,taur,ORG
+THE_COSMO_2,the cosmo 2,PRODUCT
+COVET_SHIPPING,covet shipping,PERSON
+NIKOLA_CORP.,nikola corp.,ORG
+THILO_KOSLOWSKI,thilo koslowski,PERSON
+GUTERRES,guterres,PERSON
+CRIMEA,crimea,GPE
+WARDLAW,wardlaw,PERSON
+A_TIM_COOK,a tim cook,PERSON
+CHENG_LU,cheng lu,PERSON
+PANASONIC,panasonic,ORG
+RESPONDENTS,respondents,ORG
+BLACK,black,NORP
+EXPLORERS,explorers,PRODUCT
+KHAN,khan,PERSON
+ESSENTIAL_IP,essential ip,ORG
+STEAM_DECK,steam deck,ORG
+SPOILER,spoiler,ORG
+TIKTOK,tiktok,GPE
+EQUITY,equity,ORG
+OFFICE,office,ORG
+ACCESS,access,PERSON
+HOUSTON,houston,GPE
+MATTHEW_BROWN,matthew brown,PERSON
+CHILDREN,children,PERSON
+TOYODA,toyoda,PERSON
+TESLA_CYBERTRUCK,tesla cybertruck,ORG
+THESTREETS_BRUCE_KAMICH,thestreets bruce kamich,PERSON
+AUTOPILOT,autopilot,ORG
+INSIDER_SETLOCK,insider setlock,PERSON
+RIVIANS,rivians,NORP
+WORLD_WAR_II,world war ii,EVENT
+ALBANYS_NANOTECH_COMPLEX,albanys nanotech complex,ORG
+OUTLOOK,outlook,GPE
+EATON,eaton,ORG
+THE_PHILADELPHIA_INQUIRER,the philadelphia inquirer,ORG
+FMVSS_NOS,fmvss nos,ORG
+ST_GROUP,st group,ORG
+VOLKSWAGEN_GROUP,volkswagen group,ORG
+4.5,4.5,PRODUCT
+LINKEDIN,linkedin,PERSON
+INSIGHTS,insights,ORG
+PSYDUCK,psyduck,PRODUCT
+ESFARJANI,esfarjani,PERSON
+INSIDER_CUSTOMERSRE,insider customersre,PERSON
+SYMANTEC,symantec,ORG
+ALPHABET,alphabet,ORG
+SANDBULTE,sandbulte,ORG
+SIGNS,signs,PERSON
+EDMUNDS.COM,edmunds.com,ORG
+POWER,power,GPE
+DONT,dont,ORG
+THE_PROXY,the proxy,ORG
+FEDEX_BRIGHTDROP,fedex brightdrop,ORG
+LEADERSHIP,leadership,ORG
+7201.T,7201.t  ,PERSON
+THE_TESLA_MODEL_3,the tesla model 3,PRODUCT
+CIRCUITS,circuits,GPE
+MERCEDESBENZ_ECLASS,mercedesbenz eclass,ORG
+RESTRUCTURING,restructuring,PERSON
+FOOD,food,ORG
+CALIFORNIABASED_CIG_FINANCIAL,californiabased cig financial,ORG
+CHRISTENSEN,christensen,PERSON
+VOLKSWAGEN_ID.4,volkswagen id.4,ORG
+BUILD,build,PERSON
+RALA,rala,GPE
+SEC_INFO,sec info,ORG
+INDEPENDENTS,independents,NORP
+SUSAN_COLLINS,susan collins,PERSON
+HUMANFOREST,humanforest,ORG
+SPIRIT,spirit,PERSON
+PROGRAM,program,ORG
+POMPEO,pompeo,GPE
+AMD_5,amd 5,ORG
+CNN,cnn,ORG
+THE_POST,the post,ORG
+TECHNOLOGIES,technologies,ORG
+HGTV,hgtv,ORG
+ROOMBA,roomba,PERSON
+PRIORITY,priority,ORG
+OHIOS,ohios,GPE
+AUDI_MCKINNEY,audi mckinney,PERSON
+HUTH,huth,PERSON
+XING,xing,PERSON
+STARTUP,startup,PERSON
+SPARKCHARGE,sparkcharge,ORG
+RICK_ASTLEY,rick astley,PERSON
+JACKSON_COUNTY,jackson county,GPE
+CONTROL,control,ORG
+AMERICA,america,GPE
+MACRO_MUSINGS,macro musings,PERSON
+BRADY,brady,PERSON
+INDIANA,indiana,GPE
+CASH,cash,PERSON
+TOOLS,tools,GPE
+PRICE,price,PERSON
+WORKING,working,ORG
+5.7,5.7,PRODUCT
+THESTREET,thestreet,NORP
+TSM,tsm,ORG
+POLICYMAKERS,policymakers,ORG
+CUSTOM_ALARM,custom alarm,PERSON
+BIDENS,bidens,PERSON
+AIDES,aides,PERSON
+TECH,tech,ORG
+EXECUTIVES,executives,ORG
+FEWER_SWITCH_CONSOLES,fewer switch consoles,ORG
+IOT,iot,ORG
+ANALOG,analog,ORG
+FUN,fun,PERSON
+KELLY,kelly,PERSON
+ARMPOWERED_MACS,armpowered macs,PERSON
+HONOR,honor,ORG
+LINES,lines,GPE
+TAIPEI_REUTERS,taipei reuters  ,ORG
+MICROSOFT_CORP,microsoft corp,ORG
+NEWS,news,ORG
+TEAM_UPSHIFT,team upshift,ORG
+F150_RAPTOR,f150 raptor,PRODUCT
+PLANTERS_PEANUTS,planters peanuts,ORG
+SPORTS,sports,ORG
+RENESAS,renesas,GPE
+6.6,6.6,PRODUCT
+REPORTING,reporting,ORG
+JANET_HEROLD,janet herold,PERSON
+BARCLAYS,barclays,PERSON
+BUTTIGIEG,buttigieg,PERSON
+CAPITAL,capital,ORG
+HELBIZ,helbiz,GPE
+APPLE_APP_STORE,apple app store,ORG
+VACCINATIONS,vaccinations,ORG
+GAPS,gaps,ORG
+YOUNG,young,ORG
+THE_FREE_PRESS,the free press,ORG
+MODEL_Y,model y,PRODUCT
+MACALUSO,macaluso,PERSON
+FORD_MOTOR_CO,ford motor co,ORG
+WEVE,weve,PERSON
+APPLIED_MATERIALS,applied materials,ORG
+SHARES,shares,PERSON
+BEIJING,beijing,GPE
+BROADCOM,broadcom,ORG
+FOAM,foam,PERSON
+REUTERSTORU_HANAIEXPORTS,reuterstoru hanaiexports,ORG
+NISSAN,nissan,ORG
+ELECTRONICS,electronics,ORG
+POWERWALL,powerwall,ORG
+CHIPS_FOR,chips for,ORG
+MACS,macs,PERSON
+CRYPTO,crypto,GPE
+APPLES,apples,GPE
+SONY_INTERACTIVE_ENTERTAINMENT,sony interactive entertainment,ORG
+RAV4,rav4,PERSON
+DONALD_TRUMP,donald trump,PERSON
+THE_OLYMPIC_GAMES,the olympic games,EVENT
+INDIEGOGO,indiegogo,ORG
+COMPANY,company,ORG
+LUCID_GROUP,lucid group,ORG
+5.2,5.2,PRODUCT
+INNOVIUM,innovium,GPE
+JAPAN_INC.,japan inc.,ORG
+USA_TODAY,usa today,ORG
+COMPLIANCE,compliance,PRODUCT
+NEEDS,needs,PERSON
+FORD_F150_LIGHTNING,ford f150 lightning,ORG
+STATIONS,stations,PERSON
+ENTEGRIS,entegris,ORG
+PACE,pace,ORG
+MUBADALA,mubadala,PERSON
+LARGE,large,ORG
+AL_JAZEERA,al jazeera,ORG
+BIRD,bird,ORG
+MOOVIT,moovit,GPE
+REE_AUTOMOTIVE,ree automotive,ORG
+REUTERS_VOLKSWAGEN,reuters volkswagen,ORG
+WARREN_BUFFETT,warren buffett,PERSON
+SYNOPSYS,synopsys,PERSON
+FEARS,fears,PERSON
+SAMSUNG_GROUP,samsung group,ORG
+NAG,nag,ORG
+VERDICT,verdict,ORG
+DANNY_HERNANDEZ,danny hernandez,PERSON
+BECI_BRENTON,beci brenton,PERSON
+SNAPEDA,snapeda,PERSON
+GIANT,giant,ORG
+BACKLOGS,backlogs,PERSON
+GIGAFACTORY,gigafactory,PERSON
+ARTIFICIAL_INTELLIGENCE,artificial intelligence,ORG
+PRIVACY_POLICYGENERAL_MOTORS,privacy policygeneral motors,ORG
+GETTY_IMAGESTOYOTA,getty imagestoyota,PERSON
+CURB_AUTO_EMISSIONS,curb auto emissions,ORG
+PUSH,push,ORG
+DISPO,dispo,GPE
+SHAZAM,shazam,ORG
+ANDROID,android,ORG
+PARTNERSHIPS,partnerships,NORP
+INFINEON,infineon,ORG
+FALCK,falck,PERSON
+SEMICONDUCTOR,semiconductor,ORG
+ELKANN,elkann,PERSON
+LONG_BEACH,long beach,GPE
+REDWOOD_MATERIALS,redwood materials,ORG
+BATTERY_MODULES,battery modules,PRODUCT
+ONSTAR_GUARDIAN,onstar guardian,ORG
+LOTS,lots,PERSON
+FRANCES_HAUGEN,frances haugen,PERSON
+FRONT,front,ORG
+SWITCH,switch,ORG
+HANNAH_SAMPSON,hannah sampson,PERSON
+GIGA_TEXAS,giga texas,PERSON
+EVERYONES,everyones,GPE
+TABLETS,tablets,NORP
+CHROMEBOOKS,chromebooks  ,PERSON
+JEFF_BEZOS,jeff bezos,PERSON
+DELTA,delta,ORG
+MILLS,mills,ORG
+KANE,kane,PERSON
+CLOUD,cloud,PRODUCT
+GOOGLE_PIXEL_6,google pixel 6,ORG
+QUARTZ,quartz,ORG
+CHIP,chip,PERSON
+SHANGHAI_GIGAFACTORY,shanghai gigafactory,GPE
+HP_INC.,hp inc.,ORG
+SANDY_MAZZA,sandy mazza,PERSON
+ROBINHOOD,robinhood,ORG
+COMMISSIONS,commissions,ORG
+NICOLE_LEE,nicole lee,PERSON
+GLOBALFOUNDRIES_IPO,globalfoundries ipo,ORG
+MILES,miles,PERSON
+SEATTLE,seattle,GPE
+HUW_PILL,huw pill,PERSON
+LINKS,links,ORG
+HERTZ_TESLAS,hertz teslas,PERSON
+TESLA_3S,tesla 3s,PRODUCT
+MODEL_3S,model 3s,ORG
+REUTERS_NEWS,reuters news,ORG
+TARGET,target,GPE
+HARMONY_OS,harmony os,PERSON
+BILL,bill,PRODUCT
+HUAWEI_P40_PRO,huawei p40 pro,PERSON
+BRITAIN,britain,GPE
+THOMAS_PALLINIINSIDERTHE_PORTS,thomas palliniinsiderthe ports,PERSON
+CONSUMER_REPORTS,consumer reports,ORG
+FINANCE,finance,ORG
+DOD,dod,ORG
+JON_NGUYEN,jon nguyen,PERSON
+SEROKA_RETAILERS,seroka retailers,ORG
+ENERGY,energy,ORG
+FULLTIME,fulltime,ORG
+TAYLOR,taylor,GPE
+CONSOLES,consoles,ORG
+0.59,0.59,PRODUCT
+MPD_METROPOLITAN_POLICE_DEPARTMENT,mpd metropolitan police department,ORG
+SUV,suv,ORG
+IRAN,iran,GPE
+CENSUS,census,PERSON
+BOB,bob,PERSON
+RESIDENTS,residents,ORG
+ELECTRIC,electric,ORG
+BARTIROMO,bartiromo,PERSON
+PRIUSES,priuses,PRODUCT
+LIZ_SANCHEZ,liz sanchez,PERSON
+ATLANTA,atlanta,GPE
+WYSE,wyse,PERSON
+HERO_ENTERPRISE,hero enterprise,ORG
+OLA_ELECTRIC,ola electric,ORG
+NIO_EVS,nio evs,PRODUCT
+AVAGO_TECHNOLOGIES,avago technologies,ORG
+THE_U.S._GEOLOGICAL_SURVEY,the u.s. geological survey,ORG
+ENGLISH,english,LANGUAGE
+LEGISLATION,legislation,PERSON
+PENTIUM,pentium,ORG
+AM3,am3,PERSON
+2010,2010,PRODUCT
+WINDOWS_7,windows 7,PRODUCT
+BULLDOZER,bulldozer,PERSON
+2013,2013,PRODUCT
+RAJA_KODURI,raja koduri,PERSON
+2017,2017,PRODUCT
+THE_ENOUGH_PROJECT,the enough project,ORG
+CORONA,corona,GPE
+SOUTH_KOREA,south korea,GPE
+CDC,cdc,ORG
+PEOPLE,people,ORG
+WHO,who,ORG
+ITALY,italy,GPE
+WINTER,winter,PERSON
+OCEANIA,oceania,ORG
+NEW_ZEALAND,new zealand,GPE
+NORWAY,norway,GPE
+AMNESTY_INTERNATIONAL,amnesty international,ORG
+COVID23,covid23,ORG
+NICK_SZABO,nick szabo,PERSON
+ETHEREUM,ethereum,ORG
+401KS,401ks,GPE
+EL_SALVADOR,el salvador,GPE
+BITTREX,bittrex,ORG
+VENMO,venmo,ORG
+AUTHORS,authors,ORG
+JAMIE_DIMON,jamie dimon,PERSON
+HONEYWELL,honeywell,ORG
+GORDON_E._MOORE,gordon e. moore,PERSON
+VCCP,vccp,ORG
+THE_TOKYO_STOCK_EXCHANGE,the tokyo stock exchange,ORG
+WESTERN_DIGITAL,western digital,ORG
+KKR,kkr,ORG
+SHOWA_DENKO,showa denko,PERSON
+HITACHI_RAIL_ITALY,hitachi rail italy,ORG
+2016,2016,PRODUCT
+OFFICE_MAX_ANNOUNCED,office max announced,ORG
+JAMES_L._BUIE,james l. buie,PERSON
+INTEL_CORPORATION,intel corporation,ORG
+BARRETT,barrett,PERSON
+ZILOG,zilog,GPE
+INTELS_WIMAX,intels wimax,ORG
+INTEL_CLEAR,intel clear,ORG
+THE_EUROPEAN_COMMISSION,the european commission,ORG
+DELL,dell,ORG
+S._J._MATHES,s. j. mathes,PERSON
+RON_BURKLE,ron burkle,PERSON
+TIMES_TIMES,times times,ORG
+WALT_DISNEY_STUDIOS,walt disney studios,ORG
+THE_TIMES,the times,ORG
+BURBANK_LEADER,burbank leader,ORG
+TIMESMIRROR_BROADCASTING,timesmirror broadcasting,ORG
+THE_ISLAMIC_DELHI_SULTANATE,the islamic delhi sultanate,ORG
+INDIA,india,GPE
+ADMINISTRATION,administration,ORG
+JEANS,jeans,NORP
+HYATT,hyatt,PERSON
+SERVERS,servers,PERSON
+THE_BYTE_SHOP,the byte shop,ORG
+USB,usb,ORG
+AUDIO,audio,PERSON
+IRWIN_M._JACOBS,irwin m. jacobs,PERSON
+ARM_LTD.,arm ltd.,ORG
+HUGHES_AIRCRAFT,hughes aircraft,PERSON
+EUDORA,eudora,PRODUCT
+NATURE,nature,ORG
+AIRGO_NETWORKS,airgo networks,PERSON
+SNAPDRAGON,snapdragon,GPE
+KRYO,kryo,ORG
+RAM,ram,ORG
+JOSEON,joseon,PERSON
+SOUTH_KOREANS,south koreans,NORP
+BCE,bce,ORG
+GORYEO,goryeo,PERSON
+THE_KHITAN_EMPIRE,the khitan empire,GPE
+WANG_GEON,wang geon,PERSON
+DEAN_RUSK,dean rusk,PERSON
+THE_TEMPORARY_COMMISSION,the temporary commission,ORG
+NORTH_KOREA,north korea,GPE
+SEOUL,seoul,GPE
+THE_COVID19_PANDEMIC,the covid19 pandemic,ORG
+KOREA,korea,GPE
+HDPE,hdpe,ORG
+JAPANESE,japanese,NORP
+WWII,wwii,EVENT
+FORMOSA,formosa,GPE
+VERNACULAR_CHINESE,vernacular chinese,NORP
+KAOHSIUNG,kaohsiung,GPE
+THE_WORLD,the world,ORG
+PUTIN,putin,PERSON
+ZELENSKYY,zelenskyy,PERSON
+KYSELIVKA,kyselivka,GPE
+THE_KIEL_INSTITUTE,the kiel institute,ORG
+SP_GLOBAL,sp global,ORG
+THE_WII,the wii,ORG
+2012,2012,PRODUCT
+IWATA,iwata,ORG
+WII_FIT,wii fit,PERSON
+ARS_TECHNICA,ars technica,PERSON
+IMPA,impa,PERSON
+THE_VIRGINIA_COLONY,the virginia colony,ORG
+FLORIDA,florida,GPE
+DENMARK,denmark,GPE
+MOVEMENT.THE_UNITED_STATES,movement.the united states,GPE
+26TH,26th,PRODUCT
+AIR_FORCE,air force,ORG
+THE_2028_SUMMER_OLYMPICS,the 2028 summer olympics,EVENT
+GORES,gores,ORG
+GEORGE_W._BUSH,george w. bush,PERSON
+WEST_VIRGINIA,west virginia,GPE
+DEMOCRAT,democrat,NORP
+BARACK,barack,PERSON
+JUDY_WOODRUFF,judy woodruff,PERSON
+IOWA,iowa,GPE
+THE_DEMOCRATIC_PARTY,the democratic party,ORG
+CAUCUS,caucus,ORG
+THE_DEMOCRATIC_NATIONAL_CONVENTION,the democratic national convention,ORG
+DELEGATES,delegates,GPE
+OBAMA,obama,PERSON
+CLINTON,clinton,PERSON
+EDWARDS,edwards,PERSON
+CONNECTICUT,connecticut,GPE
+TOTAL,total,ORG
+KAINE,kaine,PERSON
+MCCAIN,mccain,PERSON
+PALIN,palin,GPE
+A_U.S._PRESIDENTIAL_FORUM,a u.s. presidential forum,ORG
+BUSH,bush,PERSON
+HILLARY_CLINTON,hillary clinton,PERSON
+ROMNEY,romney,PERSON
+SARAH_PALIN,sarah palin,PERSON
+STATES,states,GPE
+VOTERS,voters,ORG
+GEORGE_STEPHANOPOULOS,george stephanopoulos,PERSON
+IDAHO,idaho,GPE
+CANDIDATES,candidates,PERSON
+MILWAUKEE,milwaukee,GPE
+THE_WISCONSIN_CENTER,the wisconsin center,ORG
+SANDERS,sanders,ORG
+PRODUCER,producer,GPE
+MICHELLE_OBAMA,michelle obama,PERSON
+NANCY_PELOSI,nancy pelosi,PERSON
+URQUIZA,urquiza,PERSON
+FOX_NEWS,fox news,ORG
+BULLOCK,bullock,ORG
+THE_IOWA_CAUCUS,the iowa caucus,ORG
+KLOBUCHAR,klobuchar,ORG
+MODERATOR_LINSEY_DAVIS,moderator linsey davis,PERSON
+THE_NATIONAL_SECURITY_COUNCIL,the national security council,ORG
+EDUCATION,education,ORG
+JOE_BIDEN,joe biden,PERSON
+MSNBC,msnbc,ORG
+GEORGE_FLOYD,george floyd,PERSON
+LIBERAL,liberal,ORG
+COHOST_BRIAN_KILMEADE,cohost brian kilmeade,PERSON
+HUBERT_HUMPHREY,hubert humphrey,PERSON
+TRUMPS,trumps,PERSON
+ASIAN_AMERICANS,asian americans,NORP
+MURPHY,murphy,PERSON
+GOVERNORS,governors,ORG
+CAMPAIGN,campaign,ORG
+NATO,nato,ORG
+THE_BIDEN_INAUGURAL_COMMITTEE,the biden inaugural committee,ORG
+2015,2015,PRODUCT
+BUILDINGS,buildings,GPE
+SYSTEMS,systems,ORG
+ARPAE,arpae,ORG
+PARLIAMENT,parliament,ORG
+LAW,law,PERSON
+GRANTS,grants,ORG
+DYER,dyer,PERSON
+CHICAGO,chicago,GPE
+BESHEAR,beshear,ORG
+DANIEL_CAMERON,daniel cameron,PERSON
+ARTEMIS_1,artemis 1,ORG
+ARTEMIS,artemis,ORG
+NRHO,nrho,ORG
+NASA,nasa,ORG
+BLUE_ORIGIN,blue origin,ORG
+ORBITBEYONDS,orbitbeyonds,ORG
+LEO,leo,ORG
+CLPS,clps,ORG
+LOCKHEED_MARTIN,lockheed martin,PERSON
+GATEWAY,gateway,PERSON
+CBS,cbs,ORG
+THE_REPUBLICAN_NATIONAL_COMMITTEE,the republican national committee,ORG
+JOHN_MCCAIN,john mccain,PERSON
+JONATHAN_HOEFLER,jonathan hoefler,PERSON
+THE_CITIZENS_PARTY,the citizens party,ORG
+SUSAN_PAGE,susan page,PERSON
+NPR,npr,ORG
+ABBY_PHILLIP,abby phillip,PERSON
+NOAM_CHOMSKY,noam chomsky,PERSON
+THE_UNION_ADDRESS,the union address,ORG
+LARRY,larry,PERSON
+KIMMEL,kimmel,PERSON
+LAUNCH,launch,NORP
+JIM_CLYBURN,jim clyburn,PERSON
+KAMALA_HARRIS,kamala harris,PERSON
+AGREEMENT,agreement,PRODUCT
+THE_U.S._TREASURY_DEPARTMENT,the u.s. treasury department,ORG
+MEDICARE,medicare,ORG
+PELOSI,pelosi,PERSON
+PARENTS,parents,ORG
+PROTESTORS,protestors,ORG
+FIELD,field  ,PERSON
+THE_FEDERAL_GOVERNMENT,the federal government,ORG
+THE_PRESS_CONFERENCE,the press conference,ORG
+SYMPTOMS,symptoms,ORG
+MESSONNIER,messonnier,PERSON
+WALTER_REED,walter reed,PERSON
+OPINION,opinion,ORG
+MITCH_MCCONNELL,mitch mcconnell,PERSON
+MNUCHIN,mnuchin,ORG
+THE_NATION,the nation,ORG
+ANITA_HILL,anita hill,PERSON
+ANITA,anita,PERSON
+CLARENCE_THOMAS,clarence thomas,PERSON
+JOHN_DANFORTH,john danforth,PERSON
+MARK_PAOLETTA,mark paoletta,PERSON
+HISTORIANS,historians,NORP
+COLUMBUS,columbus,GPE
+THE_NATIONAL_ROAD,the national road,ORG
+JOHN_BROOKS,john brooks,PERSON
+FRANKLIN_PARK,franklin park,GPE
+THE_GREATER_COLUMBUS_CONVENTION_CENTER,the greater columbus convention center,ORG
+THE_DOI_SYSTEM,the doi system,ORG
+OPENURL,openurl,GPE
+THE_SELECTIVE_SERVICE_SYSTEM,the selective service system,ORG
+THE_HUNGARIAN_PEOPLES_REPUBLIC,the hungarian peoples republic,GPE
+WOODROW_WILSON,woodrow wilson,PERSON
+WAR_DEMOCRATS,war democrats,NORP
+ANDREW_JOHNSON,andrew johnson,PERSON
+RECONSTRUCTION,reconstruction,ORG
+AFRICAN_AMERICANS,african americans,NORP
+THE_NATIONAL_ELECTION_STUDIES_NES,the national election studies nes,ORG
+CUBAN_AMERICANS,cuban americans,NORP
+ARAB_AMERICANS,arab americans,NORP
+BLEWITT,blewitt,PERSON
+MARY_ANN_BLACKWELL,mary ann blackwell,PERSON
+FORDHAM_UNIVERSITY,fordham university,ORG
+MARLA,marla,GPE
+POLITICO,politico,PERSON
+DAVID_DUKE,david duke,PERSON
+HHS,hhs,ORG
+SANCTIONS,sanctions,PERSON
+PENCE,pence,ORG
+INDIVIDUAL1,individual1,ORG
+MISSISSIPPI,mississippi,GPE
+RESTRICTIONS,restrictions,PERSON
+WASTE,waste,PERSON
+HYDROGEN,hydrogen,PERSON
+PETE_BUTTIGIEG,pete buttigieg,PERSON
+ROBINETTE_BIDEN_III,robinette biden iii,PERSON
+ST._JOSEPHS,st. josephs,GPE
+HUNTER_BIDEN,hunter biden,PERSON
+THE_DELAWARE_HUMANE_ASSOCIATION,the delaware humane association,ORG
+JOE,joe,PERSON
+MARYLAND,maryland,GPE
+H.R._1,h.r. 1,PERSON
+NEWSOM,newsom,ORG
+WILLIE_BROWN,willie brown,PERSON
+TESSA_THOMAS_NÉE_MENZIES,tessa thomas née menzies,PERSON
+GORDON_GETTY,gordon getty,PERSON
+NEWSOMS,newsoms,NORP
+GONZALEZ,gonzalez,PERSON
+DIANNE_FEINSTEIN,dianne feinstein,PERSON
+NIMBYISM,nimbyism,ORG
+TRUDEAU,trudeau,PERSON
+JERUSALEM,jerusalem,GPE
+ETHIOPIA,ethiopia,GPE
+THE_TEXAS_LEGISLATURES,the texas legislatures,ORG
+THE_MORNING_NEWS,the morning news,ORG
+COURT,court,ORG
+THE_HOUSTON_CHRONICLE,the houston chronicle,ORG
+ABBOTTS,abbotts,PERSON
+JOHN_SCOTT,john scott,PERSON
+STARTUP_HEALTH,startup health,ORG
+CHENEY,cheney,PERSON
+WYOMING,wyoming,GPE
+BAGHDAD,baghdad,GPE
+PAUL_WOLFOWITZ,paul wolfowitz,PERSON
+RICHARD_DREYFUSS,richard dreyfuss,PERSON
+GOD,god,PERSON
+ANDREW_HODWITZ,andrew hodwitz,PERSON
+INOVA,inova,ORG
+WHITTINGTON,whittington,PERSON
+THE_U.S._NAVY_RESERVE,the u.s. navy reserve,ORG
+BURISMA,burisma,PERSON
+THE_UKRAINIAN_PARLIAMENT,the ukrainian parliament,ORG
+RUSLAN_RIABOSHAPKA,ruslan riaboshapka,PERSON
+KYIV,kyiv,PERSON
+JOHN_PAUL_MAC_ISAAC,john paul mac isaac,PERSON
+GIULIANI,giuliani,PERSON
+JAMES_TAYLOR,james taylor,PERSON
+LADY_GAGA,lady gaga,PERSON
+OPPOSITION,opposition,ORG
+MCCONNELL,mcconnell,PERSON
+MICHIGAN,michigan,GPE
+DUNNINGSS,dunningss,PERSON
+CASES,cases,PERSON
+WHITMER,whitmer,ORG
+CECILY_STRONG,cecily strong,ORG
+HASH_BASH,hash bash,PERSON
+PRITZKER,pritzker,PERSON
+PLANNED_PARENTHOOD,planned parenthood,ORG
+MILTON_ACADEMY,milton academy,ORG
+NOVA,nova,ORG
+STUDENTS,students,ORG
+JILL_BIDEN,jill biden,PERSON
+ANNIE_LEIBOVITZ,annie leibovitz,PERSON
+THE_INTERNATIONAL_SPACE_STATION,the international space station,ORG
+SPACE_SHUTTLE_ATLANTIS,space shuttle atlantis,PERSON
+STS132,sts132,PERSON
+ISS7A,iss7a  ,PERSON
+BOEING,boeing,ORG
+CRS10,crs10,ORG
+SUNITA_WILLIAMS,sunita williams,PERSON
+ASTRONAUT_SCOTT_KELLY,astronaut scott kelly,PERSON
+ASTRONAUTS,astronauts,ORG
+THE_ONION,the onion,ORG
+SAM_SANDERS,sam sanders,PERSON
+TIME_MAGAZINE,time magazine,ORG
+ILL,ill,PERSON
+DELAWARE,delaware,GPE
+CATHERINE_EUGENIA,catherine eugenia,PERSON
+ROBERT_BORK,robert bork,PERSON
+BERNIE_SANDERS,bernie sanders,ORG
+BILL_CLINTON,bill clinton,PERSON
+PAXLOVID,paxlovid,GPE
+FORTUNE_MAGAZINE,fortune magazine,ORG
+JOHN_F._KENNEDY,john f. kennedy,PERSON
+PAT_CADDELL,pat caddell,PERSON
+KINNOCK,kinnock,PERSON
+DENNIS_KUCINICH,dennis kucinich,PERSON
+READE,reade,ORG
+THE_WASHINGTON_POST,the washington post,ORG
+D.C.,d.c.,GPE
+TIMES_UP,times up,ORG
+LYNDA_LACASSE,lynda lacasse,PERSON
+ABC_NEWS,abc news,ORG
+MOULTON,moulton,GPE
+HARVEY_WEINSTEIN,harvey weinstein,PERSON
+DOUGLAS_WIGDOR,douglas wigdor,PERSON
+LAWRENCE_ODONNELL,lawrence odonnell,PERSON
+CONSERVATIVES,conservatives,NORP
+CORNYN,cornyn,ORG
+COOK_POLITICAL,cook political,PERSON
+CONCEALED_CARRY_RECIPROCITY,concealed carry reciprocity,PERSON
+BUHLE,buhle,PERSON
+THE_FOURTH_CIRCUIT,the fourth circuit,ORG
+FOLSOMS,folsoms,ORG
+IVEY,ivey,ORG
+JACKSON,jackson,PERSON
+MCCARTHY,mccarthy,PERSON
+THE_CALIFORNIA_STATE_ASSEMBLY,the california state assembly,ORG
+PETE_SESSIONS,pete sessions,PERSON
+MAXINE_WATERS,maxine waters,PERSON
+HELP,help,ORG
+BIN_LADEN,bin laden,PERSON
+THE_U.S._INTELLIGENCE_COMMUNITY,the u.s. intelligence community,ORG
+THE_KANSAS_SENATE,the kansas senate,ORG
+LAURA,laura,PERSON
+POSTS,posts,NORP
+GRAHAM,graham,PERSON
+OCONEE_COUNTY,oconee county,GPE
+STATEMENTS,statements,PERSON
+THE_SENATE_JUDICIARY_COMMITTEE,the senate judiciary committee,ORG
+STEELE,steele,NORP
+KEN_JEONG,ken jeong,PERSON
+CHAIR_OF,chair of,ORG
+TABLIGHI_IJTEMA,tablighi ijtema,PERSON
+US_SENATORS,us senators,ORG
+OPEC,opec,ORG
+THE_UNION_HOME_MINISTRY,the union home ministry,ORG
+MUKHTAR_ABBAS_NAQVI,mukhtar abbas naqvi,PERSON
+DELHI_POLICE,delhi police,ORG
+OFQUAL,ofqual,ORG
+WILLIAMSON,williamson,PERSON
+JESSE_KLAVER,jesse klaver,PERSON
+GEERT_WILDERS,geert wilders,PERSON
+THE_WORLD_HEALTH_ORGANIZATION,the world health organization,ORG
+MIN_AUNG_HLAING,min aung hlaing,PERSON
+MYANMAR,myanmar,GPE
+TATMADAW,tatmadaw,PERSON
+REPORTS,reports,ORG
+PROTESTERS,protesters,ORG
+WUHAN_UNIVERSITY,wuhan university,ORG
+KTV,ktv,ORG
+WEIBO,weibo,PRODUCT
+COVIDIEN,covidien,ORG
+OXYGEN,oxygen,ORG
+PHASE_III,phase iii,PRODUCT
+THE_MALAYSIAN_GOVERNMENT,the malaysian government,ORG
+MALAYSIANS,malaysians,NORP
+"RM2,000","rm2,000",PRODUCT
+CMCO,cmco,ORG
+MERCY_MALAYSIA,mercy malaysia,PERSON
+MCGEER,mcgeer,PERSON
+UPPSALA,uppsala,GPE
+TEGNELL,tegnell,ORG
+THE_THAI_RAK_THAI_PARTY,the thai rak thai party,ORG
+NAPIER,napier,GPE
+THE_ATLANTIC_BUBBLE,the atlantic bubble,ORG
+NEW_BRUNSWICK,new brunswick,GPE
+PRINCE_EDWARD_ISLAND,prince edward island,GPE
+FEROZ,feroz,PERSON
+GHANI,ghani,ORG
+INDIAN,indian,NORP
+ELI_LILLY,eli lilly,ORG
+RECOVERY,recovery,ORG
+ABCELLERA,abcellera,ORG
+BANGLADESH,bangladesh,GPE
+TAIWANS_SUPER_BASKETBALL_LEAGUE,taiwans super basketball league,ORG
+YAS_ISLAND,yas island,GPE
+THE_TAMPA_BAY_RAYS,the tampa bay rays,ORG
+CROZIER,crozier,ORG
+AYLWARD,aylward,ORG
+THE_EBOLA_RESPONSE,the ebola response,ORG
+ENGLAND,england,GPE
+NHS_DIGITAL,nhs digital,ORG
+DEATHS,deaths,PERSON
+CONTACT_TRACING,contact tracing,PERSON
+DOUGLAS_EDWARDS,douglas edwards,PERSON
+ANTHONY_FAUCI,anthony fauci,PERSON
+FAUCI,fauci,ORG
+NATIONAL_GEOGRAPHIC_DOCUMENTARY_FILMS,national geographic documentary films,ORG
+DIAMOND_ONLINE,diamond online,PERSON
+COVID‑19,covid‑19,PRODUCT
+HOSPITAL,hospital,ORG
+PARTICLES,particles,GPE
+THE_WUHAN_JIANGHAN_CDC,the wuhan jianghan cdc,ORG
+ALERT_LEVEL_2,alert level 2,PERSON
+ADVANCE_NZ,advance nz,ORG
+POLICE,police,ORG
+MEDIA,media,GPE
+WELLINGTON,wellington,GPE
+PAUL_WHITE,paul white,PERSON
+INDIVIDUALS,individuals,GPE
+THE_AUSTRALIAN_GOVERNMENT,the australian government,ORG
+BLUETOOTH_LOW_ENERGY_TECHNOLOGY,bluetooth low energy technology,ORG
+JORDANS,jordans,NORP
+MGCQ,mgcq,ORG
+GCQ,gcq,ORG
+ECQ,ecq,ORG
+MECQ,mecq,ORG
+SANTIAGO_CITY,santiago city,GPE
+METRO_MANILA,metro manila,PERSON
+LEADERS,leaders,ORG
+THE_UK_NATIONAL_HEALTH_SERVICE,the uk national health service,ORG
+DRUGS,drugs,PERSON
+THE_ROYAL_DEVON,the royal devon,ORG
+SARSCOV,sarscov,NORP
+WUHAN,wuhan,GPE
+WEST_BENGAL,west bengal,GPE
+MAHARASHTRA,maharashtra,ORG
+MANY_STATES,many states,GPE
+MOVEMENTS,movements,PERSON
+LOMBARDY,lombardy,ORG
+CONTE,conte,PERSON
+AUSTRALIAN,australian,NORP
+MIQ,miq,ORG
+IRELAND,ireland,GPE
+OPERATION_PROTECT,operation protect,ORG
+SYDNEY,sydney,GPE
+BRISBANE,brisbane,GPE
+FERNÁNDEZ,fernández,PERSON
+NICOLÁS_MADURO,nicolás maduro,PERSON
+CHLOROQUINE,chloroquine,PERSON
+JEWS,jews,NORP
+SARSCOV2,sarscov2,PRODUCT
+PIERS_CORBYN,piers corbyn,PERSON
+THE_CHINESE_GOVERNMENT,the chinese government,ORG
+INFECTIONS,infections,ORG
+PILGRIMS,pilgrims,NORP
+MYTHS,myths,GPE
+RIGANO,rigano,ORG
+THE_CHINESE_COMMUNIST_PARTY,the chinese communist party,ORG
+ABKHAZIA,abkhazia,GPE
+QOM,qom,GPE
+DAYKUNDI_PROVINCE,daykundi province,GPE
+TELEVISION,television,ORG
+RADIO,radio,ORG
+THE_CENTRAL_AFRICAN_REPUBLIC,the central african republic,GPE
+GABON,gabon,GPE
+THE_UNITED_KINGDOM,the united kingdom,GPE
+NIGERIA,nigeria,GPE
+THE_CANARY_ISLANDS,the canary islands,GPE
+CEUTA,ceuta,GPE
+MELILLA,melilla,GPE
+KHARTOUM,khartoum,GPE
+KENNEY,kenney,PERSON
+ALBERTA,alberta,GPE
+KEARL,kearl,PERSON
+FLORENCE,florence,GPE
+THE_RED_ZONES,the red zones,ORG
+ALGERIA,algeria,GPE
+AMERICAN_SAMOA,american samoa,ORG
+CORONAVIRUS,coronavirus,GPE
+MILAN,milan,GPE
+SINT_MAARTEN,sint maarten,PERSON
+ANGUILLA,anguilla,ORG
+ARMENIA,armenia,GPE
+CANADA_CANADA,canada canada,ORG
+ARUBA,aruba,GPE
+YUMA_REGIONAL_MEDICAL_CENTER,yuma regional medical center,ORG
+MARICOPA_COUNTY,maricopa county,GPE
+CACTUS_LEAGUE,cactus league,ORG
+THE_TUCUMÁN_PROVINCIAL_POLICE,the tucumán provincial police,ORG
+BAHÍA_BLANCA,bahía blanca,GPE
+LOUISIANA,louisiana,GPE
+SIHANOUKVILLE,sihanoukville,GPE
+GEORGIA,georgia,GPE
+INDONESIA,indonesia,GPE
+NIZAMUDDIN_MARKAZ,nizamuddin markaz,PERSON
+THE_ASTURIAN_GOVERNMENT,the asturian government,ORG
+LUARCA,luarca,GPE
+ASTURIAS,asturias,GPE
+BARCELONA,barcelona,GPE
+GIJÓN,gijón,GPE
+PRAVIA,pravia,GPE
+AUSTIN,austin,GPE
+ADLER,adler,PERSON
+SUPERMARKETS,supermarkets,ORG
+THE_ROYAL_HUMANITARIAN_FOUNDATION,the royal humanitarian foundation,ORG
+INDIANS,indians,NORP
+SITRA_MALL,sitra mall,ORG
+THE_ADVENTIST_MEDICAL_CENTER,the adventist medical center,ORG
+BARBADOS,barbados,PERSON
+DHAKA,dhaka,GPE
+GUANGZHOU,guangzhou,GPE
+VICTORIA,victoria,GPE
+DUBBO_HOSPITAL,dubbo hospital,ORG
+DARWIN,darwin,PERSON
+SAN_PEDRO_TOWN,san pedro town,GPE
+BELIZE,belize,GPE
+BERMUDA,bermuda,PERSON
+THE_DEPARTMENT_OF_HEALTH,the department of health,ORG
+BELARUS,belarus,GPE
+PERSONS,persons,GPE
+CURRENT_TIME_TV,current time tv,ORG
+CRÉPYENVALOIS,crépyenvalois,ORG
+ETTERBEEK,etterbeek,GPE
+BELGIUM,belgium,GPE
+BHUTAN,bhutan,GPE
+NEW_DELHI,new delhi,GPE
+DOHA,doha,GPE
+RESIN,resin,ORG
+INFINEON_TECHNOLOGIES,infineon technologies,ORG
+BROADCOM_CORPORATION,broadcom corporation,ORG
+NETFLIX,netflix,ORG
+THE_JAPAN_METEOROLOGICAL_AGENCY,the japan meteorological agency,ORG
+A_STATE_OF_EMERGENCY,a state of emergency,ORG
+THE_JAPAN_DIGITAL_ARCHIVE,the japan digital archive,ORG
+UNION,union,ORG
+ADVANCED_MICRO_COMPUTERS,advanced micro computers,ORG
+AMD_OF,amd of,ORG
+XILINX,xilinx,GPE
+NEXGEN,nexgen,ORG
+PHENOM_II,phenom ii,PERSON
+MAGNY_COURS,magny cours,ORG
+LAPTOPS,laptops,NORP
+PILEDRIVER,piledriver,PERSON
+AMD_RYZEN_MOBILE_4000,amd ryzen mobile 4000,PRODUCT
+ATI,ati,ORG
+RTG,rtg,ORG
+THE_AMD_EMBEDDED_GSERIES_ACCELERATED_PROCESSING_UNIT,the amd embedded gseries accelerated processing unit,ORG
+RADEON,radeon,ORG
+MMX,mmx,ORG
+TEDROS_ADHANOM_GHEBREYESUS,tedros adhanom ghebreyesus,PERSON
+QUARANTINES,quarantines,PERSON
+JAPANS,japans,NORP
+GOLD,gold,ORG
+POW,pow,ORG
+BITCOIN_GOLD,bitcoin gold,ORG
+SUPPORT,support,ORG
+JOURNAL,journal,ORG
+VCC,vcc,ORG
+HITACHI,hitachi,ORG
+GENERAL_ELECTRIC,general electric,ORG
+HITACHI_CHEMICAL,hitachi chemical,ORG
+FINMECCANICA,finmeccanica,GPE
+HGST,hgst,ORG
+IHS_MARKIT_LTD,ihs markit ltd,ORG
+FULLER,fuller,PERSON
+TTL,ttl,ORG
+MICROPROCESSORS,microprocessors,GPE
+FAIRCHILD_SEMICONDUCTOR,fairchild semiconductor,ORG
+ANDROID_2.3,android 2.3,ORG
+ANDY_GROVE,andy grove,PERSON
+INTEL_GLOBAL_DIVERSITY,intel global diversity  ,ORG
+PASSWORDBOX,passwordbox,ORG
+ERICSSON,ericsson,ORG
+CENTRINO,centrino,ORG
+THE_MIRROR_COMPANY,the mirror company,ORG
+METROMIX,metromix,ORG
+THE_PASADENA_SUN,the pasadena sun,ORG
+THE_GLENDALE_NEWSPRESS,the glendale newspress,ORG
+KTBCTV,ktbctv,ORG
+NORTH_INDIA,north india,GPE
+139TH,139th,PERSON
+SONY_PLAYSTATION_PLUS,sony playstation plus,ORG
+R3000_1989,r3000 1989,EVENT
+HEADPHONES,headphones,ORG
+MICROSOFT_OUTLOOK,microsoft outlook,ORG
+THE_ALLSEEN_ALLIANCE,the allseen alliance,ORG
+QUALCOMM_LIFE,qualcomm life,ORG
+THE_INTERNATIONAL_TRADE_COMMISSION,the international trade commission,ORG
+DIATOMS,diatoms,ORG
+JAVA_SE,java se,ORG
+QUALCOMM_SNAPDRAGON,qualcomm snapdragon,PERSON
+SRAM,sram,ORG
+HAN,han,NORP
+GIJA_JOSEON,gija joseon,PERSON
+BAEKJE,baekje,PERSON
+BALHAE,balhae,GPE
+ELECTIONS,elections,ORG
+BUDDHISM,buddhism,NORP
+THE_LIANCOURT_ROCKS,the liancourt rocks,GPE
+THE_ASIAN_GAMES,the asian games,EVENT
+THE_WINTER_UNIVERSIADE,the winter universiade,ORG
+THE_KOREAN_GRAND_PRIX,the korean grand prix,EVENT
+CLASSICAL_CHINESE,classical chinese,NORP
+THE_2009_WORLD_GAMES,the 2009 world games,EVENT
+TAEKWONDO,taekwondo,ORG
+KHERSON,kherson,ORG
+PROTESTS,protests,NORP
+OLAF_SCHOLZ,olaf scholz,ORG
+EMMANUEL_MACRON,emmanuel macron,PERSON
+OLEKSANDRIVKA,oleksandrivka,GPE
+84.2B,84.2b,PERSON
+DONBAS,donbas,GPE
+GENYO_TAKEDA,genyo takeda,PERSON
+REMOTE,remote,ORG
+THE_WII_BALANCE_BOARD,the wii balance board,ORG
+LINK,link,ORG
+ZELDA_II,zelda ii,PERSON
+HARVARD_COLLEGE,harvard college,ORG
+THE_CONTINENTAL_ARMY,the continental army,ORG
+THE_U.S._VIRGIN_ISLANDS,the u.s. virgin islands,GPE
+ISRAEL,israel,GPE
+THE_GLOBAL_POSITIONING_SYSTEM,the global positioning system,ORG
+2ND,2nd,PRODUCT
+EIGHT_OLYMPIC_GAMES,eight olympic games,EVENT
+THE_2020_PRESIDENTIAL_ELECTION,the 2020 presidential election,EVENT
+DUKAKIS,dukakis,PERSON
+TREASURER_ANN_RICHARDS,treasurer ann richards,PERSON
+RUSH_HOLT,rush holt,PERSON
+SUSSEX_COUNTY,sussex county,GPE
+BOGGS,boggs,PERSON
+PBS,pbs,ORG
+GRAVEL,gravel,GPE
+THE_COMPASSION_FORUM,the compassion forum,EVENT
+OBAMAS,obamas,PERSON
+CLINTONS,clintons,PERSON
+DAVID_AXELROD,david axelrod,PERSON
+THE_IRAQ_WAR,the iraq war,EVENT
+DEMOCRATIC,democratic,NORP
+RUDY_GIULIANI,rudy giuliani,PERSON
+MODERATORS_CHARLES_GIBSON,moderators charles gibson,PERSON
+THE_D.C._CIRCUIT,the d.c. circuit,ORG
+VOTES,votes,PERSON
+RYANS,ryans,NORP
+ROMAN_CATHOLICS,roman catholics,NORP
+FENCING,fencing,GPE
+JOHN_LEWIS,john lewis,PERSON
+SWALWELL,swalwell,ORG
+CLIMATE_ACTION,climate action,ORG
+PRESIDENTIAL_PRIMARIES,presidential primaries,ORG
+WALLACE,wallace,PERSON
+RICHARD_NIXON,richard nixon,PERSON
+UNITY,unity,GPE
+THE_TAX_CUTS,the tax cuts,ORG
+THE_PARIS_AGREEMENT,the paris agreement,ORG
+VICTORY,victory,PERSON
+ARIZONA,arizona,GPE
+GROUND,ground,ORG
+ARUN_MAJUMDAR,arun majumdar,PERSON
+BIOFUELS,biofuels,PERSON
+THE_ENERGY_INNOVATION_SUMMIT,the energy innovation summit,ORG
+HEU,heu,ORG
+KIRIBATI,kiribati,GPE
+JOSEPH_MERCOLA,joseph mercola,PERSON
+AIRCRAFT,aircraft,ORG
+BEVIN,bevin,GPE
+STATE_GOVERNMENTS,state governments,ORG
+HLS,hls,ORG
+PPE,ppe,ORG
+MASTEN_SPACE_SYSTEMS,masten space systems,ORG
+FIREFLY_AEROSPACE,firefly aerospace,PERSON
+STARSHIP_HLS,starship hls,PRODUCT
+THE_SPACEX_FALCON_HEAVY,the spacex falcon heavy,ORG
+ORION,orion,ORG
+DRAGON_XL,dragon xl,ORG
+YOUNG_SHELDON,young sheldon,PERSON
+THE_FEDERAL_ELECTION_COMMISSION,the federal election commission,ORG
+GOTHAM,gotham,ORG
+JOSS_STONE,joss stone,PERSON
+BEAU,beau,PERSON
+BROOKLYN_COLLEGE,brooklyn college,ORG
+THE_VIETNAM_WAR,the vietnam war,EVENT
+LINDA_NIEDWESKE,linda niedweske,PERSON
+GREG_GUMA,greg guma,PERSON
+ALLIES,allies,ORG
+ELIZABETH_WARREN,elizabeth warren,PERSON
+BLACK_LIVES_MATTER,black lives matter,ORG
+VERMONTS_LIBERTY_UNION_PARTY,vermonts liberty union party,ORG
+JESSE_JACKSON,jesse jackson,PERSON
+THE_FOUNDATION,the foundation,ORG
+THE_ELECTORAL_COLLEGE,the electoral college,ORG
+SCIENCE,science,ORG
+BITFINEX,bitfinex,PERSON
+BLENDER.IO,blender.io,GPE
+TAXATION,taxation,ORG
+NAME,name,NORP
+THE_HOUSE_RULES_COMMITTEE,the house rules committee,ORG
+ACTIVISTS,activists,NORP
+SENATORS_MANCHIN,senators manchin,PERSON
+HOSPITALS,hospitals,ORG
+THE_WHITE_HOUSES,the white houses,ORG
+DISRUPTION,disruption,PERSON
+CHRISTI_GRIMM,christi grimm,ORG
+HISTORICALLY_BLACK_COLLEGES,historically black colleges,ORG
+CLAY,clay,GPE
+WENDELL_PIERCE,wendell pierce,PERSON
+BILL_IRWIN,bill irwin,PERSON
+DANIEL_SAULI,daniel sauli,PERSON
+ZOE_LISTERJONES,zoe listerjones,PERSON
+THE_OHIO_COUNTRY,the ohio country,ORG
+THE_CHRISTOPHER_COLUMBUS_QUINCENTENNIAL_JUBILEE,the christopher columbus quincentennial jubilee,ORG
+THE_OHIO_HISTORY_CONNECTION,the ohio history connection,ORG
+OHIO_ROLLER_DERBY,ohio roller derby,ORG
+OHIO_ROLLER_GIRLS,ohio roller girls,ORG
+THE_JUNETEENTH_OHIO_FESTIVAL,the juneteenth ohio festival,ORG
+THE_ASIAN_FESTIVAL,the asian festival,EVENT
+HIGHBALL_HALLOWEEN,highball halloween,ORG
+THE_HANDLE_SYSTEM,the handle system,ORG
+DOI,doi,ORG
+TERRY,terry,ORG
+NORTHERN_DEMOCRATS,northern democrats,NORP
+LINCOLN,lincoln,ORG
+REDEEMERS,redeemers,ORG
+MONDALE,mondale,PERSON
+CONFLICT,conflict,GPE
+HAMAS,hamas,ORG
+SURVEYS,surveys,ORG
+REPUBLICAN,republican,NORP
+DEB_HAALAND,deb haaland,PERSON
+LAFAYETTE_COLLEGE,lafayette college,ORG
+HARRAHS,harrahs,ORG
+CASINO,casino,PRODUCT
+MITT_ROMNEY,mitt romney,PERSON
+KIM,kim,PERSON
+COURTS,courts,ORG
+BOB_WOODWARD,bob woodward,PERSON
+FLYNN,flynn,PERSON
+UKRAINE_VOLODYMYR_ZELENSKYY,ukraine volodymyr zelenskyy,ORG
+TRAVELLERS,travellers,ORG
+THE_KEYSTONE_PIPELINE,the keystone pipeline,ORG
+HALLIE_OLIVERE,hallie olivere,PERSON
+MELISSA_COHEN,melissa cohen,PERSON
+WILLIAM_BIDEN,william biden,PERSON
+MELANIA_TRUMP,melania trump,PERSON
+DEBATE,debate,ORG
+REDWOOD_HIGH_SCHOOL,redwood high school,ORG
+THE_PLUMPJACK_WINERY,the plumpjack winery,ORG
+500,500,PRODUCT
+UNITE,unite,ORG
+THE_URBANRURAL_ROUNDTABLE,the urbanrural roundtable,ORG
+ASSEMBLYWOMAN_SHIRLEY_WEBER,assemblywoman shirley weber,ORG
+XAVIER_BECERRA,xavier becerra,PERSON
+HUNTINGTON_BEACH,huntington beach,GPE
+TEMPORARY_PROTECTED_STATUS,temporary protected status,ORG
+HIMARS,himars,ORG
+COVID19_CHINA,covid19 china,ORG
+THE_U.N._GENERAL_ASSEMBLY,the u.n. general assembly,ORG
+THE_AFGHAN_GOVERNMENT,the afghan government,ORG
+THE_AFGHAN_NATIONAL_ARMY,the afghan national army,ORG
+TIGRAY,tigray,NORP
+SUDAN,sudan,GPE
+BRAZIL,brazil,GPE
+THE_OBAMA_ADMINISTRATION,the obama administration,ORG
+SONY_BMG,sony bmg,ORG
+OVERSIGHT,oversight,PRODUCT
+MEXICANS,mexicans,NORP
+POLITIFACT,politifact,PRODUCT
+THE_NATIONAL_GUARD,the national guard,ORG
+ABBOTTVILLE,abbottville,ORG
+WENDY_DAVIS,wendy davis,PERSON
+KREIN,krein,GPE
+YALE_UNIVERSITY,yale university,ORG
+JOHN_TOWER,john tower,PERSON
+SADDAM_HUSSEIN,saddam hussein,PERSON
+THE_GULF_WAR,the gulf war,EVENT
+THE_AMERICAN_ENTERPRISE_INSTITUTE,the american enterprise institute,ORG
+DONALD_RUMSFELD,donald rumsfeld,PERSON
+GEORGE_TENET,george tenet,PERSON
+LIBBY,libby,PERSON
+CHENEY_WYOMING,cheney wyoming,PERSON
+LIZ,liz,PERSON
+OLIVER_STONE,oliver stone,PERSON
+DICK_CHENEYS_AMERICA,dick cheneys america,PERSON
+ASHLEY,ashley,PERSON
+HUNTER,hunter,PERSON
+SHOKIN,shokin,GPE
+LUTSENKO,lutsenko,PERSON
+KATHLEEN_BUHLE,kathleen buhle,PERSON
+MAC_ISAAC,mac isaac,PERSON
+LEV_PARNAS,lev parnas,PERSON
+ICE,ice,ORG
+FRONTERAS,fronteras,GPE
+THE_NATIONAL_ANTHEM,the national anthem,ORG
+MICHIGANS,michigans,NORP
+EXECUTIVE_ORDERS,executive orders,ORG
+JAY_ROBERT_J._B._PRITZKER,jay robert j. b. pritzker,PERSON
+CHICAGO_VENTURES,chicago ventures,ORG
+MIGUEL_PEREZ_JR.,miguel perez jr.,PERSON
+ILLINOIS,illinois,GPE
+THE_PRITZKER_SCIENCE_CENTER,the pritzker science center,ORG
+MASS,mass,PERSON
+REBOUND_COVID,rebound covid,PERSON
+VIRGINIA,virginia,GPE
+CORNWALL,cornwall,GPE
+VATICAN_CITY,vatican city,GPE
+POPE_FRANCIS,pope francis,PERSON
+LAURA_KIM,laura kim,PERSON
+ALPHA,alpha,GPE
+RASSVET,rassvet,GPE
+THE_JOINT_AIRLOCK,the joint airlock,ORG
+HARMONY,harmony,ORG
+RASSVET_RUSSIAN_РАССВЕТ,rassvet russian рассвет,PERSON
+SAGE_IIIISS,sage iiiiss,ORG
+AXIOM_SPACE,axiom space,PERSON
+MBSU1,mbsu1,PERSON
+THE_YEAR,the year,EVENT
+LUCY_FLORES,lucy flores,ORG
+KETANJI_BROWN_JACKSON,ketanji brown jackson,PERSON
+JOSEPH_ROBINETTE_BIDEN_JR.,joseph robinette biden jr.,PERSON
+HILL_BIDEN,hill biden,PERSON
+IRAQ,iraq,GPE
+HITLER,hitler,PERSON
+KOSOVO,kosovo,GPE
+SIDWELL_FRIENDS_SCHOOL,sidwell friends school,ORG
+ISIL,isil,ORG
+VLADIMIR_PUTIN,vladimir putin,PERSON
+THE_ARMENIAN_GENOCIDE,the armenian genocide,ORG
+THEODORE_ROOSEVELTS,theodore roosevelts,PERSON
+XENOPHOBIA,xenophobia,GPE
+KATIE_HALPER,katie halper,PERSON
+NATIONAL_PUBLIC_RADIO_NPR,national public radio npr,ORG
+NEWSWEEK,newsweek,ORG
+JOSEPH_BACKHOLM,joseph backholm,PERSON
+MCGANN,mcgann,PERSON
+KELLY_KLETT,kelly klett,PERSON
+SAVAGE,savage,ORG
+ARTICLES,articles,GPE
+LIBERALS,liberals,NORP
+THE_TEXAS_INTERNET_BUREAU,the texas internet bureau,ORG
+LEAN_REPUBLICAN,lean republican,PERSON
+SAMUEL_ALITO,samuel alito,PERSON
+MERRICK_GARLAND,merrick garland,PERSON
+SCALIA,scalia,PERSON
+ROE,roe,ORG
+CRUZ,cruz,PERSON
+PENSIONS,pensions,ORG
+HB_589,hb 589,ORG
+BENTLEY,bentley,PERSON
+RUBY_L._PERRY,ruby l. perry,PERSON
+BREYER,breyer,GPE
+MARSHALL,marshall,PERSON
+THE_CALIFORNIA_YOUNG_REPUBLICANS,the california young republicans,ORG
+THE_YOUNG_REPUBLICAN_NATIONAL_FEDERATION,the young republican national federation,ORG
+JEB_HENSARLING,jeb hensarling,PERSON
+ROHRABACHER,rohrabacher,PERSON
+PAUL_RYAN,paul ryan,PERSON
+BOEHNER,boehner,PERSON
+ALQAEDA,alqaeda,ORG
+ALZAWAHIRI,alzawahiri,PERSON
+KANSANS,kansans,NORP
+THE_KANSAS_LEGISLATURE,the kansas legislature,ORG
+KANCARE,kancare,ORG
+KANSAS,kansas,GPE
+DARK_BRANDON,dark brandon,PERSON
+LINDSEY_OLIN_GRAHAM,lindsey olin graham,PERSON
+BRAD_RAFFENSPERGER,brad raffensperger,PERSON
+TEA_PARTY,tea party,ORG
+KAVANAUGH,kavanaugh,ORG
+HISTORY,history,GPE
+LIEBERMAN,lieberman,NORP
+SAUDI_ARABIA,saudi arabia,GPE
+CHRIS_WALLACE,chris wallace,PERSON
+ANDREW_YANG,andrew yang,PERSON
+KIRSTEN_GILLIBRAND,kirsten gillibrand,PERSON
+MARKAZ,markaz,GPE
+THE_JANATA_CURFEW,the janata curfew,ORG
+DELHI_HIGH_COURT,delhi high court,ORG
+JAMAAT,jamaat,GPE
+OCR,ocr,ORG
+SINGAPOREANS,singaporeans,NORP
+PARTYS,partys,ORG
+TRADE,trade,ORG
+BLACK_THURSDAY,black thursday,EVENT
+THE_STATE_ADMINISTRATION_COUNCIL,the state administration council,ORG
+FDA,fda,ORG
+HEALTH_CODE,health code,ORG
+ALISON_ALISON,alison alison,PERSON
+NEWPORT,newport,ORG
+ABDALA,abdala,GPE
+RM600_MILLION,rm600 million,ORG
+HOUSEHOLDS,households,PERSON
+LENA_EINHORN,lena einhorn,PERSON
+ANUTIN,anutin,ORG
+BLOOMFIELD,bloomfield,GPE
+THE_PEI_PASS,the pei pass,ORG
+MATHEMATICS,mathematics,PRODUCT
+IMPERIAL_COLLEGE_LONDON,imperial college london,ORG
+PHASE,phase,GPE
+BAMLANIVIMAB,bamlanivimab,ORG
+BARICITINIB,baricitinib,PERSON
+BEBTELOVIMAB,bebtelovimab,ORG
+GLOBE,globe,PERSON
+PLAY,play,ORG
+UFC,ufc,ORG
+TROPICANA_FIELD,tropicana field,ORG
+GILDAY,gilday,PERSON
+WALTER_CRONKITE,walter cronkite,PERSON
+CATHOLIC,catholic,NORP
+CORNELL_UNIVERSITYS_MEDICAL_COLLEGE,cornell universitys medical college,ORG
+WEILL_CORNELL_MEDICINE,weill cornell medicine,ORG
+FAUCIS,faucis,ORG
+MADDOW,maddow,ORG
+MAGNOLIA_PICTURES,magnolia pictures,ORG
+REAGAN,reagan,PERSON
+COH04S1,coh04s1,ORG
+HIROSE,hirose,PERSON
+THE_SOLIDARITY_TRIAL,the solidarity trial,PRODUCT
+THE_HEALTH_MINISTRY,the health ministry,ORG
+TE_KAHIKA,te kahika,ORG
+ANTIVACCINE,antivaccine,GPE
+TAMAKI,tamaki,GPE
+HEALTH_NZ,health nz,ORG
+MOSCOW,moscow,GPE
+APP,app,PERSON
+ZAMBOANGA_CITY,zamboanga city,GPE
+CATBALOGAN,catbalogan,PERSON
+TUGUEGARAO,tuguegarao,ORG
+THE_CITY_OF,the city of,GPE
+ILOILO_CITY,iloilo city,ORG
+LANAO_DEL_SUR,lanao del sur,ORG
+NORTHERN_SAMAR,northern samar,GPE
+SANTIAGO,santiago,GPE
+ISABELA,isabela,GPE
+LAOAG,laoag,GPE
+PASSI,passi,PERSON
+THE_GREATER_MANILA_AREA,the greater manila area,ORG
+QUIRINO,quirino,PERSON
+ABRA,abra,PERSON
+QUEZON,quezon,GPE
+PALAWAN,palawan,GPE
+MOUNTAIN_PROVINCE,mountain province,GPE
+COTABATO_CITY,cotabato city,GPE
+ALERT_LEVEL_3,alert level 3,PERSON
+CORD19,cord19,PRODUCT
+GUIDANCE,guidance,PRODUCT
+MALARIA,malaria,GPE
+LOCKDOWNS,lockdowns,NORP
+RED_ZONE,red zone,GPE
+ITALIANS,italians,NORP
+BAHRAIN,bahrain,GPE
+COLOMBIA,colombia,GPE
+SARSCOV19,sarscov19,GPE
+IRANIAN,iranian,NORP
+MUSLIMS,muslims,NORP
+VIDEOS,videos,PERSON
+FATIMA_MASUMEH_SHRINE,fatima masumeh shrine,ORG
+JOE_ROGAN,joe rogan,PERSON
+BILL_GATES,bill gates,PERSON
+SPREAD,spread,NORP
+ANIMALS,animals,GPE
+LESSONS,lessons,PERSON
+THE_ALABAMA_911_BOARD,the alabama 911 board,ORG
+CASINOS,casinos,ORG
+TEACHERS,teachers,ORG
+FIER,fier,ORG
+SKIKDA,skikda,PERSON
+THE_FESCO_ASKOLD,the fesco askold,ORG
+THE_ANGUILLIAN_NEWSPAPER,the anguillian newspaper,ORG
+SHELTER_IN_PLACE,shelter in place,ORG
+AMUNDSENSCOTT_SOUTH_POLE_STATION,amundsenscott south pole station,ORG
+PASSENGERS,passengers,ORG
+NATIVE_AMERICANS,native americans,NORP
+ADHS,adhs,ORG
+NASCAR,nascar,ORG
+COUNTRY,country,ORG
+HUBEI,hubei,GPE
+TMCH,tmch,ORG
+JMCH,jmch,GPE
+PHASE_2,phase 2,PRODUCT
+MAJORCA,majorca,NORP
+GRADO,grado,GPE
+SXSW,sxsw,ORG
+FEVER,fever,PERSON
+THE_FEENA_KHAIR,the feena khair,ORG
+TAWI_TAWI,tawi tawi,PERSON
+LOCKDOWN,lockdown,ORG
+HABIBA_SULTANA,habiba sultana,PERSON
+NEW_SOUTH_WALES,new south wales,GPE
+BELIZEANS,belizeans,NORP
+SAINT_NICHOLAS_DAY,saint nicholas day,PERSON
+BHUTANESE,bhutanese,NORP

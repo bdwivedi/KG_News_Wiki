@@ -1,0 +1,1387 @@
+:START_ID,:END_ID,:TYPE,subject_entity,object_entity,source_type
+goldman sachs gs.n,marvell,upgrade,ORG,ORG,News
+apple,vendors,instruct,ORG,PRODUCT,News
+abada,bitfly,recommend,PERSON,PERSON,News
+south africa,sales,run,GPE,PRODUCT,News
+apple,iphone,slash,ORG,ORG,News
+william huffhine,success,find,PERSON,ORG,News
+rivian,r.j. scaringe,add,NORP,PERSON,News
+shortages,consumers,harm,ORG,GPE,News
+the commerce department,warren,use,ORG,PERSON,News
+americans,biden,blame,NORP,PERSON,News
+china,taiwan,invade,GPE,GPE,News
+chips,stateside,build,ORG,PRODUCT,News
+lucid motors,tesla,surpass,ORG,PRODUCT,News
+tesla,revenue,generate,PRODUCT,PRODUCT,News
+clients,analyst daniel ives,raise,ORG,ORG,News
+2022,china,represent,PRODUCT,GPE,News
+clients,analyst daniel ives,write,ORG,ORG,News
+tesla,model s,tell,PRODUCT,ORG,News
+homeowners,money,spend,ORG,ORG,News
+kate vale,aliavia ventures,launch,PERSON,ORG,News
+elon musks,twitter,troll,PERSON,GPE,News
+spotify,whooshkaa,acquire,PERSON,ORG,News
+rapidpay,quickapay,acquire,ORG,ORG,News
+houzz,conx,acquire,PERSON,ORG,News
+hertz,customers,induce,GPE,ORG,News
+alexoracle,cerner,buy,ORG,PRODUCT,News
+companies,risks,detect,ORG,PRODUCT,News
+tesla tsla,sales,ramp,PERSON,PRODUCT,News
+apple,apple glasses,anticipate,ORG,ORG,News
+hearsch,cnbc,tell,PERSON,ORG,News
+troy ford,hertz,prefer,ORG,GPE,News
+intelligencer,heller,tell,GPE,PERSON,News
+zipcar,heller,pay,GPE,PERSON,News
+cisco systems,socio labs,boost,ORG,PERSON,News
+cisco systems,hybridization,tout,ORG,GPE,News
+cisco systems,share,gain,ORG,ORG,News
+cisco systems,broadsoft,buy,ORG,ORG,News
+cisco systems,duo security,acquire,ORG,ORG,News
+duo security,cisco systems,bolster,ORG,ORG,News
+cisco systems,share,lose,ORG,ORG,News
+arista,share,gain,ORG,ORG,News
+arista,cisco systems,beat,ORG,ORG,News
+cisco systems,business,gain,ORG,GPE,News
+time,the fed,aim,ORG,ORG,News
+job openings,wages,exceed,ORG,PERSON,News
+companies,santas,provide,ORG,ORG,News
+thanksgiving,allen,sell,EVENT,PERSON,News
+need,shoppers,incentivize,PERSON,PERSON,News
+victorias secret,money,leave,PERSON,ORG,News
+bloomberg news,plants,report,ORG,ORG,News
+dollar tree,products,sell,ORG,ORG,News
+companies,sales,lose,ORG,PRODUCT,News
+analyst dan ives,cnn business,tell,PERSON,ORG,News
+facebook,facebook meta,rename,PERSON,PERSON,News
+companies,money,borrow,ORG,ORG,News
+the biden administration,the us,blanket,ORG,ORG,News
+ford,the f150 lightning,sell,ORG,PRODUCT,News
+families,the new year,start,ORG,EVENT,News
+families,the white house,send,ORG,ORG,News
+tesla,1.2,gain,PRODUCT,PRODUCT,News
+drives,arista networks,sell,PERSON,PERSON,News
+ward,marketwatch,tell,ORG,ORG,News
+everyone,inc.,chase,ORG,ORG,News
+robloxprivately,niantic inc.,hold,ORG,ORG,News
+zynga,ads,earn,PERSON,ORG,News
+the federal reserve,inflation,fight,ORG,ORG,News
+shortfalls,tesla,work,ORG,PRODUCT,News
+pickup truck,teslas,longawaite,ORG,ORG,News
+tesla,germany,receive,PRODUCT,GPE,News
+workers,elon musk,push,ORG,PERSON,News
+employers,talent,retain,GPE,ORG,News
+2022,ohio,shift,PRODUCT,GPE,News
+companies,ohio,shift,ORG,GPE,News
+the u.s.,plants,build,ORG,ORG,News
+firms,chip shortages,face,ORG,PERSON,News
+nasdaq,2021,end,ORG,PRODUCT,News
+tesla,0.3,dip,PRODUCT,PRODUCT,News
+production materials,times,lead,ORG,ORG,News
+sales,4.6,fall,PRODUCT,PRODUCT,News
+toyota,general motors,unseat,ORG,ORG,News
+rival toyota,sales,increase,PERSON,PRODUCT,News
+americas,automaker,topselle,PERSON,PERSON,News
+features,buyers,charge,ORG,ORG,News
+buyers,features,miss,ORG,ORG,News
+dustin krause,tesla,join,ORG,PRODUCT,News
+christopher van dyke,tesla,cofounde,PERSON,PRODUCT,News
+christopher van dyke,insider,tell,PERSON,PERSON,News
+greg reichow,insider,tell,PERSON,PERSON,News
+carlsson,tesla,leave,PERSON,PRODUCT,News
+carlsson,insider,tell,PERSON,PERSON,News
+supply,demand,outstrip,ORG,ORG,News
+ford,the f150 lightning,announce,ORG,ORG,News
+demand,amazon,destroy,ORG,ORG,News
+companies,goods,retrieve,ORG,ORG,News
+kelley blue book,shoppers,expand,ORG,PERSON,News
+tesla,5.4,slide,PRODUCT,PRODUCT,News
+micron technology inc.,central texas,consider,ORG,ORG,News
+micron,chips,stockpile,ORG,ORG,News
+businesses,jobs,fill,PERSON,PERSON,News
+bloomberg,data,compile,PERSON,ORG,News
+hill,techcrunch,tell,ORG,ORG,News
+brands,inventory,feed,ORG,ORG,News
+nike,dsw,leave,ORG,PERSON,News
+stores,nike,carry,ORG,ORG,News
+dsw,nike,sell,PERSON,ORG,News
+dsw,nike,replace,PERSON,ORG,News
+covid19,innovation,accelerate,PERSON,NORP,News
+australia,furman,stay,GPE,PERSON,News
+canon,customers,bypass,PRODUCT,ORG,News
+u.s.,china,cut,GPE,GPE,News
+consumers,goods,buy,GPE,ORG,News
+demand,supply,outstrip,ORG,ORG,News
+nicolas peter,reuters,tell,PERSON,ORG,News
+nothing,demand,reduce,GPE,ORG,News
+2019,tesla,announce,PRODUCT,PRODUCT,News
+2023,cybertruck,delay,PRODUCT,ORG,News
+intel,greater columbus,pick,ORG,PERSON,News
+sellers,mpb,fill,ORG,ORG,News
+ford,spin,divest,ORG,ORG,News
+ford,techcrunch ford,tell,ORG,ORG,News
+gogoro,taiwan,dominate,ORG,GPE,News
+rivian,techcrunch,tell,NORP,ORG,News
+cake,dometics,mount,PERSON,ORG,News
+cadence,apps,acquire,ORG,ORG,News
+cadence,chips,acquire,ORG,ORG,News
+tesla,2021,start,PRODUCT,PRODUCT,News
+inc. report,peloton,replace,ORG,PERSON,News
+strauss,mobile,need,PERSON,GPE,News
+players,games,play,ORG,PRODUCT,News
+the us,verizon,set,ORG,GPE,News
+mitsubishi motors de mexico,shortages,anticipate,ORG,ORG,News
+russia,ukraine,invade,GPE,GPE,News
+samsung electronics co.,intel,overtake,ORG,ORG,News
+demand,manufacturers,meet,ORG,ORG,News
+companies,ohio,offer,ORG,GPE,News
+ohio,intel,pick,GPE,ORG,News
+inflation,automobiles,manufacture,ORG,PERSON,News
+steps,chip shortages,address,PERSON,PERSON,News
+intel,plan,confirm,ORG,PERSON,News
+intel,danley,admit,ORG,ORG,News
+gpu,intel,ship,ORG,ORG,News
+amd,share,gain,ORG,ORG,News
+biden,congress,pass,PERSON,ORG,News
+vmware,emc,merge,ORG,ORG,News
+mount pleasant,intel,pick,ORG,ORG,News
+wisconsin,ohio,pick,GPE,GPE,News
+the us,tsmc,build,ORG,ORG,News
+starlink,insider,secure,PERSON,PERSON,News
+100,insider,pay,PRODUCT,PERSON,News
+gelsinger,time,tell,PERSON,ORG,News
+time,gelsinger,tell,ORG,PERSON,News
+customers,maverick maverick,buy,ORG,PERSON,News
+mavericks,customers,buy,ORG,ORG,News
+ford,demand,forecast,ORG,ORG,News
+the commerce department,data,submit,ORG,ORG,News
+stellantis stla.mi,minivans,build,ORG,NORP,News
+products,chips,contain,ORG,ORG,News
+analog devicesthey,chip ip,design,ORG,PERSON,News
+analog devicesthey,wafer fab equipment,buy,ORG,ORG,News
+intel,tsmc,use,ORG,ORG,News
+alexgoogle,topics,propose,ORG,ORG,News
+the company,machine,learn,ORG,ORG,News
+startup sylvera,machine,learn,PERSON,ORG,News
+something,bitcoin,create,PERSON,GPE,News
+imports,pay,hurt,ORG,GPE,News
+raimondo,lawmakers,pass,PERSON,PERSON,News
+texas instruments,capacity,add,ORG,ORG,News
+manufacturers,chips,nee,ORG,ORG,News
+capacity,chips,manufacture,ORG,ORG,News
+brokers,semiconductors,sell,ORG,GPE,News
+businesses,semiconductors,produce,PERSON,GPE,News
+businesses,semiconductors,use,PERSON,GPE,News
+the u.s.,the strategic petroleum reserve,establish,ORG,ORG,News
+inventories,businesses,meet,ORG,PERSON,News
+businesses,inventories,draw,PERSON,ORG,News
+riffles,clients,diversify,PERSON,ORG,News
+businesses,inventories,meet,PERSON,ORG,News
+canada,mexico,join,GPE,GPE,News
+the company,inventory,build,ORG,ORG,News
+tesla inc.,sales,report,ORG,PRODUCT,News
+tesla,model ys,building,PRODUCT,PERSON,News
+intel,revenue,forecast,ORG,PRODUCT,News
+teslas,customers,use,ORG,ORG,News
+governments,consumers,entice,NORP,GPE,News
+youre,consumers,ask,PERSON,GPE,News
+tesla,earnings,post,PRODUCT,ORG,News
+biden,general motors,present,PERSON,ORG,News
+inc. report,earnings,post,ORG,ORG,News
+tesla,earnings,report,PRODUCT,ORG,News
+retailers,goods,import,PERSON,ORG,News
+shortages,apple inc.,cost,ORG,ORG,News
+inflation,companies,hurt,ORG,ORG,News
+companies,inflation,affect,ORG,ORG,News
+businesses,inventories,replenish,PERSON,ORG,News
+savings,consumers,deplete,ORG,GPE,News
+apple,earnings,report,ORG,ORG,News
+rollsroyce,insider,tell,PERSON,PERSON,News
+earnings,the company,report,ORG,ORG,News
+tesla,model 3,sell,PRODUCT,ORG,News
+billy steele,time,spend,PERSON,ORG,News
+kyle dumont,techcrunch,tell,PERSON,ORG,News
+ohio,intel,attract,GPE,ORG,News
+the california dmv,waymo,ask,ORG,ORG,News
+market,californias,head,PERSON,PERSON,News
+batteries,things,build,GPE,GPE,News
+tesla,innovation,represent,PRODUCT,NORP,News
+musk,upfront,announce,ORG,ORG,News
+russia,ukraine,reinvade,GPE,GPE,News
+meta,data,train,ORG,ORG,News
+founder,nike,transition,PERSON,ORG,News
+smartphones,thesell,use,PERSON,ORG,News
+cnbc,rick cassidy,tell,ORG,PERSON,News
+taiwan semiconductor manufacturing company,chips,produce,ORG,ORG,News
+china,morris chang,create,GPE,PERSON,News
+morris chang,tsmc,found,PERSON,ORG,News
+the taiwan stock exchange,tsmc,list,ORG,ORG,News
+taiwan,something,face,GPE,PERSON,News
+sony,inventory,building,ORG,ORG,News
+sony,shortages,expect,ORG,ORG,News
+sony,money,lose,ORG,ORG,News
+ebit,earnings,adjust,ORG,ORG,News
+intel,sapphire rapids,launch,ORG,GPE,News
+amd,earnings,release,ORG,ORG,News
+usa today.in,vedant patel,tell,ORG,PERSON,News
+the federal reserve,credit,tighten,ORG,PERSON,News
+ford motor co.,chip shortages,sidestep,ORG,PERSON,News
+chip shortages,chevy,delay,PERSON,ORG,News
+biden,lawmakers,reach,PERSON,PERSON,News
+ford,sales,report,ORG,PRODUCT,News
+intel,money,lose,ORG,ORG,News
+samsung,intel,overtake,ORG,ORG,News
+google,search,withdraw,ORG,ORG,News
+sunroom,users,offer,ORG,ORG,News
+ford,customers,warn,ORG,ORG,News
+market,tesla,bring,PERSON,PRODUCT,News
+earnings,ford,announce,ORG,ORG,News
+the commission,companies,demand,ORG,ORG,News
+spacex,fiji,select,ORG,GPE,News
+honda,plan,stick,ORG,PERSON,News
+wages,inflation,outrun,PERSON,ORG,News
+inflation,earnings,hit,ORG,ORG,News
+smic,shanghai,open,ORG,ORG,News
+smic,fab,open,ORG,ORG,News
+covid,omicron,shift,PERSON,ORG,News
+companies,productivity,boost,ORG,ORG,News
+inflation,the fed,force,ORG,ORG,News
+michael brush,clr,suggest,PERSON,ORG,News
+general motors,things,accelerate,ORG,GPE,News
+twitter,cadillac,post,GPE,ORG,News
+reuters,information,share,ORG,ORG,News
+sulagna saha,chris evans,bring,PERSON,PERSON,News
+softbank,arm,buy,ORG,ORG,News
+softbank,stock,buy,ORG,ORG,News
+intels,foundry business,form,GPE,ORG,News
+edmunds,data,track,GPE,ORG,News
+scrona ag,customers,print,ORG,ORG,News
+advanced micro devices,eps,post,ORG,ORG,News
+steve,iphone,reveal,PERSON,ORG,News
+developers,services,sell,PERSON,ORG,News
+fitness,customers,inspire,ORG,ORG,News
+shopify,macbook pro,m1powere,ORG,ORG,News
+marketwatch,stanley,ask,ORG,PERSON,News
+inflation,momentum,gather,ORG,PRODUCT,News
+fed,inflation,bring,ORG,ORG,News
+the fed,inflation,bring,ORG,ORG,News
+the us,challenges,face,ORG,PERSON,News
+the uk government,ukraine,depart,ORG,GPE,News
+the us,russia,sanction,ORG,GPE,News
+plants,tsmc,build,ORG,ORG,News
+san francisco,moov,cofounde,GPE,ORG,News
+corning,glass,provide,ORG,PERSON,News
+intel,manufacturing,integrate,ORG,ORG,News
+manufacturers,pressures,face,ORG,ORG,News
+lg display,lx semicon,supply,ORG,ORG,News
+theyre,vehicles,tell,ORG,GPE,News
+demand,supply,achieve,ORG,ORG,News
+portuguese navy,things,handle,ORG,GPE,News
+apple,vendors,inform,ORG,PRODUCT,News
+bosch,fab,extend,ORG,ORG,News
+chipmakers,demand,meet,PRODUCT,ORG,News
+the us,russia,slap,ORG,GPE,News
+firms,chips,produce,ORG,ORG,News
+firms,chips,identify,ORG,ORG,News
+london,taur,launch,GPE,ORG,News
+veo,the cosmo 2,introduce,PERSON,PRODUCT,News
+axlehire,covet shipping,acquire,ORG,PERSON,News
+customers,nikola corp.,buy,ORG,ORG,News
+arbe robotics,thilo koslowski,appoint,PERSON,PERSON,News
+fort lauderdale,elon musk,build,GPE,PERSON,News
+the united states,china,mimic,GPE,GPE,News
+panelists,times,lead,NORP,ORG,News
+earnings,micron,report,ORG,ORG,News
+nothing,techcrunch,announce,GPE,ORG,News
+jason keats,techcrunch,tell,PERSON,ORG,News
+russias,twitter,accuse,GPE,GPE,News
+sergei shoigu,guterres,tell,PERSON,PERSON,News
+russia,crimea,annex,GPE,GPE,News
+rivian,customers,allow,NORP,ORG,News
+the united states,crimea,annex,GPE,GPE,News
+lawmakers,wardlaw,tell,PERSON,PERSON,News
+ford,spin,buy,ORG,ORG,News
+tier,the u.s.,enter,ORG,ORG,News
+tesla,a tim cook,need,PRODUCT,PERSON,News
+cofounder,cheng lu,succeed,ORG,PERSON,News
+rivian,panasonic,tap,NORP,ORG,News
+oklahoma,panasonic,purchase,GPE,ORG,News
+talent,respondents,cite,ORG,ORG,News
+billions,carmakers,invest,GPE,ORG,News
+rivian,numbers,report,NORP,ORG,News
+the future fund,black,publish,ORG,NORP,News
+twitter,black,post,GPE,NORP,News
+twitter,tesla,post,GPE,PRODUCT,News
+german,tesla,post,NORP,PRODUCT,News
+models,consumers,pull,PERSON,GPE,News
+models,tesla,buy,PERSON,PRODUCT,News
+quah,products,recommend,PERSON,ORG,News
+retailers,goods,sell,PERSON,ORG,News
+businesses,the biden administration,require,PERSON,ORG,News
+intel,germany,pick,ORG,GPE,News
+apple,revenue,expect,ORG,PRODUCT,News
+advertisement ford,explorers,shipping,ORG,PRODUCT,News
+advertisement ford,explorers,build,ORG,PRODUCT,News
+germany,intel,welcome,GPE,ORG,News
+the labor department,consumers,hit,ORG,GPE,News
+stellantis,vehicles,produce,NORP,GPE,News
+bloom,khan,join,NORP,PERSON,News
+microsoft,consumers,deceive,ORG,GPE,News
+sony,consumers,deceive,ORG,GPE,News
+ford,reuters,tell,ORG,ORG,News
+chip shortages,sales,pressure,PERSON,PRODUCT,News
+pei,essential ip,purchase,PERSON,ORG,News
+2020,general motors,issue,PRODUCT,ORG,News
+mercedesbenz,software,tweak,ORG,ORG,News
+general motors,toyota,dethrone,ORG,ORG,News
+coleman,insider,tell,PERSON,PERSON,News
+customers,hardware,pick,ORG,ORG,News
+business ford,the f150 lightning,unveil,ORG,PRODUCT,News
+plant,general motors,sell,GPE,ORG,News
+fiat chrysler,the company,know,ORG,ORG,News
+valves,steam deck,launch,ORG,ORG,News
+automakersre,features,strip,ORG,ORG,News
+demand,supply,outpace,ORG,ORG,News
+south carolina,spoiler,play,GPE,ORG,News
+facebook,tiktok,malign,PERSON,GPE,News
+google,ads,! sell,ORG,ORG,News
+volvo,chip shortages,blame,ORG,PERSON,News
+buyers,equity,build,ORG,ORG,News
+companies,inventories,reduce,ORG,ORG,News
+ukrainians,the united states,work,NORP,GPE,News
+biden,office,enter,PERSON,ORG,News
+something,information,gather,PERSON,ORG,News
+schools,kids,treat,GPE,PERSON,News
+partners,access,nee,ORG,PERSON,News
+the white house,twitter,use,ORG,GPE,News
+motorola,semiconductors,manufacturing,ORG,GPE,News
+2019,apple,announce,PRODUCT,ORG,News
+the white house,congress,push,ORG,ORG,News
+the white house,congress,approve,ORG,ORG,News
+white oak bayou,houston,meet,ORG,GPE,News
+the associated press,matthew brown,report,ORG,PERSON,News
+silicon,batteries,solidstate,NORP,GPE,News
+investigation bureau,reuters,tell,ORG,ORG,News
+lawmakers,consensus,reach,PERSON,ORG,News
+consumers,money,spend,GPE,ORG,News
+consumers,children,equip,GPE,PERSON,News
+2021,demand,pull,PRODUCT,ORG,News
+google,employees,offering,ORG,ORG,News
+the model s. rawlinson,tesla,leave,ORG,PRODUCT,News
+models,consumers,reach,PERSON,GPE,News
+the white house,lawmakers,incentivize,ORG,PERSON,News
+the white house,congress,pass,ORG,ORG,News
+evs,toyoda,criticize,PERSON,PERSON,News
+tesla,tesla cybertruck,! make,PRODUCT,ORG,News
+congress,research,boost,ORG,ORG,News
+taiwan semiconductor,thestreets bruce kamich,follow,ORG,PERSON,News
+tesla,nhtsa,grill,PRODUCT,ORG,News
+authorities,nhtsa,empower,ORG,ORG,News
+data,nhtsa,collect,ORG,ORG,News
+tesla,autopilot,market,PRODUCT,ORG,News
+chair lina khan,information,reveal,PERSON,ORG,News
+nhtsa,tesla,tell,ORG,PRODUCT,News
+nhtsa,tesla,! take,ORG,PRODUCT,News
+setlock,insider,tell,ORG,PERSON,News
+setlock,longterm,hold,ORG,NORP,News
+setlock,insider setlock,tell,ORG,PERSON,News
+managers,employees,attend,ORG,ORG,News
+stan pavlovsky,rivians,start,PERSON,NORP,News
+scaringe,reuters,tell,ORG,ORG,News
+nhtsa,tesla,grill,ORG,PRODUCT,News
+house,lawmakers,join,ORG,PERSON,News
+twitter,musk,buy,GPE,ORG,News
+tesla inc report,musk,distract,PERSON,ORG,News
+autonomy,musk,optimize,PERSON,ORG,News
+oklahoma,panasonic,eye,GPE,ORG,News
+the united states,world war ii,enter,GPE,EVENT,News
+the white house,congress,press,ORG,ORG,News
+schumer,albanys nanotech complex,consider,PERSON,ORG,News
+schumer,albanys nanotech complex,tour,PERSON,ORG,News
+washington,lawmakers,return,GPE,PERSON,News
+elizabeth warren dmass,republicans,accuse,PERSON,NORP,News
+manchin,the central bank,accuse,PERSON,ORG,News
+manchin,the biden administration,accuse,PERSON,ORG,News
+republicans,powell,support,NORP,PERSON,News
+inflation,families,tax,ORG,ORG,News
+dmass,republicans,accuse,ORG,NORP,News
+dmass,democrats,warn,ORG,NORP,News
+iphone,apple,cut,ORG,ORG,News
+chip shortages,apple,cut,PERSON,ORG,News
+the russiaukraine war,revenue,affect,EVENT,PRODUCT,News
+need,stock,clean,PERSON,ORG,News
+microsoft corporation report,earnings,post,ORG,ORG,News
+musk,twitter,! troll,ORG,GPE,News
+united rentals,expectations,crush,ORG,PERSON,News
+carmaker,outlook,hold,ORG,GPE,News
+apple inc,chip shortages,manage,ORG,PERSON,News
+consumers,new iphones,snap,GPE,GPE,News
+manufacturers,vehicles,sell,ORG,GPE,News
+covid19,demand,lockdown,PERSON,ORG,News
+buyers,spending,cut,ORG,GPE,News
+goods,companies,hike,ORG,ORG,News
+subscriptions,companies,hike,ORG,ORG,News
+supply,shortfalls,face,ORG,ORG,News
+challenges,apple,expect,PERSON,ORG,News
+challenges,apple inc.,expect,PERSON,ORG,News
+lucid,tesla,beat,PERSON,PRODUCT,News
+vic laranja,things,building,PERSON,GPE,News
+laranja,bitcoin,choose,NORP,GPE,News
+the company,clients,expand,ORG,ORG,News
+biden,ohio,lose,PERSON,GPE,News
+earnings,expectations,beat,ORG,PERSON,News
+the us,semiconductors,ship,ORG,GPE,News
+japan,semiconductors,ship,GPE,GPE,News
+9to5mac,tsmc,appear,PRODUCT,ORG,News
+sp global market intelligence,data,provide,ORG,ORG,News
+california,amd,headquarter,GPE,ORG,News
+amd,intel,catch,ORG,ORG,News
+talent,respondents,fill,ORG,ORG,News
+subject content request,email,protect,ORG,ORG,News
+pat gelsinger,cnbc,tell,PERSON,ORG,News
+sales,revenue,boost,PRODUCT,PRODUCT,News
+evs,sales,dominate,PERSON,PRODUCT,News
+tesla,money,spend,PRODUCT,ORG,News
+chip shortages,sony,plague,PERSON,ORG,News
+earnings,sony,report,ORG,ORG,News
+brown,eaton,tell,PERSON,ORG,News
+jessica caldwell,the philadelphia inquirer,tell,PERSON,ORG,News
+usdot,research,conduct,ORG,ORG,News
+manufacturers,nhtsa,certify,ORG,ORG,News
+nhtsa,fmvss nos,amend,ORG,ORG,News
+google,features,collect,ORG,ORG,News
+"27,505.50",bitcoin,trade,PRODUCT,GPE,News
+china,covid19,lockdown,GPE,PERSON,News
+hannes niederhauser,st group,join,PERSON,ORG,News
+fratzke,business,slow,ORG,GPE,News
+demand,volkswagen group,sell,ORG,ORG,News
+revenue,4.5,increase,PRODUCT,PRODUCT,News
+china,shanghai,lock,GPE,GPE,News
+blackburns twitter,linkedin,list,GPE,PERSON,News
+bloomberg newsstarbucks,russia,exit,ORG,GPE,News
+intel,capacity,create,ORG,ORG,News
+logistics,inne,concentrate,ORG,GPE,News
+chip shortages,everyone,affect,PERSON,ORG,News
+innes,techcrunch,tell,ORG,ORG,News
+inne,users,tell,GPE,ORG,News
+users,challenges,understand,ORG,PERSON,News
+lexisnexis risk solutions,insights,provide,ORG,ORG,News
+businesses,risk,reduce,PERSON,PRODUCT,News
+nvidia,arm,acquire,ORG,ORG,News
+industry,jobs,create,ORG,PERSON,News
+ford,money,waste,ORG,ORG,News
+kfc,psyduck,handing,ORG,PRODUCT,News
+inflation,ukraine,stoke,ORG,GPE,News
+intel,techcrunch,tell,ORG,ORG,News
+techcrunch,esfarjani,tell,ORG,PERSON,News
+chinas,authorities,impose,ORG,ORG,News
+stellantis stla.mi,chips,! ship,ORG,ORG,News
+customers,insider customersre,tell,ORG,PERSON,News
+forresters chhabra,symantec,acquire,ORG,ORG,News
+2023,sales,grow,PRODUCT,PRODUCT,News
+2023,earnings,grow,PRODUCT,ORG,News
+2021,alphabet,generate,PRODUCT,ORG,News
+musk,workers,hire,ORG,ORG,News
+musk,sandbulte,dismiss,ORG,ORG,News
+tesla,signs,stop,PRODUCT,PERSON,News
+musk,employees,tell,ORG,ORG,News
+consumers,edmunds.com,want,GPE,ORG,News
+inc. report,tesla,challenge,ORG,PRODUCT,News
+jim farley,tesla,! mock,PERSON,PRODUCT,News
+the f150 lightning,power,deliver,PRODUCT,GPE,News
+firms,russia,quit,ORG,GPE,News
+taiwan,chips,nee,GPE,ORG,News
+the united states,u.s.,restrict,GPE,GPE,News
+walmart,goods,clear,ORG,ORG,News
+denso corp 6902.t,semiconductors,sell,ORG,GPE,News
+kato,bloomberg,cite,PERSON,PERSON,News
+global chip shortage,companies,plague,ORG,ORG,News
+chipmakers,customers,turn,PRODUCT,ORG,News
+inc. report,nothing,spend,ORG,GPE,News
+tesla,vehicles,deliver,PRODUCT,GPE,News
+fed,inflation,rein,ORG,ORG,News
+the central bank,inflation,bring,ORG,ORG,News
+pipe obviously,dont,distract,ORG,ORG,News
+roger,techcrunch,tell,PERSON,ORG,News
+2021,the proxy,release,PRODUCT,ORG,News
+governments,firms,treat,NORP,ORG,News
+russia,crimea,invade,GPE,GPE,News
+intel,the us,help,ORG,ORG,News
+china,investment,pour,GPE,ORG,News
+brightdrop,fedex brightdrop,provide,ORG,ORG,News
+cars.com,vehicles,rank,ORG,GPE,News
+ford,evs,! offer,ORG,PERSON,News
+insider,data,comb,PERSON,ORG,News
+barrons,intel,confirm,PRODUCT,ORG,News
+ohio,intel,envision,GPE,ORG,News
+globitech,texas,select,ORG,GPE,News
+eap,signs,stop,ORG,PERSON,News
+samsung,leadership,demonstrate,ORG,ORG,News
+ford,7201.t  ,report,ORG,PERSON,News
+micron,chipmakers,include,ORG,PRODUCT,News
+republicans,democrats,ditch,NORP,NORP,News
+the eus markets,companies,obtain,ORG,ORG,News
+companies,workers,lay,ORG,ORG,News
+2021,the tesla model 3,rank,PRODUCT,PRODUCT,News
+engineers,products,find,ORG,ORG,News
+klausner,venturebeat,tell,PERSON,ORG,News
+engineers,circuits,lie,ORG,GPE,News
+republicans,biden,blame,NORP,PERSON,News
+inoue,reuters,tell,ORG,ORG,News
+buying,evs,lease,NORP,PERSON,News
+mercedesbenz,mercedesbenz eclass,offer,ORG,ORG,News
+manufacturers,chips,use,ORG,ORG,News
+taipei,companies,prohibit,ORG,ORG,News
+spain,banks,tax,GPE,ORG,News
+foxconn,reuters,refer,GPE,ORG,News
+consumers,inflation,face,GPE,ORG,News
+tesla,layoffs,announce,PRODUCT,ORG,News
+tesla,restructuring,announce,PRODUCT,PERSON,News
+supply,demand,exceed,ORG,ORG,News
+americans,food,buy,NORP,ORG,News
+kelvin pang,chips,buy,PERSON,ORG,News
+americas frontier fund,investment,restore,ORG,ORG,News
+barra,elon musk,beat,ORG,PERSON,News
+tesla,layoffs,start,PRODUCT,ORG,News
+foxconn,services,provide,GPE,ORG,News
+bell,workers,shift,ORG,ORG,News
+the u.s.,ukraine,defend,ORG,GPE,News
+tesla,revenue,grow,PRODUCT,PRODUCT,News
+chips act,congress,pass,PRODUCT,ORG,News
+cryptocurrency,something,! be,NORP,PERSON,News
+autonation,californiabased cig financial,acquire,ORG,ORG,News
+insider,christensen,tell,PERSON,PERSON,News
+shibata,employees,thank,PERSON,ORG,News
+ifs,value,provide,ORG,PERSON,News
+general motors,spending,curb,ORG,GPE,News
+consumers,vehicles,lease,GPE,GPE,News
+cerans,volkswagen id.4,check,NORP,ORG,News
+china,billions,invest,GPE,GPE,News
+manchin,build,support,PERSON,PERSON,News
+nxp,demand,report,ORG,ORG,News
+motors co gm.n,spending,curb,PERSON,GPE,News
+space,innovation,develop,PERSON,NORP,News
+biden,rala,meet,PERSON,GPE,News
+companies,chips,produce,ORG,ORG,News
+palkhiwala,marketwatch,tell,GPE,ORG,News
+finnegan,sec info,launch,GPE,ORG,News
+chips,tsmc,produce,ORG,ORG,News
+china,research,compete,GPE,ORG,News
+chinare,research,compete,PERSON,ORG,News
+ford,the f150 lightning,justlaunche,ORG,ORG,News
+june,apple,post,PRODUCT,ORG,News
+inflation,independents,motivate,ORG,NORP,News
+jnicholsonindc,susan collins,tell,PERSON,PERSON,News
+consumers,power,purchase,GPE,GPE,News
+johnson,insider,tell,PERSON,PERSON,News
+businesses,products,provide,PERSON,ORG,News
+businesses,services,provide,PERSON,ORG,News
+times,stocks,buy,ORG,PERSON,News
+times,stocks,sell,ORG,PERSON,News
+the justice department,trump,indict,ORG,ORG,News
+the republican party,the white house,win,ORG,ORG,News
+haje,humanforest,love,ORG,ORG,News
+jetblue,spirit,acquire,ORG,PERSON,News
+apple,program,hire,ORG,ORG,News
+general motors,things,kick,ORG,GPE,News
+raimondo,pompeo,recall,PERSON,GPE,News
+biden,raimondo,tell,PERSON,PERSON,News
+amd,amd 5,deliver,ORG,ORG,News
+capacity,reuters,! put,ORG,ORG,News
+nintendo,semiconductors,procure,NORP,GPE,News
+chair mark liu,cnn,tell,PERSON,ORG,News
+mehrotra,the post,tell,PERSON,ORG,News
+capacity,technologies,expand,ORG,ORG,News
+traton 8tra.de,earnings,report,PERSON,ORG,News
+intel,oregon,pass,ORG,GPE,News
+ohio,intel,support,GPE,ORG,News
+china,companies,prevent,GPE,ORG,News
+research,innovation,fuel,ORG,NORP,News
+carrie,hgtv,watch,PERSON,ORG,News
+the u.s.,covid19,hit,ORG,PERSON,News
+numbers,concerns,raise,ORG,PERSON,News
+drury,research,complete,ORG,ORG,News
+amazon,roomba,favor,ORG,PERSON,News
+batteries,evs,power,GPE,PERSON,News
+the u.s.,batteries,come,ORG,GPE,News
+research,priority,! be,ORG,ORG,News
+research,investment,! be,ORG,ORG,News
+innovation,priority,! be,NORP,ORG,News
+innovation,investment,! be,NORP,ORG,News
+intel,ohios,! build,ORG,GPE,News
+ohio,intel,lure,GPE,ORG,News
+intel,companies,offer,ORG,ORG,News
+customers,times,experience,ORG,ORG,News
+brinkman,audi mckinney,use,PERSON,PERSON,News
+customers,huth,tell,ORG,PERSON,News
+tesla,china,enter,PRODUCT,GPE,News
+2022,growth,! repeat,PRODUCT,ORG,News
+protocol,xing,tell,GPE,PERSON,News
+retailers,inventories,replenish,PERSON,ORG,News
+manufacturers,inventories,replenish,ORG,ORG,News
+rivian,customers,lose,NORP,ORG,News
+china,semiconductors,use,GPE,GPE,News
+chang,tsmc,found,PERSON,ORG,News
+chang,reuters,tell,PERSON,ORG,News
+china,engineers,recruit,GPE,ORG,News
+riley,100,pay,ORG,PRODUCT,News
+dealerships,vehicles,buy,PERSON,GPE,News
+wheels,something,try,ORG,PERSON,News
+marc lore,startup,sell,ORG,PERSON,News
+partners,tesla,land,ORG,PRODUCT,News
+aviv,sparkcharge,start,ORG,ORG,News
+csaa,rick astley,film,ORG,PERSON,News
+investment,jackson county,lose,ORG,GPE,News
+ford,suppliers,switch,ORG,NORP,News
+intel,control,retain,ORG,ORG,News
+lightnings,ford,deliver,PERSON,ORG,News
+switzerland,america,scold,GPE,GPE,News
+demand,supply,exceed,ORG,ORG,News
+california,the united states,lead,GPE,GPE,News
+the state,vehicles,sell,GPE,GPE,News
+randy,macro musings,join,PERSON,PERSON,News
+paul oneill,brady,ask,PERSON,PERSON,News
+manufacturers,research,nee,ORG,ORG,News
+skywater,indiana,select,ORG,GPE,News
+ohio,taiwan semiconductor manufacturing company,offer,GPE,ORG,News
+manufacturing,california,! orient,ORG,GPE,News
+utilities,power,sell,ORG,GPE,News
+companies,cash,find,ORG,PERSON,News
+berlin,customers,shield,GPE,ORG,News
+berlin,businesses,shield,GPE,PERSON,News
+jackson hole,chair jerome powell,speak,ORG,PERSON,News
+visibility,tools,provide,ORG,GPE,News
+companies,products,source,ORG,ORG,News
+houses,power,restore,ORG,GPE,News
+businesses,power,restore,PERSON,GPE,News
+customers,data,serve,ORG,ORG,News
+customers,data,track,ORG,ORG,News
+bain,companies,remind,GPE,ORG,News
+the u.s.,taiwan,defend,ORG,GPE,News
+taiwan,china,invade,GPE,GPE,News
+ford,vehicles,build,ORG,GPE,News
+ford,earnings,change,ORG,ORG,News
+customers,vehicles,deliver,ORG,GPE,News
+the u.s.,capacity,build,ORG,ORG,News
+stellantis n.v. report,price,suggest,ORG,PERSON,News
+fords f,price,suggest,PRODUCT,PERSON,News
+general motors,price,suggest,ORG,PERSON,News
+utilities,vehicles,power,ORG,GPE,News
+reinarts,vehicles,nee,ORG,GPE,News
+consumers,working,facilitate,GPE,ORG,News
+general motors,5.7,lose,ORG,PRODUCT,News
+customers,inventory,build,ORG,ORG,News
+gears,consumers,change,ORG,GPE,News
+ford,explorers,build,ORG,PRODUCT,News
+evs,challenges,face,PERSON,PERSON,News
+suppliers,micron,bring,NORP,ORG,News
+schumer,the associated press,tell,PERSON,ORG,News
+riverbed,business,lose,PERSON,GPE,News
+ford f,consumers,hit,ORG,GPE,News
+ford f,buyers,hit,ORG,ORG,News
+inventory,suppliers,load,ORG,NORP,News
+the united states,semiconductors,produce,GPE,GPE,News
+russians,chips,clawing,NORP,ORG,News
+germanys harting,companies,include,PERSON,ORG,News
+2019,companies,acquire,PRODUCT,ORG,News
+china,technologies,transfer,GPE,ORG,News
+giovanni velez,thestreet,tell,PERSON,NORP,News
+banks,thestreet,tell,ORG,NORP,News
+earnings,tsm,report,ORG,ORG,News
+risk,policymakers,slow,PRODUCT,ORG,News
+horizon,something,deliver,PRODUCT,PERSON,News
+global chip shortage,manufacturers,leave,ORG,ORG,News
+the u.s.,china,prevent,ORG,GPE,News
+chips,manufacturing,measure,ORG,ORG,News
+brinkmans,custom alarm,include,NORP,PERSON,News
+tesla,sales,grow,PRODUCT,PRODUCT,News
+china,taiwan,claim,GPE,GPE,News
+steps,taiwan,annex,PERSON,GPE,News
+china,the us,slap,GPE,ORG,News
+mckenzie,bidens,tell,PERSON,PERSON,News
+the white house,manchin,excoriate,ORG,PERSON,News
+donilon,aides,worry,PERSON,PERSON,News
+steps,aides,attribute,PERSON,PERSON,News
+layoffs,the company,! plan,ORG,ORG,News
+retailers,manufacturers,deliver,PERSON,ORG,News
+nvidia,chipmakers,include,ORG,PRODUCT,News
+intel,gelsinger,hire,ORG,PERSON,News
+gelsinger,intel,run,PERSON,ORG,News
+gelsinger,intel,succeed,PERSON,ORG,News
+intel,gelsinger,leave,ORG,PERSON,News
+gelsinger,employees,tell,PERSON,ORG,News
+actions,employees,address,PERSON,ORG,News
+manufacturers,times,tackle,ORG,ORG,News
+china,tech,prioritize,GPE,ORG,News
+china,innovation,prioritize,GPE,NORP,News
+china,executives,lose,GPE,ORG,News
+businesses,money,borrow,PERSON,ORG,News
+business,investment,require,GPE,ORG,News
+industry,investment,require,ORG,ORG,News
+tourism,businesses,attach,NORP,PERSON,News
+massachusetts,fields,know,GPE,ORG,News
+topics,risks,include,ORG,PRODUCT,News
+nintendo,fewer switch consoles,sell,NORP,ORG,News
+companies,iot,roll,ORG,ORG,News
+scale,iot,deploy,ORG,ORG,News
+onomondo,growth,drive,ORG,ORG,News
+recent federal reserve,inflation,rein,ORG,ORG,News
+customers,analog,mind,ORG,ORG,News
+the netherlands,philips,base,GPE,GPE,News
+philips,users,register,GPE,ORG,News
+billions,ford,spend,GPE,ORG,News
+revenue,fun,! be,PRODUCT,PERSON,News
+revenue,customers,lose,PRODUCT,ORG,News
+chips,innovation,bring,ORG,NORP,News
+money,the commission,earmark,ORG,ORG,News
+lora dicarlos,techcrunch,tell,PERSON,ORG,News
+raimondo,kelly,join,PERSON,PERSON,News
+taiwan,tsmc,produce,GPE,ORG,News
+californiabased amd,share,gain,ORG,ORG,News
+amd,earnings,miss,ORG,ORG,News
+nvidia,earnings,announce,ORG,ORG,News
+microsoft,earnings,report,ORG,ORG,News
+ups,revenue,post,ORG,PRODUCT,News
+windows,microsoft corp.,carry,PRODUCT,ORG,News
+moorhead,business insider,tell,ORG,ORG,News
+business insider,moorhead,tell,ORG,ORG,News
+swan,moorhead,tell,PERSON,ORG,News
+apple,executives,send,ORG,ORG,News
+intel,growth,meet,ORG,ORG,News
+huaweis,business,smartphone,NORP,GPE,News
+boot camp,armpowered macs,support,PRODUCT,PERSON,News
+the motley fool,intel,recommend,ORG,ORG,News
+globalfoundries,capacity,expand,ORG,ORG,News
+huawei,honor,sell,GPE,ORG,News
+ford,time,schedule,ORG,ORG,News
+youtube,trump,suspend,ORG,ORG,News
+huawei,chips,stockpile,GPE,ORG,News
+companies,chips,weigh,ORG,ORG,News
+toyota motor corp.,lines,halt,ORG,GPE,News
+taiwans economics ministry,taipei reuters  ,tell,ORG,ORG,News
+germany,taiwan,persuade,GPE,GPE,News
+taiwans economics ministry,reuters,tell,ORG,ORG,News
+earnings,microsoft corp,report,ORG,ORG,News
+byd,batteries,produce,ORG,GPE,News
+companies,working,remote,ORG,ORG,News
+tsmc,news,outsource,ORG,ORG,News
+the european union,taiwan,increase,ORG,GPE,News
+tokyo,tsmc,attract,GPE,ORG,News
+mazda motor corp cx5,models,include,ORG,PERSON,News
+google maps,information,offer,PERSON,ORG,News
+drivers,apps,access,PERSON,ORG,News
+ford motor co.,team upshift,create,ORG,ORG,News
+qualcomm,businesses,building,PERSON,PERSON,News
+businesses,chips,supply,PERSON,ORG,News
+palkhiwala,reuters,tell,GPE,ORG,News
+fords,earnings,project,NORP,ORG,News
+the united states,taiwan,thank,GPE,GPE,News
+tsmc,companies,include,ORG,ORG,News
+ford,f150 raptor,overhaul,ORG,PRODUCT,News
+shell,earnings,adjust,ORG,ORG,News
+kraft heinz,planters peanuts,sell,ORG,ORG,News
+the supreme court,sports,legalize,ORG,ORG,News
+dialog semiconductor,renesas,buy,GPE,GPE,News
+earnings,general motors,report,ORG,ORG,News
+employers,6.6,hire,GPE,PRODUCT,News
+firms,hiring,slash,ORG,PERSON,News
+kellen browning,reporting,contribute,PERSON,ORG,News
+los angeles,janet herold,reassign,GPE,PERSON,News
+workers,jobs,lose,ORG,PERSON,News
+get report,general motors,rethink,ORG,ORG,News
+expectations,stocks,rally,PERSON,PERSON,News
+targets,banks,restore,NORP,ORG,News
+natwest,barclays,follow,ORG,PERSON,News
+boliden ab,5.4,gain,ORG,PRODUCT,News
+biden,buttigieg,host,PERSON,PERSON,News
+momentum,trump,impeach,PRODUCT,ORG,News
+get report,earnings,post,ORG,ORG,News
+employers,workers,reimburse,GPE,ORG,News
+greenvision acquisition corp.,capital,use,ORG,ORG,News
+2020,helbiz,generate,PRODUCT,GPE,News
+apple,apple app store,introduce,ORG,ORG,News
+covid19,china,hit,PERSON,GPE,News
+capacity,growth,capture,ORG,ORG,News
+paris reuters   ,jobs,slash,ORG,PERSON,News
+2021,sales,hit,PRODUCT,PRODUCT,News
+demand,goods,household,ORG,ORG,News
+june,vaccinations,start,PRODUCT,ORG,News
+companies,services,squeeze,ORG,ORG,News
+covid19,companies,force,PERSON,ORG,News
+apple,focus,privacyle,ORG,PRODUCT,News
+actions,gaps,close,PERSON,ORG,News
+the white house,biden,meet,ORG,PERSON,News
+washington,research,fund,GPE,ORG,News
+congress,money,appropriate,ORG,ORG,News
+the congressional black caucus,young,favor,ORG,ORG,News
+the white house,products,! produce,ORG,ORG,News
+chair jerome powell,lawmakers,tell,PERSON,PERSON,News
+stellantis,the free press,refer,NORP,ORG,News
+analyst dan ives,model y,lowestprice,PERSON,PRODUCT,News
+hyundai,buying,increase,ORG,NORP,News
+hyundai,suppliers,diversify,ORG,NORP,News
+hyundai,inventory,check,ORG,ORG,News
+nations,biden,work,ORG,PERSON,News
+biden,china,! mention,PERSON,GPE,News
+lawmakers,the white house,urge,PERSON,ORG,News
+ford,inventory,reduce,ORG,ORG,News
+steps,u.s.,protect,PERSON,GPE,News
+makers,shortages,face,ORG,ORG,News
+the federal reserve,cash,pump,ORG,PERSON,News
+arciaga,cash,pay,GPE,PERSON,News
+plants,macaluso,shutter,ORG,PERSON,News
+covid,mexico,impact,PERSON,PERSON,News
+consumers,money,save,GPE,ORG,News
+things,products,buy,GPE,ORG,News
+supply,demand,outweigh,ORG,ORG,News
+the u.s.,johnson,approve,ORG,PERSON,News
+manufacturers,demand,meet,ORG,ORG,News
+investment,manufacturers,boost,ORG,ORG,News
+the trump administration,smic,place,ORG,ORG,News
+marvell technology group,revenue,report,ORG,PRODUCT,News
+shortages,ford motor co,slash,ORG,ORG,News
+the company,time,grow,ORG,ORG,News
+jonathan,weve,track,PERSON,PERSON,News
+baron,cnbc,tell,PERSON,ORG,News
+general motors,downtime,extend,ORG,ORG,News
+the company,downtime,extend,ORG,ORG,News
+products,chips,destine,ORG,ORG,News
+chips,data,store,ORG,ORG,News
+amazon,chips,use,ORG,ORG,News
+smic,applied materials,count,ORG,ORG,News
+xpeng,numbers,report,PERSON,ORG,News
+xpeng,shares,sell,PERSON,PERSON,News
+earnings,intel,report,ORG,ORG,News
+companies,chips,design,ORG,ORG,News
+chip shortages,intel,expect,PERSON,ORG,News
+employers,pay,boost,GPE,GPE,News
+congress,americans,incentivize,ORG,NORP,News
+americans,inflation,expect,NORP,ORG,News
+china,tsmc,press,GPE,ORG,News
+taipei,beijing,blame,ORG,GPE,News
+hall,cnn business,tell,PERSON,ORG,News
+taiwan,get report,benefit,GPE,ORG,News
+manufacturers,job openings,fill,ORG,ORG,News
+singapore,broadcom,domicile,GPE,ORG,News
+models,americans,buy,PERSON,NORP,News
+rebecca bellan,young,interview,PERSON,ORG,News
+moorhead,techcrunch,tell,ORG,ORG,News
+manufacturers,billions,! pump,ORG,GPE,News
+consumers,vehicles,buy,GPE,GPE,News
+texas,foam,ramp,GPE,PERSON,News
+jablonski,thestreet,tell,PERSON,NORP,News
+intel corp intc.o,globalfoundries,acquire,ORG,ORG,News
+tonsor,marketwatch,tell,PERSON,ORG,News
+value,money,save,PERSON,ORG,News
+cole villena,business,cover,GPE,GPE,News
+jim cramer,the company,found,PERSON,ORG,News
+subscriptions,value,provide,ORG,PERSON,News
+jordan,earnings,deliver,GPE,ORG,News
+get report,earnings,jawdropping,ORG,ORG,News
+june,reuterstoru hanaiexports,rise,PRODUCT,ORG,News
+consumers,brands,remain,GPE,ORG,News
+downtime,nissan,schedule,ORG,ORG,News
+rivian,customers,tell,NORP,ORG,News
+rawlinson,insider,tell,ORG,PERSON,News
+tesla,vehicles,produce,PRODUCT,GPE,News
+batteries,tesla,use,GPE,PRODUCT,News
+intel,revenue,report,ORG,PRODUCT,News
+fiorani,insider,tell,PERSON,PERSON,News
+valente,marketwatch,tell,PERSON,ORG,News
+families,electronics,buy,ORG,ORG,News
+goods,something,buy,ORG,PERSON,News
+tesla,subscriptions,offering,PRODUCT,ORG,News
+general motors,ford motor co.,sue,ORG,ORG,News
+critics,tesla,attack,ORG,PRODUCT,News
+growth,chips,serve,ORG,ORG,News
+customers,powerwall,tell,ORG,ORG,News
+musk,supply,double,ORG,ORG,News
+growth,business,slow,ORG,GPE,News
+apple,chips for,stockpile,ORG,ORG,News
+cook,reuters,tell,PERSON,ORG,News
+gamers,nvidia,buy,ORG,ORG,News
+reuters,cook,tell,ORG,PERSON,News
+chip shortages,macs,sell,PERSON,PERSON,News
+earnings,expectations,exceed,ORG,PERSON,News
+amazon,bitcoin,accept,ORG,GPE,News
+amazon,crypto,explore,ORG,GPE,News
+apple inc,growth,forecast,ORG,ORG,News
+intel corp.,advanced micro devices,fight,ORG,ORG,News
+canada,americans,enter,GPE,NORP,News
+qualcomm,revenue,predict,PERSON,PRODUCT,News
+analyst daniel ives,apples,applaud,ORG,GPE,News
+getty imagesit,sony interactive entertainment,sell,PERSON,ORG,News
+toyota,rav4,shipping,ORG,PERSON,News
+the white house,donald trump,win,ORG,PERSON,News
+demand,supply,! meet,ORG,ORG,News
+ford,earnings,report,ORG,ORG,News
+tokyo,the olympic games,host,GPE,EVENT,News
+qualcomm,earnings,expectationtoppe,PERSON,ORG,News
+xilinx xlnx,earnings,report,PERSON,ORG,News
+companies,products,manufacture,ORG,ORG,News
+apple,tesla,buy,ORG,PRODUCT,News
+employers,workers,hire,GPE,ORG,News
+the fed,inflation,rein,ORG,ORG,News
+americans,things,imagine,NORP,GPE,News
+government,money,print,ORG,ORG,News
+splach,indiegogo,fund,PERSON,ORG,News
+fisker,company,turn,ORG,ORG,News
+motors,lucid group,expand,ORG,ORG,News
+sales,inventory,outpace,PRODUCT,ORG,News
+carmaker stellantis,carmaker,lift,ORG,ORG,News
+success,chips,sell,ORG,ORG,News
+bmw,5.2,slide,ORG,PRODUCT,News
+market,software,build,PERSON,ORG,News
+marvell,innovium,buy,ORG,GPE,News
+tokyo,japan inc.,stop,GPE,ORG,News
+tokyo,wages,stop,GPE,PERSON,News
+retailmenots mcgrath,usa today,tell,PRODUCT,ORG,News
+report,expectations,exceed,ORG,PERSON,News
+inc tsla.o.,money,waste,PERSON,ORG,News
+yang,reuters,tell,PERSON,ORG,News
+the white house,manufacturing,revitalize,ORG,ORG,News
+the white house,shortages,face,ORG,ORG,News
+transportation,firms,range,ORG,ORG,News
+focus,compliance,merit,PRODUCT,PRODUCT,News
+time,the central bank,aim,ORG,ORG,News
+ben casselman,reporting,contribute,PERSON,ORG,News
+customers,needs,press,ORG,PERSON,News
+mays,marketwatch,tell,PERSON,ORG,News
+hiring,employers,gain,PERSON,GPE,News
+cnn business,users,convince,ORG,ORG,News
+jim cramer,ford,list,PERSON,ORG,News
+ford,ford f150 lightning,unveil,ORG,ORG,News
+general motors,stations,charge,ORG,PERSON,News
+chip shortages,entegris,hit,PERSON,ORG,News
+spending,pace,! keep,GPE,ORG,News
+employers,wages,raise,GPE,PERSON,News
+canada drives,canada,use,PERSON,GPE,News
+green,techcrunch,tell,PERSON,ORG,News
+amd,revenue,report,ORG,PRODUCT,News
+report,earnings,post,ORG,ORG,News
+home depot,shoppers,visit,PERSON,PERSON,News
+globalfoundries,arm,lend,ORG,ORG,News
+taiwans foreign ministry,reuters,tell,ORG,ORG,News
+u.s.,taiwan,send,GPE,GPE,News
+globalfoundries inc,mubadala,merge,ORG,PERSON,News
+nvidia,revenue,forecast,ORG,PRODUCT,News
+concerns,large,loom,PERSON,ORG,News
+wang,al jazeera,tell,PERSON,ORG,News
+apple,apples,sell,ORG,GPE,News
+stocks,expectations,fail,PERSON,PERSON,News
+manufacturers,chip shortages,face,ORG,PERSON,News
+hardware,tesla,join,ORG,PRODUCT,News
+goods,companies,manufacture,ORG,ORG,News
+salem,cnbc,tell,GPE,ORG,News
+mason trinca,cnbc,tell,ORG,ORG,News
+chips,products,use,ORG,ORG,News
+customers,something,find,ORG,PERSON,News
+safety,veo,focus,PERSON,PERSON,News
+nyc,bird,! launch,ORG,ORG,News
+google maps,bird,integrate,PERSON,ORG,News
+lime,moovit,join,ORG,GPE,News
+the uk government,ree automotive,award,ORG,ORG,News
+volkswagen,reuters volkswagen,tell,ORG,ORG,News
+tesla,company,! be,PRODUCT,ORG,News
+bill ackman,warren buffett,explain,PERSON,PERSON,News
+de geus,synopsys,start,PERSON,PERSON,News
+harris,fears,allay,PERSON,PERSON,News
+investment,samsung group,increase,ORG,ORG,News
+venturebeat,nag,tell,ORG,ORG,News
+email,nag,tell,ORG,ORG,News
+consumers,apple,pass,GPE,ORG,News
+truecar,consumers,enable,ORG,GPE,News
+vietnam,manufacturers,tell,GPE,ORG,News
+the trump administration,huawei,exclude,ORG,GPE,News
+jeremy olivier,verdict,tell,PERSON,ORG,News
+taiwan,covid,weather,GPE,PERSON,News
+banks,data,spending,ORG,ORG,News
+hii,danny hernandez,succeed,ORG,PERSON,News
+hii,beci brenton,succeed,ORG,PERSON,News
+enders,trading,advise,ORG,PRODUCT,News
+intel corp.,the biden administration,lobby,ORG,ORG,News
+gitlin,cnn business,tell,PERSON,ORG,News
+baker,snapeda,create,PERSON,PERSON,News
+jack dorsey,giant,find,PERSON,ORG,News
+jack dorsey,giant,run,PERSON,ORG,News
+trimble,sales,expand,ORG,PRODUCT,News
+customers inventories,backlogs,expand,ORG,PERSON,News
+chip shortages,toyota,slash,PERSON,ORG,News
+tesla inc report,gigafactory,share,ORG,PERSON,News
+inventory,companies,scramble,ORG,ORG,News
+radnet,artificial intelligence,deploy,ORG,ORG,News
+radnet,machine,deploy,ORG,ORG,News
+toyota tm  ,aapl report,visit,ORG,ORG,News
+chip shortages,toyota,close,PERSON,ORG,News
+barack obama,biden,serve,PERSON,PERSON,News
+downtime,privacy policygeneral motors,add,ORG,ORG,News
+employers,pay,raise,GPE,GPE,News
+chip shortages,getty imagestoyota,close,PERSON,PERSON,News
+chip shortages,curb auto emissions,force,PERSON,ORG,News
+weir,the company,like,PERSON,ORG,News
+keith bosse,starlink,tell,PERSON,PERSON,News
+keith bosse,insider,tell,PERSON,PERSON,News
+nios,push,fundraise,PERSON,ORG,News
+spacex,manufacturing,boost,ORG,ORG,News
+covid19,everyone,vaccinate,PERSON,ORG,News
+volkswagen,the supreme court,reverse,ORG,ORG,News
+stores,apps,offer,ORG,ORG,News
+the u.s.,apple,build,ORG,ORG,News
+the u.s.,apple,export,ORG,ORG,News
+intel,chip shortages,suffer,ORG,PERSON,News
+microsoft,users,buy,ORG,ORG,News
+app stores,apple,host,ORG,ORG,News
+apple,developers,prohibit,ORG,PERSON,News
+apple,developers,block,ORG,PERSON,News
+new iphones,apple,introduce,GPE,ORG,News
+users,dispo,sell,ORG,GPE,News
+apple music,shazam,address,ORG,ORG,News
+amazon,android,support,ORG,ORG,News
+continental,partnerships,pursue,ORG,NORP,News
+developers,users,route,PERSON,ORG,News
+2022,supply,constrict,PRODUCT,ORG,News
+capacity,infineon,add,ORG,ORG,News
+general motors,chips,buy,ORG,ORG,News
+railroads,goods,haul,ORG,ORG,News
+stowell,falck,praise,PERSON,PERSON,News
+hertz,buyers,find,GPE,ORG,News
+hearsch,reuters,tell,PERSON,ORG,News
+instacart,retailers,building,ORG,PERSON,News
+markets,news,welcome,ORG,ORG,News
+chipmakers,pace,! keep,PRODUCT,ORG,News
+f learn,jim cramer,buy,PERSON,PERSON,News
+f learn,jim cramer,sell,PERSON,PERSON,News
+the white house,semiconductor,head,ORG,ORG,News
+the white house,companies,clarify,ORG,ORG,News
+the white house,demand,clarify,ORG,ORG,News
+the biden administration,congress,enact,ORG,ORG,News
+getty imagesmusk,elkann,thank,PERSON,PERSON,News
+time,nothing,cure,ORG,GPE,News
+new york,long beach,surpass,GPE,GPE,News
+chinain,goods,come,PERSON,ORG,News
+customers,shortages,expect,ORG,ORG,News
+the white house,apple,invite,ORG,ORG,News
+inflation,the federal reserve,increase,ORG,ORG,News
+neidermeyer,techcrunch,tell,ORG,ORG,News
+fittipaldi,techcrunch,tell,PERSON,ORG,News
+safety,tech,address,PERSON,ORG,News
+ford motor co.,redwood materials,tap,ORG,ORG,News
+nycbased pave motors,battery modules,replace,ORG,PRODUCT,News
+onstar,onstar guardian,expand,PERSON,ORG,News
+blackberry limited report,revenues,release,ORG,PERSON,News
+revenues,expectations,lag,PERSON,PERSON,News
+farley,the free press,tell,PERSON,ORG,News
+dealerships,vehicles,sell,PERSON,GPE,News
+dealerships,vehicles,want,PERSON,GPE,News
+the united states,firms,provide,GPE,ORG,News
+information,companies,provide,ORG,ORG,News
+warren,powell,tell,PERSON,PERSON,News
+powell,lawmakers,tell,PERSON,PERSON,News
+vehicles,lots,fly,GPE,PERSON,News
+hyundai,sales,report,ORG,PRODUCT,News
+plants,vehicles,hold,ORG,GPE,News
+chip shortages,plants,idle,PERSON,ORG,News
+tesla,expectations,beat,PRODUCT,PERSON,News
+tesla inc.,sales,break,ORG,PRODUCT,News
+employees,everyone,urge,ORG,ORG,News
+congress,frances haugen,testify,ORG,PERSON,News
+vijayan,techcrunch,tell,PERSON,ORG,News
+the white house,congress,fund,ORG,ORG,News
+rfi,information,seek,ORG,ORG,News
+manufacturers,front,backend,ORG,ORG,News
+tibco,switch,deploy,ORG,ORG,News
+covid,ohio,strike,PERSON,GPE,News
+farmers,signs,spot,ORG,PERSON,News
+labor,farmers,tell,ORG,ORG,News
+glofo,cash,generate,GPE,PERSON,News
+newlands,program,comment,PERSON,ORG,News
+nucor,stock,buy,ORG,ORG,News
+woronka,hannah sampson,tell,GPE,PERSON,News
+hertz,demand,predict,GPE,ORG,News
+updates,apple,release,GPE,ORG,News
+chips,carmakers,source,ORG,ORG,News
+consumers,games,purchase,GPE,PRODUCT,News
+elon musk,giga texas,dub,PERSON,PERSON,News
+inflation,everyones,worry,ORG,GPE,News
+inflation,everyone,obsess,ORG,ORG,News
+2021,model y,cut,PRODUCT,PRODUCT,News
+trump,americans,leave,ORG,NORP,News
+china,america,rip,GPE,GPE,News
+the us,china,import,ORG,GPE,News
+china,leadership,regain,GPE,ORG,News
+tynan,insider,tell,PERSON,PERSON,News
+manufacturers,the free press,tell,ORG,ORG,News
+marketwatch,services,highlight,ORG,ORG,News
+semiconductors,tablets,stay,GPE,NORP,News
+inflation,risks,pose,ORG,PRODUCT,News
+gartner,chromebooks  ,! factor,PERSON,PERSON,News
+goldman sachs gs.n,earnings,publish,ORG,ORG,News
+chip shortages,carmakers,hamper,PERSON,ORG,News
+partners,apple inc.,tell,ORG,ORG,News
+apple,companies,cost,ORG,ORG,News
+bloomberg,companies,cost,PERSON,ORG,News
+apple,iphone,cut,ORG,ORG,News
+apple,iphone,decrease,ORG,ORG,News
+partners,apple,tell,ORG,ORG,News
+bloomberg,partners,tell,PERSON,ORG,News
+cupertino,partners,tell,GPE,ORG,News
+longterm,something,continue,NORP,PERSON,News
+congress,twitter,pass,ORG,GPE,News
+deloitte global,services,! provide,PERSON,ORG,News
+apple,partners,tell,ORG,ORG,News
+vehicles,consumers,buy,GPE,GPE,News
+hyundai motor,vehicles,deliver,ORG,GPE,News
+william shatner,jeff bezos,tell,PERSON,PERSON,News
+expectations,demand,meet,PERSON,ORG,News
+toyota,suppliers,ask,ORG,NORP,News
+apple,suppliers,inform,ORG,NORP,News
+customers,services,consume,ORG,ORG,News
+the city council,falck,choose,ORG,PERSON,News
+aapl,apple,buy,ORG,ORG,News
+aapl,apple,sell,ORG,ORG,News
+hardware security modules hsm,chips,bankgrade,ORG,ORG,News
+retailers,stock,race,PERSON,ORG,News
+unicredit,clients,tell,ORG,ORG,News
+americans,delta,avoid,NORP,ORG,News
+businesses,workers,find,PERSON,ORG,News
+customers,smartphone,expect,ORG,PRODUCT,News
+davis,insider,tell,PERSON,PERSON,News
+spacex,customers,tell,ORG,ORG,News
+customers,insider,tell,ORG,PERSON,News
+insider,100,pay,PERSON,PRODUCT,News
+insider,mills,avoid,PERSON,ORG,News
+google,something,develop,ORG,PERSON,News
+google,qualcomm,pay,ORG,PERSON,News
+americans,money,spending,NORP,ORG,News
+airlines,sales,report,ORG,PRODUCT,News
+supply,dealerships,run,ORG,PERSON,News
+manufacturers,dealerships,run,ORG,PERSON,News
+volkswagens project trinity,volkswagen,revolutionize,ORG,ORG,News
+tesla,china,accelerate,PRODUCT,GPE,News
+kane pin,kane,change,PERSON,PERSON,News
+revenue,earnings,soar,PRODUCT,ORG,News
+everyone,cloud,start,ORG,PRODUCT,News
+google,google pixel 6,unveil,ORG,ORG,News
+china,america,eclipse,GPE,GPE,News
+yeung,quartz,tell,PERSON,ORG,News
+china,the united states,eclipse,GPE,GPE,News
+intel,earnings,report,ORG,ORG,News
+intel,expectations,beat,ORG,PERSON,News
+apple,apple inc.,launch,ORG,ORG,News
+apple,macs,transition,ORG,PERSON,News
+apple,chip,transition,ORG,PERSON,News
+carmakers,chips,use,ORG,ORG,News
+salespeople,insider,tell,ORG,PERSON,News
+buyers,chips,sell,ORG,ORG,News
+wong,reuters,tell,PERSON,ORG,News
+software,news,rank,ORG,ORG,News
+customers,chips,sell,ORG,ORG,News
+tesla,shanghai gigafactory,open,PRODUCT,GPE,News
+asml,capacity,boost,ORG,ORG,News
+teslas,model 3,sell,ORG,ORG,News
+trading,shares,resume,PRODUCT,PERSON,News
+hong kong,shares,resume,GPE,PERSON,News
+laundrie,authorities,search,PERSON,ORG,News
+tesla,money,rake,PRODUCT,ORG,News
+tesla inc.,revenue,report,ORG,PRODUCT,News
+tesla inc.,growth,increase,ORG,ORG,News
+chip shortages,hp inc.,bedevil,PERSON,ORG,News
+navitas,cash,expand,PERSON,PERSON,News
+subscribe,micron,invest,PERSON,ORG,News
+capital expenditures,micron,invest,ORG,ORG,News
+mehrotra,cnbc,tell,PERSON,ORG,News
+email,sandy mazza,reach,ORG,PERSON,News
+inc. report,ford,rally,ORG,ORG,News
+report,robinhood,vindicate,ORG,ORG,News
+brokers,commissions,charge,ORG,ORG,News
+sienna,sales,lead,ORG,PRODUCT,News
+gelsinger,intel,join,PERSON,ORG,News
+smartphone,nicole lee,sell,PRODUCT,PERSON,News
+globalfoundries inc.,shares,list,ORG,PERSON,News
+globalfoundries,globalfoundries ipo,launch,ORG,ORG,News
+globalfoundries,cash,report,ORG,PERSON,News
+users,miles,earn,ORG,PERSON,News
+zoox,seattle,eye,GPE,GPE,News
+zoox,seattle,pick,GPE,GPE,News
+the financial times,huw pill,tell,ORG,PERSON,News
+expectations,earnings,beat,PERSON,ORG,News
+fields,usa today,tell,ORG,ORG,News
+hertz,tesla,choose,GPE,PRODUCT,News
+hertz,evs,buy,GPE,PERSON,News
+customers,vehicles,charge,ORG,GPE,News
+hertz,push,help,GPE,ORG,News
+tesla,capital,raise,PRODUCT,ORG,News
+workers,amazon,notify,ORG,ORG,News
+goods,links,buy,ORG,ORG,News
+the commerce department,data,publish,ORG,ORG,News
+hertz,hertz teslas,rent,GPE,PERSON,News
+hertz,tesla 3s,rent,GPE,PRODUCT,News
+toyotas corolla,vehicles,sell,PERSON,GPE,News
+hertz,model 3s,offer,GPE,ORG,News
+tesla,evs,buy,PRODUCT,PERSON,News
+the biden administrations,spending,upcome,ORG,GPE,News
+the biden administrations,demand,cool,ORG,ORG,News
+revenues,expectations,exceed,PERSON,PERSON,News
+amd,revenue,gain,ORG,PRODUCT,News
+chip shortages,manufacturers,hit,PERSON,ORG,News
+the biden administration,americans,sell,ORG,NORP,News
+trimble trmb,sales,expand,ORG,PRODUCT,News
+banks,stocks,pull,ORG,PERSON,News
+cook,reuters news,tell,PERSON,ORG,News
+stores,consumers,return,ORG,GPE,News
+apple,chips,buy,ORG,ORG,News
+aapl report,sales,post,ORG,PRODUCT,News
+customersre,sales,dangle,PERSON,PRODUCT,News
+concerns,samsung electronics co.,express,PERSON,ORG,News
+apple inc.,microsoft corp.,overtake,ORG,ORG,News
+microsoft corp.,chip shortages,face,ORG,PERSON,News
+chip shortages,apple,cost,PERSON,ORG,News
+microsoft,apple,pass,ORG,ORG,News
+apple,revenue,post,ORG,PRODUCT,News
+companies,information,hand,ORG,ORG,News
+democrats,china,change,NORP,GPE,News
+home,everyone,stick,ORG,ORG,News
+cramer,target,swap,ORG,GPE,News
+vendors,products,finish,PRODUCT,ORG,News
+dupont,shares,buy,ORG,PERSON,News
+chip shortages,supply,! constrain,PERSON,ORG,News
+companies,fears,spy,ORG,PERSON,News
+companies,the us,ban,ORG,ORG,News
+the commerce department,huawei,accuse,ORG,GPE,News
+huawei,harmony os,bring,GPE,PERSON,News
+china,huawei,use,GPE,GPE,News
+fcc,data,collect,ORG,ORG,News
+senate,bill,pass,ORG,PRODUCT,News
+huawei,huawei p40 pro,launch,GPE,PERSON,News
+feb,verizon,hit,GPE,GPE,News
+huawei,fcc,drop,GPE,ORG,News
+the us,huawei,block,ORG,GPE,News
+huawei,australia,embrace,GPE,GPE,News
+huawei,iphone,beat,GPE,ORG,News
+fedex,the commerce department,sue,ORG,ORG,News
+huawei,harmony os,trademark,GPE,ORG,News
+huawei,employees,cancel,GPE,ORG,News
+china,britain,push,GPE,GPE,News
+huawei,harmony os,develop,GPE,ORG,News
+huawei,android,use,GPE,ORG,News
+consumers,shortages,supply,GPE,ORG,News
+ubs,stocks,prefer,ORG,PERSON,News
+reuters,amon,tell,ORG,PERSON,News
+amon,reuters,tell,PERSON,ORG,News
+nintendo,targets,raise,NORP,NORP,News
+apple,demand,meet,ORG,ORG,News
+semiconductors,products,consume,GPE,ORG,News
+amd,revenue,guide,ORG,PRODUCT,News
+the u.s.,information,volunteer,ORG,ORG,News
+companies,information,volunteer,ORG,ORG,News
+inventories,information,relate,ORG,ORG,News
+companies,thomas palliniinsiderthe ports,favor,ORG,PERSON,News
+shippers,companies,lose,ORG,ORG,News
+companies,shippers,lose,ORG,ORG,News
+thomas,nothing,palliniinsiderthere,PERSON,GPE,News
+companies,containers,fill,ORG,ORG,News
+companies,goods,ship,ORG,ORG,News
+evga,bots,sell,ORG,ORG,News
+bmw,carmakers,ditch,ORG,ORG,News
+mitsubishi,consumer reports,tell,ORG,ORG,News
+venturebeat,cofounder,tell,ORG,ORG,News
+lyft,things,kick,PERSON,GPE,News
+defi,finance,decentralize,PERSON,ORG,News
+chip shortages,everyone,plague,PERSON,ORG,News
+companies,chips,use,ORG,ORG,News
+customers,chips,buy,ORG,ORG,News
+chaillan,the financial times,tell,PERSON,ORG,News
+companies,sellers,serve,ORG,ORG,News
+moov,executives,hire,ORG,ORG,News
+the u.s.,smic,place,ORG,ORG,News
+companies,governments,play,ORG,NORP,News
+lawmakers,dod,push,PERSON,ORG,News
+the white house,intel,discourage,ORG,ORG,News
+intels,the white house,brief,GPE,ORG,News
+tesla,jon nguyen,schedule,PRODUCT,PERSON,News
+tesla,chip shortages,cite,PRODUCT,PERSON,News
+retailers,seroka retailers,tell,PERSON,ORG,News
+morgan,insider,tell,ORG,PERSON,News
+chips,power,use,ORG,GPE,News
+bloomberg,something,report,PERSON,PERSON,News
+apple,qualcomm,sell,ORG,PERSON,News
+air,weve,push,ORG,PERSON,News
+ford,capacity,reserve,ORG,ORG,News
+companies,energy,conserve,ORG,ORG,News
+analog devices,earnings,report,ORG,ORG,News
+gabelli,chips,sell,ORG,ORG,News
+nxp,chips,sell,ORG,ORG,News
+taiwan semiconductor manufacturing company,credit,deserve,ORG,PERSON,News
+smith,schumer,criticize,ORG,PERSON,News
+nvidia,intel,outgrow,ORG,ORG,News
+china,the u.s.,outpace,GPE,ORG,News
+the arizona republic,buttigieg,tell,GPE,PERSON,News
+features,customers,add,ORG,ORG,News
+mcgrath,marketwatch,tell,PERSON,ORG,News
+hart,fulltime,work,ORG,ORG,News
+mobile,products,use,GPE,ORG,News
+biden,the strategic petroleum reserve,tap,PERSON,ORG,News
+samsung,texas,choose,ORG,GPE,News
+samsung,taylor,choose,ORG,GPE,News
+the biden administration,equity,place,ORG,ORG,News
+inflation,the central bank,push,ORG,ORG,News
+inflation,americans,push,ORG,NORP,News
+france,app stores,delist,GPE,ORG,News
+bots,consoles,buy,ORG,ORG,News
+totoki,bloomberg,tell,PERSON,PERSON,News
+retailers,workers,allocate,PERSON,ORG,News
+china,taiwan,recapture,GPE,GPE,News
+the trump administration,chip shortages,begin,ORG,PERSON,News
+products,tsmc,negotiate,ORG,ORG,News
+chinas shanghai composite,0.59,rally,ORG,PRODUCT,News
+the city council,mpd metropolitan police department,defund,ORG,ORG,News
+vehicles,ford motor co.,mull,GPE,ORG,News
+robinhood markets inc.,earnings,report,ORG,ORG,News
+robinhood markets inc.,sales,report,ORG,PRODUCT,News
+ford,suv,upcome,ORG,ORG,News
+more.hillary clinton,the u.s.,tell,PERSON,ORG,News
+john kerry,iran,tell,PERSON,GPE,News
+texas,census,sweepstake,GPE,PERSON,News
+insider,nick nelson,speak,PERSON,PERSON,News
+nick nelson,insider,tell,PERSON,PERSON,News
+consensus,earnings,upgrade,ORG,ORG,News
+texas instruments,earnings,report,ORG,ORG,News
+maintenance,vehicles,focus,PERSON,GPE,News
+globalfoundries,revenue,expect,ORG,PRODUCT,News
+goods,consumers,spend,ORG,GPE,News
+forward.the united states,the united states,follow,GPE,GPE,News
+containers,retailers,claim,ORG,PERSON,News
+the company,vendors,inform,ORG,PRODUCT,News
+apple,suppliers,tell,ORG,NORP,News
+apple inc,vendors,inform,ORG,PRODUCT,News
+apple,vendors,tell,ORG,PRODUCT,News
+ford,chips,begin,ORG,ORG,News
+disney,bob,lead,ORG,PERSON,News
+raimondo,cnn,tell,PERSON,ORG,News
+raimondo,companies,force,PERSON,ORG,News
+businesses,workers,hire,PERSON,ORG,News
+kids,residents,care,PERSON,ORG,News
+honda,electric,embrace,ORG,ORG,News
+abbott,bartiromo,tell,ORG,PERSON,News
+semiconductors,supply,outstrip,GPE,ORG,News
+nuros,priuses,selfdrive,ORG,PRODUCT,News
+zum,liz sanchez,hire,PERSON,PERSON,News
+tesla,earnings,deliver,PRODUCT,ORG,News
+apple,suppliers,caution,ORG,NORP,News
+apple,demand,expect,ORG,ORG,News
+micron,atlanta,choose,ORG,GPE,News
+oregon,wyse,position,GPE,PERSON,News
+companies,wages,raise,ORG,PERSON,News
+palantir,insights,provide,ORG,ORG,News
+micron technology inc.,atlanta,choose,ORG,GPE,News
+kellogg,workers,replace,ORG,ORG,News
+apple inc.,vendors,instruct,ORG,PRODUCT,News
+money,hero enterprise,pour,ORG,ORG,News
+aggarwal,ola electric,spearhead,GPE,ORG,News
+retailers,consumers,urge,PERSON,GPE,News
+retailers,shoppers,encourage,PERSON,PERSON,News
+freeman,the biden administration,convince,ORG,ORG,News
+fidelity,money,raise,ORG,ORG,News
+cnbc,capacity,increase,ORG,ORG,News
+workers,ford,bring,ORG,ORG,News
+users,nio evs,buy,ORG,PRODUCT,News
+companies,investment,cut,ORG,ORG,News

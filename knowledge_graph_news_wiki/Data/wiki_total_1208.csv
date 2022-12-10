@@ -1,0 +1,1427 @@
+:START_ID,:END_ID,:TYPE,subject_entity,object_entity,source_type
+chips,resin,use,ORG,ORG,Wiki
+avago technologies,infineon technologies,acquire,ORG,ORG,Wiki
+avago technologies,broadcom corporation,buy,ORG,ORG,Wiki
+qualcomm,broadcom,purchase,PERSON,ORG,Wiki
+the european union,broadcom,stop,ORG,ORG,Wiki
+broadcom,cloud,acquire,ORG,PERSON,Wiki
+broadcom,netflix,sue,ORG,ORG,Wiki
+the u.s. geological survey,the japan meteorological agency,lower,ORG,ORG,Wiki
+japan,a state of emergency,declare,GPE,ORG,Wiki
+english,the japan digital archive,present,LANGUAGE,ORG,Wiki
+the white house,information,provide,ORG,ORG,Wiki
+legislation,union,push,PERSON,ORG,Wiki
+amd,manufacturing,enter,ORG,GPE,Wiki
+amd,advanced micro computers,close,ORG,ORG,Wiki
+intel,amd,provide,ORG,ORG,Wiki
+amd,manufacturing,spin,ORG,GPE,Wiki
+amd,amd of,divest,ORG,ORG,Wiki
+june,who,serve,GPE,ORG,Wiki
+amd,xilinx,acquire,ORG,GPE,Wiki
+intel,amd,countersue,ORG,ORG,Wiki
+pentium,intel,introduce,ORG,ORG,Wiki
+amd,nexgen,purchase,ORG,ORG,Wiki
+am3,phenom ii,use,PERSON,PERSON,Wiki
+2010,magny cours,release,PRODUCT,ORG,Wiki
+windows 7,laptops,run,PRODUCT,NORP,Wiki
+bulldozer,amd,bring,PERSON,ORG,Wiki
+2013,piledriver,follow,PRODUCT,PERSON,Wiki
+amd,amd ryzen mobile 4000,announce,ORG,PRODUCT,Wiki
+microsoft,ati,design,ORG,ORG,Wiki
+advanced micro devices,ati,acquire,ORG,ORG,Wiki
+raja koduri,rtg,leave,PERSON,ORG,Wiki
+amd,the amd embedded gseries accelerated processing unit,announce,ORG,ORG,Wiki
+amd,radeon,sell,ORG,ORG,Wiki
+2017,amd,note,PRODUCT,ORG,Wiki
+amd,silicon,gain,ORG,ORG,Wiki
+microsoft,amd,power,ORG,ORG,Wiki
+samsung,amd,partner,ORG,ORG,Wiki
+amd,mmx,acknowledge,ORG,ORG,Wiki
+the enough project,amd,rat,ORG,ORG,Wiki
+corona,tedros adhanom ghebreyesus,explain,GPE,PERSON,Wiki
+covid19,who,test,PERSON,ORG,Wiki
+south korea,quarantines,introduce,GPE,PERSON,Wiki
+cdc,data,publish,ORG,GPE,Wiki
+people,delta,transmit,ORG,ORG,Wiki
+who,people,encourage,ORG,ORG,Wiki
+italy,china,overtake,GPE,GPE,Wiki
+france,who,infect,GPE,ORG,Wiki
+authorities,contact tracing,manage,ORG,PERSON,Wiki
+iran,cases,confirm,GPE,PERSON,Wiki
+south korea,covid19,confirm,GPE,PERSON,Wiki
+winter,covid19,rise,PERSON,PERSON,Wiki
+italy,who,travel,GPE,ORG,Wiki
+oceania,the covid19 pandemic,reach,ORG,ORG,Wiki
+new zealand,australia,praise,GPE,GPE,Wiki
+norway,help,offer,GPE,ORG,Wiki
+south korea,japans,criticise,GPE,NORP,Wiki
+china,cases,confine,GPE,PERSON,Wiki
+amnesty international,italy,change,ORG,GPE,Wiki
+covid23,covid19,mutate,ORG,PERSON,Wiki
+nick szabo,gold,describe,PERSON,ORG,Wiki
+ethereum,pow,transition,ORG,ORG,Wiki
+401ks,cryptocurrency,offer,GPE,NORP,Wiki
+bitcoin,governments,undermine,GPE,ORG,Wiki
+banks,capital,set,ORG,ORG,Wiki
+el salvador,bitcoin,adopt,GPE,GPE,Wiki
+bittrex,bitcoin gold,delist,ORG,ORG,Wiki
+venmo,support,add,ORG,ORG,Wiki
+authors,journal,sign,ORG,ORG,Wiki
+energy,bitcoin,run,ORG,GPE,Wiki
+jamie dimon,bitcoin,dub,PERSON,GPE,Wiki
+honeywell,intel,ask,ORG,ORG,Wiki
+gordon e. moore,intel,withdraw,PERSON,ORG,Wiki
+vccp,vcc,pump,ORG,ORG,Wiki
+the tokyo stock exchange,hitachi,list,ORG,ORG,Wiki
+western digital,hitachi,sell,ORG,ORG,Wiki
+kkr,general electric,acquire,ORG,ORG,Wiki
+japan,hitachi,sell,GPE,ORG,Wiki
+showa denko,hitachi chemical,buy,PERSON,ORG,Wiki
+hitachi rail italy,finmeccanica,rename,ORG,GPE,Wiki
+western digital,hgst,purchase,ORG,ORG,Wiki
+2016,ihs markit ltd,form,PRODUCT,ORG,Wiki
+office max announced,gateway,replace,ORG,PERSON,Wiki
+silicon,fuller,work,ORG,PERSON,Wiki
+james l. buie,ttl,develop,PERSON,ORG,Wiki
+intel corporation,microprocessors,supply,ORG,GPE,Wiki
+samsung,intel,surpass,ORG,ORG,Wiki
+huawei,chips,release,PERSON,ORG,Wiki
+gordon e. moore,intel,find,PERSON,ORG,Wiki
+gordon e. moore,fairchild semiconductor,find,PERSON,ORG,Wiki
+who,intel,run,ORG,ORG,Wiki
+google,android 2.3,announce,ORG,ORG,Wiki
+data,information,read,GPE,ORG,Wiki
+barrett,andy grove,replace,PERSON,PERSON,Wiki
+pat gelsinger,swan,replace,PERSON,PERSON,Wiki
+intel,intel global diversity  ,release,ORG,ORG,Wiki
+intel,passwordbox,buy,ORG,ORG,Wiki
+research,ericsson,pool,ORG,ORG,Wiki
+zilog,who,sell,GPE,ORG,Wiki
+intels wimax,centrino,apply,ORG,ORG,Wiki
+intel clear,intel,replace,ORG,ORG,Wiki
+the european commission,intel,cease,ORG,ORG,Wiki
+amd,chips,manufacture,ORG,ORG,Wiki
+dell,amd,adopt,ORG,ORG,Wiki
+intel,people,fire,ORG,ORG,Wiki
+intel,who,fire,ORG,ORG,Wiki
+s. j. mathes,the mirror company,join,PERSON,ORG,Wiki
+ron burkle,los angeles,billionaire,PERSON,GPE,Wiki
+times times,metromix,shut,ORG,ORG,Wiki
+walt disney studios,the times,blacklist,ORG,ORG,Wiki
+the times,the pasadena sun,publish,ORG,ORG,Wiki
+the times,the glendale newspress,publish,ORG,ORG,Wiki
+burbank leader,the glendale newspress,acquire,ORG,ORG,Wiki
+timesmirror broadcasting,ktbctv,acquire,ORG,ORG,Wiki
+the islamic delhi sultanate,north india,save,ORG,GPE,Wiki
+india,139th,rank,GPE,PERSON,Wiki
+the united states,india,view,GPE,GPE,Wiki
+2022,india,rank,PRODUCT,GPE,Wiki
+administration,english,use,ORG,LANGUAGE,Wiki
+jeans,who,favour,NORP,ORG,Wiki
+microsoft,the covid19 pandemic,strain,ORG,ORG,Wiki
+players,games,obtain,ORG,ORG,Wiki
+players,games,store,ORG,ORG,Wiki
+users,games,play,ORG,ORG,Wiki
+sony,sony playstation plus,revamp,ORG,ORG,Wiki
+hyatt,historians,place,PERSON,NORP,Wiki
+servers,r3000 1989,use,PERSON,EVENT,Wiki
+the byte shop,apple,deliver,ORG,ORG,Wiki
+usb,headphones,connect,ORG,ORG,Wiki
+audio,users,listen,PERSON,ORG,Wiki
+irwin m. jacobs,qualcomm,establish,PERSON,PERSON,Wiki
+arm ltd.,qualcomm,sue,ORG,PERSON,Wiki
+hughes aircraft,qualcomm,provide,PERSON,PERSON,Wiki
+research,qualcomm,provide,ORG,PERSON,Wiki
+eudora,microsoft outlook,eclipse,PRODUCT,ORG,Wiki
+qualcomm,verizon,create,PERSON,GPE,Wiki
+qualcomm,the allseen alliance,form,PERSON,ORG,Wiki
+2019,qualcomm life,sell,PRODUCT,ORG,Wiki
+broadcom,the international trade commission,ask,ORG,ORG,Wiki
+qualcomm,broadcom,sue,PERSON,ORG,Wiki
+qualcomm,the international trade commission,petition,PERSON,ORG,Wiki
+qualcomm,apple,offer,PERSON,ORG,Wiki
+space,silicon,distribute,NORP,ORG,Wiki
+nature,silicon,associate,ORG,ORG,Wiki
+silicon,diatoms,use,ORG,ORG,Wiki
+airgo networks,qualcomm,acquire,PERSON,PERSON,Wiki
+snapdragon,java se,port,GPE,ORG,Wiki
+snapdragon,java se,optimize,GPE,ORG,Wiki
+kryo,qualcomm,use,ORG,PERSON,Wiki
+qualcomm,qualcomm snapdragon,showcase,PERSON,PERSON,Wiki
+ram,sram,integrate,ORG,ORG,Wiki
+joseon,goryeo,replace,PERSON,PERSON,Wiki
+south koreans,han,use,NORP,NORP,Wiki
+bce,gija joseon,find,ORG,PERSON,Wiki
+who,baekje,subdue,ORG,PERSON,Wiki
+goryeo,who,establish,PERSON,ORG,Wiki
+the khitan empire,balhae,fall,GPE,GPE,Wiki
+wang geon,balhae,welcome,PERSON,GPE,Wiki
+wang geon,balhae,include,PERSON,GPE,Wiki
+goryeo,korea,rule,PERSON,GPE,Wiki
+china,who,attack,GPE,ORG,Wiki
+dean rusk,seoul,place,PERSON,GPE,Wiki
+the united states,who,appoint,GPE,ORG,Wiki
+the temporary commission,elections,observe,ORG,ORG,Wiki
+north korea,south korea,invade,GPE,GPE,Wiki
+seoul,the olympic games,host,GPE,EVENT,Wiki
+the covid19 pandemic,north korea,affect,ORG,GPE,Wiki
+south koreans,education,view,NORP,ORG,Wiki
+south korea,buddhism,introduce,GPE,NORP,Wiki
+korea,the liancourt rocks,return,GPE,GPE,Wiki
+the united states,korea,administrate,GPE,GPE,Wiki
+north korea,south korea,share,GPE,GPE,Wiki
+south korea,the asian games,host,GPE,EVENT,Wiki
+south korea,the winter universiade,host,GPE,ORG,Wiki
+2010,the korean grand prix,hold,PRODUCT,EVENT,Wiki
+hdpe,hardware,consist,ORG,ORG,Wiki
+farmers,taiwan,settle,ORG,GPE,Wiki
+children,who,! accompany,ORG,ORG,Wiki
+taiwan,japan,relinquish,GPE,GPE,Wiki
+japanese,taiwan,bind,NORP,GPE,Wiki
+wwii,japans,surrender,EVENT,NORP,Wiki
+formosa,japan,renounce,GPE,GPE,Wiki
+taiwan,who,come,GPE,ORG,Wiki
+the united states,taiwan,join,GPE,GPE,Wiki
+china,taiwan,relate,GPE,GPE,Wiki
+france,hardware,sell,GPE,ORG,Wiki
+the united states,taiwan,defend,GPE,GPE,Wiki
+vernacular chinese,classical chinese,replace,NORP,NORP,Wiki
+kaohsiung,the 2009 world games,hold,GPE,EVENT,Wiki
+taiwan,taekwondo,introduce,GPE,ORG,Wiki
+russia,ukraine,invade,GPE,GPE,Wiki
+russia,crimea,annex,GPE,PERSON,Wiki
+russia,the hungarian peoples republic,recognise,GPE,ORG,Wiki
+russia,kherson,capture,GPE,ORG,Wiki
+ukraine,kherson,retook,GPE,ORG,Wiki
+the world,protests,occur,ORG,NORP,Wiki
+france,russia,antagonize,GPE,GPE,Wiki
+crimea,russia,join,PERSON,GPE,Wiki
+russia,ukraine,insist,GPE,GPE,Wiki
+putin,olaf scholz,warn,PERSON,ORG,Wiki
+ukraine,putin,invade,GPE,PERSON,Wiki
+zelenskyy,olaf scholz,renounce,PERSON,ORG,Wiki
+russia,kyiv,seize,GPE,PERSON,Wiki
+putin,emmanuel macron,tell,PERSON,PERSON,Wiki
+russia,ukraine,blame,GPE,GPE,Wiki
+ukraine,oleksandrivka,retake,GPE,GPE,Wiki
+kyselivka,ukraine,retake,GPE,GPE,Wiki
+the kiel institute,84.2b,track,ORG,PERSON,Wiki
+the united states,ukraine,supply,GPE,GPE,Wiki
+ukraine,legislation,provide,GPE,PERSON,Wiki
+russia,donbas,recognise,GPE,GPE,Wiki
+sp global,russia,place,ORG,GPE,Wiki
+russia,protests,occupy,GPE,NORP,Wiki
+2021,the wii,surpass,PRODUCT,ORG,Wiki
+the wii,nintendo,reposition,ORG,ORG,Wiki
+2012,the wii,release,PRODUCT,ORG,Wiki
+iwata,genyo takeda,instruct,ORG,PERSON,Wiki
+the united states,nintendo,launch,GPE,ORG,Wiki
+nintendo,the wii,build,ORG,ORG,Wiki
+games,users,expand,ORG,ORG,Wiki
+nintendo,players,use,ORG,ORG,Wiki
+players,remote,hold,ORG,ORG,Wiki
+wii fit,the wii balance board,release,PERSON,ORG,Wiki
+people,games,! play,ORG,ORG,Wiki
+games,players,purchase,ORG,ORG,Wiki
+the wii,players,purchase,ORG,ORG,Wiki
+ars technica,the wii,compare,PERSON,ORG,Wiki
+who,nintendo,sue,ORG,ORG,Wiki
+impa,link,tell,PERSON,ORG,Wiki
+japan,zelda ii,release,GPE,PERSON,Wiki
+the u.s.,world war ii,enter,ORG,EVENT,Wiki
+the virginia colony,harvard college,establish,ORG,ORG,Wiki
+who,the continental army,lead,ORG,ORG,Wiki
+florida,spain,cede,GPE,GPE,Wiki
+the united states,american samoa,acquire,GPE,ORG,Wiki
+denmark,the u.s. virgin islands,purchase,GPE,GPE,Wiki
+movement.the united states,israel,support,GPE,GPE,Wiki
+26th,the u.s.,rank,PRODUCT,ORG,Wiki
+the united states,taiwan,supply,GPE,GPE,Wiki
+air force,the global positioning system,operate,ORG,ORG,Wiki
+the united states,2nd,rank,GPE,PRODUCT,Wiki
+the united states,the world,lead,GPE,ORG,Wiki
+the u.s.,eight olympic games,hold,ORG,EVENT,Wiki
+the 2028 summer olympics,los angeles,host,EVENT,GPE,Wiki
+who,the 2020 presidential election,overturn,ORG,EVENT,Wiki
+2020,biden,elect,PRODUCT,PERSON,Wiki
+gores,dukakis,paint,ORG,PERSON,Wiki
+george w. bush,treasurer ann richards,deny,PERSON,PERSON,Wiki
+west virginia,rush holt,win,GPE,PERSON,Wiki
+biden,sussex county,lose,PERSON,GPE,Wiki
+democrat,boggs,challenge,NORP,PERSON,Wiki
+biden,boggs,trail,PERSON,PERSON,Wiki
+biden,boggs,upset,PERSON,PERSON,Wiki
+barack,people,touch,PERSON,ORG,Wiki
+barack,people,inspire,PERSON,ORG,Wiki
+judy woodruff,pbs,moderate,PERSON,ORG,Wiki
+iowa,gravel,! have,GPE,GPE,Wiki
+iowa,dennis kucinich,! rent,GPE,PERSON,Wiki
+the democratic party,cnn,propose,ORG,ORG,Wiki
+cnn,the compassion forum,broadcast,ORG,EVENT,Wiki
+caucus,who,! choose,ORG,ORG,Wiki
+the democratic national convention,delegates,vote,ORG,GPE,Wiki
+delegates,candidates,remove,GPE,PERSON,Wiki
+delegates,the state,select,GPE,GPE,Wiki
+obama,clinton,beat,PERSON,PERSON,Wiki
+clinton,obamas,compare,PERSON,PERSON,Wiki
+edwards,clinton,! endorse,PERSON,PERSON,Wiki
+connecticut,obama,win,GPE,PERSON,Wiki
+ohio,clinton,favor,GPE,PERSON,Wiki
+obama,clintons,erase,PERSON,PERSON,Wiki
+total,clintons,surpass,ORG,PERSON,Wiki
+clinton,obama,endorse,PERSON,PERSON,Wiki
+obama,biden,select,PERSON,PERSON,Wiki
+obama,david axelrod,tell,PERSON,PERSON,Wiki
+kaine,obama,tell,PERSON,PERSON,Wiki
+mccain,obama,criticize,PERSON,PERSON,Wiki
+obama,mccain,tie,PERSON,PERSON,Wiki
+palin,biden,ask,GPE,PERSON,Wiki
+biden,john mccain,demonstrate,PERSON,PERSON,Wiki
+biden,john mccain,know,PERSON,PERSON,Wiki
+a u.s. presidential forum,google,sponsor,ORG,ORG,Wiki
+obama,the iraq war,oppose,PERSON,EVENT,Wiki
+bush,mccain,endorse,PERSON,PERSON,Wiki
+indiana,democratic,vote,GPE,NORP,Wiki
+barack obama,clinton,pass,PERSON,PERSON,Wiki
+barack obama,voters,view,PERSON,ORG,Wiki
+the state,iowa,view,GPE,GPE,Wiki
+barack obama,the state,set,PERSON,GPE,Wiki
+clinton,barack obama,trail,PERSON,PERSON,Wiki
+hillary clinton,ohio,carry,PERSON,GPE,Wiki
+mccain,rudy giuliani,displace,PERSON,PERSON,Wiki
+romney,mccain,endorse,PERSON,PERSON,Wiki
+george w. bush,mccain,endorse,PERSON,PERSON,Wiki
+sarah palin,independents,alienate,PERSON,ORG,Wiki
+mccain,obama,! debate,PERSON,PERSON,Wiki
+states,mccain,work,GPE,PERSON,Wiki
+voters,obama,support,ORG,PERSON,Wiki
+george stephanopoulos,moderators charles gibson,defend,PERSON,PERSON,Wiki
+idaho,mccain,win,GPE,PERSON,Wiki
+2017,the d.c. circuit,rule,PRODUCT,ORG,Wiki
+who,jobs,bring,ORG,PERSON,Wiki
+obama,bill clinton,nominate,PERSON,PERSON,Wiki
+obama,romney,defeat,PERSON,PERSON,Wiki
+2016,who,elect,PRODUCT,ORG,Wiki
+candidates,votes,split,PERSON,PERSON,Wiki
+donald trump,the 2020 presidential election,lose,PERSON,EVENT,Wiki
+obama,ryans,carry,PERSON,NORP,Wiki
+candidates,roman catholics,practice,PERSON,NORP,Wiki
+candidates,delegates,attend,PERSON,GPE,Wiki
+milwaukee,biden,travel,GPE,PERSON,Wiki
+the wisconsin center,fencing,surround,ORG,GPE,Wiki
+sanders,biden,endorse,ORG,PERSON,Wiki
+producer,who,act,GPE,ORG,Wiki
+hillary clinton,biden,praise,PERSON,PERSON,Wiki
+hillary clinton,harris,praise,PERSON,PERSON,Wiki
+hillary clinton,voters,repeat,PERSON,ORG,Wiki
+trump,hillary clinton,defeat,ORG,PERSON,Wiki
+john kerry,trump,criticize,PERSON,ORG,Wiki
+michelle obama,the united states,characterize,PERSON,GPE,Wiki
+michelle obama,trump,charge,PERSON,ORG,Wiki
+michelle obama,trumps,fault,PERSON,PERSON,Wiki
+obama,john lewis,quote,PERSON,PERSON,Wiki
+nancy pelosi,biden,praise,PERSON,PERSON,Wiki
+who,donald trump,believe,ORG,PERSON,Wiki
+urquiza,donald trump,criticize,PERSON,PERSON,Wiki
+fox news,biden,retain,ORG,PERSON,Wiki
+bullock,swalwell,replace,ORG,ORG,Wiki
+cnn,iowa,host,ORG,GPE,Wiki
+sanders,warren,tell,ORG,GPE,Wiki
+sanders,warren,decline,ORG,GPE,Wiki
+sanders,warren,comment,ORG,GPE,Wiki
+the iowa caucus,who,gain,ORG,ORG,Wiki
+candidates,the iowa caucus,apply,PERSON,ORG,Wiki
+klobuchar,buttigieg,question,ORG,PERSON,Wiki
+biden,sanders,press,PERSON,ORG,Wiki
+sanders,medicare,fund,ORG,ORG,Wiki
+moderator linsey davis,buttigieg,inquire,PERSON,PERSON,Wiki
+the national security council,who,fire,ORG,ORG,Wiki
+trump,who,fire,ORG,ORG,Wiki
+warren,bloomberg,reprimand,GPE,PERSON,Wiki
+warren,buttigieg,attack,GPE,PERSON,Wiki
+biden,sanders,hit,PERSON,ORG,Wiki
+education,barack obama,praise,ORG,PERSON,Wiki
+warren,klobuchar,suspend,GPE,ORG,Wiki
+candidates,climate action,implement,PERSON,ORG,Wiki
+joe biden,protesters,interrupt,PERSON,ORG,Wiki
+msnbc,yang,join,ORG,PERSON,Wiki
+george floyd,who,murder,PERSON,ORG,Wiki
+the democratic party,presidential primaries,organize,ORG,ORG,Wiki
+south carolina,biden,win,GPE,PERSON,Wiki
+candidates,delegates,divide,PERSON,GPE,Wiki
+liberal,who,consider,ORG,ORG,Wiki
+biden,trump,interrupt,PERSON,ORG,Wiki
+biden,trump,criticize,PERSON,ORG,Wiki
+bidens,trump,interrupt,PERSON,ORG,Wiki
+bidens,trump,criticize,PERSON,ORG,Wiki
+trump,wallace,interrupt,ORG,PERSON,Wiki
+biden,trump,press,PERSON,ORG,Wiki
+cohost brian kilmeade,trump,criticize,PERSON,ORG,Wiki
+hubert humphrey,richard nixon,debate,PERSON,PERSON,Wiki
+trump,biden,criticize,ORG,PERSON,Wiki
+trump,nancy pelosi,blame,ORG,PERSON,Wiki
+biden,trump,ask,PERSON,ORG,Wiki
+biden,unity,stress,PERSON,GPE,Wiki
+trump,who,appoint,ORG,ORG,Wiki
+the covid19 pandemic,concerns,regard,ORG,PERSON,Wiki
+who,china,visit,ORG,GPE,Wiki
+trumps,biden,respond,PERSON,PERSON,Wiki
+biden,the tax cuts,describe,PERSON,ORG,Wiki
+trump,the paris agreement,condemn,ORG,ORG,Wiki
+biden,trump,rejoin,PERSON,ORG,Wiki
+biden,trump,ban,PERSON,ORG,Wiki
+biden,trump,condemn,PERSON,ORG,Wiki
+the state,hillary clinton,win,GPE,PERSON,Wiki
+trump,florida,carry,ORG,GPE,Wiki
+asian americans,biden,support,NORP,PERSON,Wiki
+trump,victory,declare,ORG,PERSON,Wiki
+biden,arizona,win,PERSON,GPE,Wiki
+fox news,biden,declare,ORG,PERSON,Wiki
+biden,ground,lead,PERSON,ORG,Wiki
+biden,ground,gain,PERSON,ORG,Wiki
+murphy,biden,acknowledge,PERSON,PERSON,Wiki
+trump,who,support,ORG,ORG,Wiki
+trump,governors,support,ORG,ORG,Wiki
+governors,states,support,ORG,GPE,Wiki
+governors,votes,tell,ORG,PERSON,Wiki
+trump,democrats,decertify,ORG,NORP,Wiki
+trump,pence,pressure,ORG,ORG,Wiki
+campaign,americans,vaccinate,ORG,NORP,Wiki
+nato,ukraine,admit,ORG,GPE,Wiki
+russia,covid19,discuss,GPE,PERSON,Wiki
+biden,putin,warn,PERSON,PERSON,Wiki
+putin,the united states,criticize,PERSON,GPE,Wiki
+the biden inaugural committee,people,urge,ORG,ORG,Wiki
+2015,who,die,PRODUCT,ORG,Wiki
+the us,innovation,stimulate,ORG,ORG,Wiki
+senate,arun majumdar,confirm,ORG,PERSON,Wiki
+buildings,energy,save,GPE,ORG,Wiki
+systems,biofuels,create,ORG,PERSON,Wiki
+arpae,the energy innovation summit,host,ORG,ORG,Wiki
+the us,australia,help,ORG,GPE,Wiki
+australia,the us,approach,GPE,ORG,Wiki
+parliament,johnson,tell,ORG,PERSON,Wiki
+australia,heu,buy,GPE,ORG,Wiki
+the u.s.,japan,invite,ORG,GPE,Wiki
+australia,france,trust,GPE,GPE,Wiki
+france,nato,leave,GPE,ORG,Wiki
+france,india,contact,GPE,GPE,Wiki
+china,australia,target,GPE,GPE,Wiki
+beijing,kiribati,tell,GPE,GPE,Wiki
+cnn,who,tell,ORG,ORG,Wiki
+the covid19 pandemic,joseph mercola,draw,ORG,PERSON,Wiki
+the united states,verizon,launch,GPE,GPE,Wiki
+who,aircraft,direct,ORG,ORG,Wiki
+the united states,innovation,facilitate,GPE,ORG,Wiki
+law,2021,sign,PERSON,PRODUCT,Wiki
+donald trump,2021,sign,ORG,PRODUCT,Wiki
+states,grants,provide,GPE,ORG,Wiki
+grants,states,provide,ORG,GPE,Wiki
+dyer,the washington post,tell,PERSON,ORG,Wiki
+chicago,biden,arrest,GPE,PERSON,Wiki
+2015,beshear,elect,PRODUCT,ORG,Wiki
+beshear,bevin,sue,ORG,GPE,Wiki
+daniel cameron,bevin,succeed,PERSON,GPE,Wiki
+beshear,bevin,defeat,ORG,GPE,Wiki
+beshear,a state of emergency,declare,ORG,ORG,Wiki
+beshear,customers,require,ORG,ORG,Wiki
+beshear,bevin,criticize,ORG,GPE,Wiki
+trump,state governments,tell,ORG,ORG,Wiki
+artemis 1,nasa,plan,ORG,ORG,Wiki
+artemis,nasa,plan,ORG,ORG,Wiki
+nrho,hls,reach,ORG,ORG,Wiki
+nrho,ppe,deliver,ORG,ORG,Wiki
+nasa,the senate judiciary committee,request,ORG,ORG,Wiki
+nasa,spacex,contract,ORG,ORG,Wiki
+blue origin,nasa,sue,ORG,ORG,Wiki
+orbitbeyonds,nasa,grant,ORG,ORG,Wiki
+nasa,masten space systems,select,ORG,ORG,Wiki
+nasa,firefly aerospace,select,ORG,PERSON,Wiki
+nasa,boeing,purchase,ORG,ORG,Wiki
+leo,starship hls,launch,ORG,PRODUCT,Wiki
+clps,the spacex falcon heavy,select,ORG,ORG,Wiki
+lockheed martin,orion,conceive,PERSON,ORG,Wiki
+gateway,dragon xl,stay,PERSON,ORG,Wiki
+the democratic national convention,who,work,ORG,ORG,Wiki
+obama,biden,ask,PERSON,PERSON,Wiki
+obama,biden,apologize,PERSON,PERSON,Wiki
+biden,donald trump,contrast,PERSON,PERSON,Wiki
+donald trump,who,vote,PERSON,ORG,Wiki
+2020,who,vote,PRODUCT,ORG,Wiki
+trump,who,vote,ORG,ORG,Wiki
+cbs,young sheldon,air,ORG,PERSON,Wiki
+obama,biden,tell,PERSON,PERSON,Wiki
+who,hillary clinton,support,ORG,PERSON,Wiki
+biden,mccain,attack,PERSON,PERSON,Wiki
+bidens,obama,remark,PERSON,PERSON,Wiki
+the republican national committee,the federal election commission,investigate,ORG,ORG,Wiki
+john mccain,obama,criticize,PERSON,PERSON,Wiki
+jonathan hoefler,gotham,design,PERSON,ORG,Wiki
+barack obama,joss stone,ask,PERSON,PERSON,Wiki
+research,youtube,release,ORG,ORG,Wiki
+who,mccain,favor,ORG,PERSON,Wiki
+biden,beau,introduce,PERSON,PERSON,Wiki
+joe biden,beau,mention,PERSON,PERSON,Wiki
+buttigieg,biden,endorse,PERSON,PERSON,Wiki
+sanders,brooklyn college,attend,ORG,ORG,Wiki
+the u.s.,sanders,reelect,ORG,ORG,Wiki
+2012,sanders,reelect,PRODUCT,ORG,Wiki
+sanders,the vietnam war,oppose,ORG,EVENT,Wiki
+sanders,linda niedweske,select,ORG,PERSON,Wiki
+the citizens party,greg guma,nominate,ORG,PERSON,Wiki
+the citizens party,sanders,endorse,ORG,ORG,Wiki
+sanders,noam chomsky,praise,ORG,PERSON,Wiki
+sanders,allies,alienate,ORG,ORG,Wiki
+sanders,legislation,introduce,ORG,PERSON,Wiki
+the united states,who,bring,GPE,ORG,Wiki
+sanders,clinton,endorse,ORG,PERSON,Wiki
+susan page,the democratic party,describe,PERSON,ORG,Wiki
+npr,sanders,describe,ORG,ORG,Wiki
+abby phillip,sanders,question,PERSON,ORG,Wiki
+abby phillip,elizabeth warren,ask,PERSON,PERSON,Wiki
+hillary clinton,donald trump,beat,PERSON,PERSON,Wiki
+noam chomsky,sanders,describe,PERSON,ORG,Wiki
+sanders,legislation,support,ORG,PERSON,Wiki
+sanders,black lives matter,support,ORG,ORG,Wiki
+the union address,sanders,criticize,ORG,ORG,Wiki
+sanders,vermonts liberty union party,join,ORG,ORG,Wiki
+sanders,jesse jackson,support,ORG,PERSON,Wiki
+larry,cnn,tell,PERSON,ORG,Wiki
+sanders,media,address,ORG,GPE,Wiki
+kimmel,sanders,ask,PERSON,ORG,Wiki
+washington,the foundation,leave,GPE,ORG,Wiki
+biden,ground,regaining,PERSON,ORG,Wiki
+the democratic national convention,biden,nominate,EVENT,PERSON,Wiki
+trump,biden,defeat,ORG,PERSON,Wiki
+biden,support,garner,PERSON,ORG,Wiki
+launch,biden,expect,NORP,PERSON,Wiki
+jim clyburn,biden,endorse,PERSON,PERSON,Wiki
+who,pete buttigieg,suspend,ORG,PERSON,Wiki
+who,trump,defeat,ORG,ORG,Wiki
+biden,sanders,debate,PERSON,ORG,Wiki
+who,trumps,watch,ORG,PERSON,Wiki
+trump,biden,press,ORG,PERSON,Wiki
+biden,the electoral college,elect,PERSON,ORG,Wiki
+biden,trump,lead,PERSON,ORG,Wiki
+donald trump,the u.s.,damage,PERSON,ORG,Wiki
+donald trump,science,reject,PERSON,ORG,Wiki
+nature,biden,endorse,ORG,PERSON,Wiki
+biden,donald trump,attack,PERSON,PERSON,Wiki
+kamala harris,biden,criticize,PERSON,PERSON,Wiki
+trump,ukraine,coerce,ORG,GPE,Wiki
+agreement,the biden administration,reach,PRODUCT,ORG,Wiki
+concerns,bitfinex,request,PERSON,PERSON,Wiki
+the u.s. treasury department,blender.io,sanction,ORG,GPE,Wiki
+who,taxation,evade,ORG,ORG,Wiki
+medicare,states,support,ORG,GPE,Wiki
+george w. bush,hunter biden,appoint,PERSON,PERSON,Wiki
+joe biden,name,cash,PERSON,NORP,Wiki
+pelosi,the house rules committee,consider,PERSON,ORG,Wiki
+manchin,concerns,raise,PERSON,PERSON,Wiki
+parents,drugs,buy,ORG,PERSON,Wiki
+concerns,drugs,buy,PERSON,PERSON,Wiki
+manchin,the white house,present,PERSON,ORG,Wiki
+republicans,manchin,commend,NORP,PERSON,Wiki
+manchin,democrats,blame,PERSON,NORP,Wiki
+manchin,activists,blame,PERSON,NORP,Wiki
+protestors,senators manchin,confront,ORG,PERSON,Wiki
+field  ,biden,interview,PERSON,PERSON,Wiki
+the white house,cdc,! trust,ORG,ORG,Wiki
+the federal government,hospitals,pay,ORG,ORG,Wiki
+china,who,travel,GPE,ORG,Wiki
+trump,governors,tell,ORG,ORG,Wiki
+the press conference,trump,hold,ORG,ORG,Wiki
+trump,protestors,praise,ORG,ORG,Wiki
+trump,protestors,encourage,ORG,ORG,Wiki
+who,the white houses,violate,ORG,ORG,Wiki
+the u.s.,the world,lead,ORG,ORG,Wiki
+trump,the world,lead,ORG,ORG,Wiki
+who,trump,oppose,ORG,ORG,Wiki
+symptoms,people,! have,ORG,ORG,Wiki
+messonnier,disruption,tell,PERSON,PERSON,Wiki
+walter reed,trump,admit,PERSON,ORG,Wiki
+the trump administration,christi grimm,replace,ORG,ORG,Wiki
+south africa,biden,add,GPE,PERSON,Wiki
+opinion,information,base,ORG,ORG,Wiki
+mitch mcconnell,states,support,PERSON,GPE,Wiki
+states,congress,change,GPE,ORG,Wiki
+who,historically black colleges,attend,ORG,ORG,Wiki
+mnuchin,the federal reserve,release,ORG,ORG,Wiki
+the nation,clay,inhabit,ORG,GPE,Wiki
+thomas,anita hill,harass,PERSON,PERSON,Wiki
+anita hill,the senate judiciary committee,tell,PERSON,ORG,Wiki
+anita,the senate judiciary committee,tell,PERSON,ORG,Wiki
+clarence thomas,anita,harass,PERSON,PERSON,Wiki
+clarence thomas,wendell pierce,cast,PERSON,PERSON,Wiki
+john danforth,bill irwin,portray,PERSON,PERSON,Wiki
+mark paoletta,daniel sauli,cast,PERSON,PERSON,Wiki
+biden,zoe listerjones,replace,PERSON,PERSON,Wiki
+historians,columbus,criticize,NORP,GPE,Wiki
+columbus,the ohio country,comprise,GPE,ORG,Wiki
+the national road,columbus,reach,ORG,GPE,Wiki
+john brooks,voters,choose,PERSON,ORG,Wiki
+columbus,the christopher columbus quincentennial jubilee,hold,GPE,ORG,Wiki
+columbus,the ohio history connection,headquarter,GPE,ORG,Wiki
+columbus,ohio roller derby,find,GPE,ORG,Wiki
+columbus,ohio roller girls,find,GPE,ORG,Wiki
+franklin park,the juneteenth ohio festival,hold,GPE,ORG,Wiki
+franklin park,the asian festival,hold,GPE,EVENT,Wiki
+who,highball halloween,celebrate,ORG,ORG,Wiki
+the greater columbus convention center,who,design,ORG,ORG,Wiki
+the doi system,the handle system,combine,ORG,ORG,Wiki
+openurl,doi,select,GPE,ORG,Wiki
+the selective service system,biden,reclassify,ORG,PERSON,Wiki
+who,terry,defeat,ORG,ORG,Wiki
+biden,law,practice,PERSON,PERSON,Wiki
+senate,biden,interrupt,ORG,PERSON,Wiki
+the hungarian peoples republic,biden,spend,GPE,PERSON,Wiki
+woodrow wilson,the white house,win,PERSON,ORG,Wiki
+war democrats,northern democrats,divide,NORP,NORP,Wiki
+andrew johnson,lincoln,replace,PERSON,ORG,Wiki
+reconstruction,redeemers,end,ORG,ORG,Wiki
+woodrow wilson,congress,lead,PERSON,ORG,Wiki
+republicans,conservatives,attract,NORP,NORP,Wiki
+african americans,the republican party,support,NORP,ORG,Wiki
+who,mondale,challenge,ORG,PERSON,Wiki
+the democratic party,finance,oppose,ORG,ORG,Wiki
+democrats,many states,control,NORP,GPE,Wiki
+the democratic party,israel,support,ORG,GPE,Wiki
+who,conflict,seek,ORG,GPE,Wiki
+the united states,hamas,isolate,GPE,ORG,Wiki
+the national election studies nes,surveys,conduct,ORG,ORG,Wiki
+african americans,the republican party,favor,NORP,ORG,Wiki
+the republican party,african americans,drift,ORG,NORP,Wiki
+cuban americans,republican,vote,NORP,NORP,Wiki
+joe biden,deb haaland,choose,PERSON,PERSON,Wiki
+arab americans,democratic,lean,NORP,NORP,Wiki
+blewitt,lafayette college,attend,PERSON,ORG,Wiki
+mary ann blackwell,blewitt,remarry,PERSON,PERSON,Wiki
+trump,the tax cuts,sign,ORG,ORG,Wiki
+trump,the 2020 presidential election,lose,ORG,EVENT,Wiki
+ukraine,trump,pressure,GPE,ORG,Wiki
+2019,trump,pressure,PRODUCT,ORG,Wiki
+historians,trump,rank,NORP,ORG,Wiki
+fordham university,donald trump,enrol,ORG,PERSON,Wiki
+marla,who,raise,GPE,ORG,Wiki
+california,who,raise,GPE,ORG,Wiki
+trump,harrahs,open,ORG,ORG,Wiki
+trump,casino,buy,ORG,PRODUCT,Wiki
+trump,mitt romney,endorse,ORG,PERSON,Wiki
+hillary clinton,trump,lead,PERSON,ORG,Wiki
+politico,trumps,describe,PERSON,PERSON,Wiki
+david duke,trump,support,PERSON,ORG,Wiki
+legislation,trump,sign,PERSON,ORG,Wiki
+trump,the u.s.,withdraw,ORG,ORG,Wiki
+trump,china,accuse,ORG,GPE,Wiki
+trump,china,punish,ORG,GPE,Wiki
+the trump administration,sanctions,impose,ORG,PERSON,Wiki
+the u.s.,jerusalem,recognize,ORG,GPE,Wiki
+trump,the united states,withdraw,ORG,GPE,Wiki
+trump,kim,meet,ORG,PERSON,Wiki
+trump,courts,disparage,ORG,ORG,Wiki
+trump,bob woodward,tell,ORG,PERSON,Wiki
+hhs,trump,tell,ORG,ORG,Wiki
+trump,covid19,describe,ORG,PERSON,Wiki
+voters,trump,blame,ORG,ORG,Wiki
+sanctions,flynn,talk,PERSON,PERSON,Wiki
+pence,flynn,mislead,ORG,PERSON,Wiki
+individual1,who,identify,ORG,ORG,Wiki
+trump,ukraine volodymyr zelenskyy,investigate,ORG,ORG,Wiki
+who,trump,convict,ORG,ORG,Wiki
+trump,help,seek,ORG,ORG,Wiki
+twitter,trump,post,GPE,ORG,Wiki
+the republican party,trumps,justify,ORG,PERSON,Wiki
+trump,the 2020 presidential election,steal,ORG,EVENT,Wiki
+trump,the white house,leave,ORG,ORG,Wiki
+obama,trump,place,PERSON,ORG,Wiki
+2017,trump,place,PRODUCT,ORG,Wiki
+trump,obama,lead,ORG,PERSON,Wiki
+u.s.,barack obama,bear,GPE,PERSON,Wiki
+the u.s.,biden,reelect,ORG,PERSON,Wiki
+the biden administration,legislation,pass,ORG,PERSON,Wiki
+legislation,biden,enact,PERSON,PERSON,Wiki
+mississippi,who,lynch,GPE,ORG,Wiki
+restrictions,travellers,stimulate,PERSON,ORG,Wiki
+restrictions,travellers,pressure,PERSON,ORG,Wiki
+plants,biofuels,biomassderive,ORG,PERSON,Wiki
+waste,biofuels,biomassderive,PERSON,PERSON,Wiki
+hydrogen,aircraft,power,PERSON,ORG,Wiki
+pete buttigieg,biden,appoint,PERSON,PERSON,Wiki
+the biden administration,biden,work,ORG,PERSON,Wiki
+law,biden,sign,PERSON,PERSON,Wiki
+the biden administration,the keystone pipeline,support,ORG,ORG,Wiki
+the united states,the paris agreement,rejoin,GPE,ORG,Wiki
+robinette biden iii,hallie olivere,marry,PERSON,PERSON,Wiki
+st. josephs,biden,bury,GPE,PERSON,Wiki
+hunter biden,melissa cohen,marry,PERSON,PERSON,Wiki
+the delaware humane association,who,adopt,ORG,ORG,Wiki
+joe,who,adopt,PERSON,ORG,Wiki
+maryland,william biden,settle,GPE,PERSON,Wiki
+families,michelle obama,identify,ORG,PERSON,Wiki
+children,melania trump,help,ORG,PERSON,Wiki
+information,who,provide,ORG,ORG,Wiki
+h.r. 1,d.c.,! admit,PERSON,GPE,Wiki
+states,elections,run,GPE,ORG,Wiki
+republicans,debate,block,NORP,ORG,Wiki
+newsom,redwood high school,attend,ORG,ORG,Wiki
+willie brown,newsom,fill,PERSON,ORG,Wiki
+2010,newsom,elect,PRODUCT,ORG,Wiki
+tessa thomas née menzies,newsom,bear,PERSON,ORG,Wiki
+newsom,the plumpjack winery,start,ORG,ORG,Wiki
+gordon getty,newsom,treat,PERSON,ORG,Wiki
+newsoms,brown,appoint,NORP,PERSON,Wiki
+brown,newsoms,appoint,PERSON,NORP,Wiki
+newsoms,500,pay,NORP,PRODUCT,Wiki
+willie brown,newsom,endorse,PERSON,ORG,Wiki
+gonzalez,newsom,challenge,PERSON,ORG,Wiki
+newsom,unite,join,ORG,ORG,Wiki
+newsom,the urbanrural roundtable,host,ORG,ORG,Wiki
+newsom,votes,remove,ORG,PERSON,Wiki
+newsom,assemblywoman shirley weber,appoint,ORG,ORG,Wiki
+the u.s.,xavier becerra,confirm,ORG,PERSON,Wiki
+dianne feinstein,newsom,replace,PERSON,ORG,Wiki
+the u.s.,dianne feinstein,retire,ORG,PERSON,Wiki
+the state,newsom,direct,GPE,ORG,Wiki
+newsom,legislation,sign,ORG,PERSON,Wiki
+law,newsom,sign,PERSON,ORG,Wiki
+newsom,a state of emergency,declare,ORG,ORG,Wiki
+newsom,trump,speak,ORG,ORG,Wiki
+newsom,the democratic national convention,address,ORG,EVENT,Wiki
+newsom,legislation,veto,ORG,PERSON,Wiki
+newsom,huntington beach,sue,ORG,GPE,Wiki
+nimbyism,the state,destroy,ORG,GPE,Wiki
+biden,the u.s.,recommit,PERSON,ORG,Wiki
+biden,the u.s.,return,PERSON,ORG,Wiki
+trudeau,bidens,accuse,PERSON,PERSON,Wiki
+the u.s. treasury department,temporary protected status,grant,ORG,ORG,Wiki
+the european union,china,hand,ORG,GPE,Wiki
+biden,putin,condemn,PERSON,PERSON,Wiki
+the us,putin,sanction,ORG,PERSON,Wiki
+the biden administration,himars,supply,ORG,ORG,Wiki
+jerusalem,the biden administration,recognize,GPE,ORG,Wiki
+the biden administration,u.s.,return,ORG,GPE,Wiki
+biden,covid19 china,undertake,PERSON,ORG,Wiki
+biden,the u.n. general assembly,consider,PERSON,ORG,Wiki
+the biden administration,sanctions,impose,ORG,PERSON,Wiki
+u.s.,the afghan government,support,GPE,ORG,Wiki
+biden,the afghan national army,blame,PERSON,ORG,Wiki
+biden,power,relinquish,PERSON,GPE,Wiki
+ethiopia,tigray,accuse,GPE,NORP,Wiki
+power,sudan,describe,GPE,GPE,Wiki
+biden,the u.s.,bring,PERSON,ORG,Wiki
+biden,fauci,appoint,PERSON,ORG,Wiki
+trump,brazil,impose,ORG,GPE,Wiki
+abbott,the trump administration,support,ORG,ORG,Wiki
+the texas legislatures,the obama administration,sue,ORG,ORG,Wiki
+the morning news,abbott,compare,ORG,ORG,Wiki
+abbott,sony bmg,sue,ORG,ORG,Wiki
+abbott,legislation,criticize,ORG,PERSON,Wiki
+court,abbott,argue,ORG,ORG,Wiki
+the houston chronicle,oversight,allege,ORG,PRODUCT,Wiki
+abbott,trump,support,ORG,ORG,Wiki
+trump,abbott,endorse,ORG,ORG,Wiki
+abbott,legislation,veto,ORG,PERSON,Wiki
+legislation,police,prohibit,PERSON,ORG,Wiki
+abbott,mexicans,target,ORG,NORP,Wiki
+abbott,the state,monitor,ORG,ORG,Wiki
+california,texas,add,GPE,GPE,Wiki
+abbott,the federal government,sue,ORG,ORG,Wiki
+abbotts,politifact,rat,PERSON,PRODUCT,Wiki
+abbott,the national guard,tell,ORG,ORG,Wiki
+abbott,john scott,appoint,ORG,PERSON,Wiki
+john scott,trump,aid,PERSON,ORG,Wiki
+legislation,abbott,sign,PERSON,ORG,Wiki
+children,legislation,adopt,ORG,PERSON,Wiki
+residents,abbottville,dub,PERSON,ORG,Wiki
+abbott,wendy davis,defeat,ORG,PERSON,Wiki
+startup health,krein,describe,ORG,GPE,Wiki
+2010,krein,date,PRODUCT,GPE,Wiki
+cheney,yale university,attend,PERSON,ORG,Wiki
+wyoming,cheney,represent,GPE,PERSON,Wiki
+the u.s.,john tower,confirm,ORG,PERSON,Wiki
+the u.s.,cheney,confirm,ORG,PERSON,Wiki
+cheney,nato,lend,PERSON,ORG,Wiki
+congress,bush,use,ORG,PERSON,Wiki
+baghdad,saddam hussein,oust,GPE,PERSON,Wiki
+cheney,the gulf war,regard,PERSON,EVENT,Wiki
+cheney,the american enterprise institute,join,PERSON,ORG,Wiki
+cheney,donald rumsfeld,advocate,PERSON,PERSON,Wiki
+paul wolfowitz,george tenet,replace,PERSON,PERSON,Wiki
+cheney,libby,grant,PERSON,PERSON,Wiki
+cheney,cheney wyoming,host,PERSON,PERSON,Wiki
+cheney,home,host,PERSON,ORG,Wiki
+cheney,donald trump,endorse,PERSON,PERSON,Wiki
+cheney,donald trump,support,PERSON,PERSON,Wiki
+cheney,trump,criticize,PERSON,ORG,Wiki
+cheney,liz,join,PERSON,PERSON,Wiki
+richard dreyfuss,oliver stone,portray,PERSON,PERSON,Wiki
+god,dick cheneys america,bless,PERSON,PERSON,Wiki
+andrew hodwitz,cheney,portray,PERSON,PERSON,Wiki
+inova,cheney,release,ORG,PERSON,Wiki
+whittington,the washington post,tell,PERSON,ORG,Wiki
+the u.s. navy reserve,biden,discharge,ORG,PERSON,Wiki
+the u.s.,biden,swear,ORG,PERSON,Wiki
+bidens,ashley,halfsister,PERSON,PERSON,Wiki
+biden,hunter,ask,PERSON,PERSON,Wiki
+trump,biden,accuse,ORG,PERSON,Wiki
+burisma,biden,help,PERSON,PERSON,Wiki
+the ukrainian parliament,shokin,remove,ORG,GPE,Wiki
+burisma,biden,join,PERSON,PERSON,Wiki
+burisma,shokin,investigate,PERSON,GPE,Wiki
+trump,zelenskyy,initiate,ORG,PERSON,Wiki
+trump,zelenskyy,tell,ORG,PERSON,Wiki
+ruslan riaboshapka,lutsenko,replace,PERSON,PERSON,Wiki
+joe biden,trump,investigate,PERSON,ORG,Wiki
+kyiv,who,visit,PERSON,ORG,Wiki
+biden,kathleen buhle,marry,PERSON,PERSON,Wiki
+hunter biden,data,originate,PERSON,GPE,Wiki
+who,burisma,investigate,ORG,PERSON,Wiki
+john paul mac isaac,who,identify,PERSON,ORG,Wiki
+hunter biden,who,identify,PERSON,ORG,Wiki
+giuliani,mac isaac,pass,PERSON,PERSON,Wiki
+giuliani,trump,inform,PERSON,ORG,Wiki
+politico,lev parnas,tell,PERSON,PERSON,Wiki
+jack dorsey,congress,tell,PERSON,ORG,Wiki
+who,the washington post,tell,ORG,ORG,Wiki
+giuliani,the washington post,offer,PERSON,ORG,Wiki
+the biden administration,ice,abolish,ORG,ORG,Wiki
+home,americans,participate,ORG,NORP,Wiki
+james taylor,america,perform,PERSON,GPE,Wiki
+bidens,the nation,lead,PERSON,ORG,Wiki
+the biden inaugural committee,americans,encourage,ORG,NORP,Wiki
+who,fronteras,perform,ORG,GPE,Wiki
+trump,biden,leave,ORG,PERSON,Wiki
+lady gaga,the national anthem,sing,PERSON,ORG,Wiki
+biden,americans,implore,PERSON,NORP,Wiki
+the covid19 pandemic,who,help,ORG,ORG,Wiki
+opposition,who,vote,ORG,ORG,Wiki
+mcconnell,biden,criticize,PERSON,PERSON,Wiki
+who,china,destroy,ORG,GPE,Wiki
+families,food,buy,ORG,ORG,Wiki
+michigan,whitmer,bear,GPE,ORG,Wiki
+michigan,whitmer,raise,GPE,ORG,Wiki
+2022,whitmer,reelect,PRODUCT,ORG,Wiki
+the state,whitmer,win,ORG,ORG,Wiki
+dunningss,cases,allege,PERSON,PERSON,Wiki
+cases,dunningss,allege,PERSON,PERSON,Wiki
+whitmer,restrictions,extend,ORG,PERSON,Wiki
+covid19,whitmer,test,PERSON,ORG,Wiki
+whitmer,joe biden,endorse,ORG,PERSON,Wiki
+cecily strong,whitmer,impersonate,ORG,ORG,Wiki
+the democratic national convention,whitmer,elect,ORG,ORG,Wiki
+hash bash,whitmer,reappear,PERSON,ORG,Wiki
+whitmer,michigans,eliminate,ORG,NORP,Wiki
+whitmer,executive orders,issue,ORG,ORG,Wiki
+chicago,jay robert j. b. pritzker,base,GPE,PERSON,Wiki
+2022,jay robert j. b. pritzker,reelect,PRODUCT,PERSON,Wiki
+pritzker,chicago ventures,cofounde,PERSON,ORG,Wiki
+pritzker,barack obama,support,PERSON,PERSON,Wiki
+pritzker,states,encourage,PERSON,GPE,Wiki
+mexico,miguel perez jr.,deport,GPE,PERSON,Wiki
+pritzker,legislation,sign,PERSON,PERSON,Wiki
+planned parenthood,pritzker,support,ORG,PERSON,Wiki
+pritzker,illinois,commit,PERSON,GPE,Wiki
+milton academy,the pritzker science center,dedicate,ORG,ORG,Wiki
+biden,mass,attend,PERSON,PERSON,Wiki
+people,joe,approach,ORG,PERSON,Wiki
+nova,biden,resume,ORG,PERSON,Wiki
+students,legislation,provide,ORG,PERSON,Wiki
+jill biden,rebound covid,encounter,PERSON,PERSON,Wiki
+jill biden,virginia,visit,PERSON,GPE,Wiki
+joe,cornwall,visit,PERSON,GPE,Wiki
+joe,vatican city,visit,PERSON,GPE,Wiki
+biden,pope francis,meet,PERSON,PERSON,Wiki
+the republican party,who,drift,ORG,ORG,Wiki
+jeans,biden,favor,NORP,PERSON,Wiki
+annie leibovitz,laura kim,photograph,PERSON,PERSON,Wiki
+the international space station,alpha,use,ORG,GPE,Wiki
+space shuttle atlantis,rassvet,deliver,PERSON,GPE,Wiki
+sts132,rassvet,deliver,PERSON,GPE,Wiki
+the u.s.,the joint airlock,provide,ORG,ORG,Wiki
+iss7a  ,the joint airlock,launch,PERSON,ORG,Wiki
+boeing,the joint airlock,build,ORG,ORG,Wiki
+space,harmony,launch,NORP,ORG,Wiki
+the international space station,rassvet russian рассвет,fly,ORG,PERSON,Wiki
+crs10,sage iiiiss,deliver,ORG,ORG,Wiki
+nasa,axiom space,award,ORG,PERSON,Wiki
+space,who,pay,NORP,ORG,Wiki
+sunita williams,mbsu1,replace,PERSON,PERSON,Wiki
+astronaut scott kelly,the year,spend,PERSON,EVENT,Wiki
+astronauts,english,speak,ORG,LANGUAGE,Wiki
+joe biden,delaware,represent,PERSON,GPE,Wiki
+the onion,biden,! feature,ORG,PERSON,Wiki
+the onion,biden,mention,ORG,PERSON,Wiki
+biden,god,meeting,PERSON,PERSON,Wiki
+sam sanders,the onion,drop,PERSON,ORG,Wiki
+npr,the onion,drop,ORG,ORG,Wiki
+time magazine,biden,rank,ORG,PERSON,Wiki
+biden,lucy flores,kiss,PERSON,ORG,Wiki
+biden,lucy flores,touch,PERSON,ORG,Wiki
+the onion,biden,ask,ORG,PERSON,Wiki
+ill,biden,tell,PERSON,PERSON,Wiki
+america,the onion,embrace,GPE,ORG,Wiki
+who,biden,play,ORG,PERSON,Wiki
+delaware,biden,elect,GPE,PERSON,Wiki
+biden,the senate judiciary committee,chair,PERSON,ORG,Wiki
+biden,ketanji brown jackson,appoint,PERSON,PERSON,Wiki
+biden,u.s.,restore,PERSON,GPE,Wiki
+russia,control,collapse,GPE,ORG,Wiki
+russia,control,seize,GPE,ORG,Wiki
+catherine eugenia,joseph robinette biden jr.,bear,PERSON,PERSON,Wiki
+senate,biden,run,ORG,PERSON,Wiki
+robert bork,biden,reverse,PERSON,PERSON,Wiki
+biden,hill biden,tell,PERSON,PERSON,Wiki
+biden,iraq,divide,PERSON,GPE,Wiki
+who,hitler,appease,ORG,PERSON,Wiki
+obama,biden,view,PERSON,PERSON,Wiki
+obama,biden,compare,PERSON,PERSON,Wiki
+biden,kosovo,visit,PERSON,GPE,Wiki
+biden,iraq,visit,PERSON,GPE,Wiki
+who,sidwell friends school,attend,ORG,ORG,Wiki
+joe,people,force,PERSON,ORG,Wiki
+obama,biden,lead,PERSON,PERSON,Wiki
+obama,biden,head,PERSON,PERSON,Wiki
+the u.s.,isil,follow,ORG,ORG,Wiki
+who,biden,accuse,ORG,PERSON,Wiki
+bernie sanders,biden,endorse,ORG,PERSON,Wiki
+bill clinton,george w. bush,defeat,PERSON,PERSON,Wiki
+biden,the nation,address,PERSON,ORG,Wiki
+biden,china,convince,PERSON,GPE,Wiki
+biden,the year,begin,PERSON,EVENT,Wiki
+biden,congress,ask,PERSON,ORG,Wiki
+biden,vladimir putin,blame,PERSON,PERSON,Wiki
+paxlovid,biden,treat,GPE,PERSON,Wiki
+democrats,biden,credit,NORP,PERSON,Wiki
+biden,the armenian genocide,recognize,PERSON,ORG,Wiki
+fortune magazine,biden,term,ORG,PERSON,Wiki
+john f. kennedy,biden,inspire,PERSON,PERSON,Wiki
+voters,candidates,prefer,ORG,PERSON,Wiki
+biden,kinnock,cite,PERSON,PERSON,Wiki
+pat caddell,biden,! inform,PERSON,PERSON,Wiki
+biden,kinnock,credit,PERSON,PERSON,Wiki
+who,theodore roosevelts,quote,ORG,PERSON,Wiki
+kinnock,biden,introduce,PERSON,PERSON,Wiki
+biden,kinnock,invite,PERSON,PERSON,Wiki
+biden,hillary clinton,praise,PERSON,PERSON,Wiki
+biden,education,discuss,PERSON,ORG,Wiki
+dennis kucinich,biden,conclude,PERSON,PERSON,Wiki
+who,biden,know,ORG,PERSON,Wiki
+reade,biden,! accuse,ORG,PERSON,Wiki
+reade,biden,accuse,ORG,PERSON,Wiki
+reade,biden,praise,ORG,PERSON,Wiki
+reade,who,wear,ORG,ORG,Wiki
+reade,joe biden,want,ORG,PERSON,Wiki
+reade,xenophobia,! write,ORG,GPE,Wiki
+reade,the associated press,interview,ORG,ORG,Wiki
+reade,the associated press,tell,ORG,ORG,Wiki
+the washington post,reade,interview,ORG,ORG,Wiki
+biden,katie halper,push,PERSON,PERSON,Wiki
+reade,national public radio npr,tell,ORG,ORG,Wiki
+reade,biden,reject,ORG,PERSON,Wiki
+biden,reade,tell,PERSON,ORG,Wiki
+d.c.,reade,hire,GPE,ORG,Wiki
+reade,newsweek,tell,ORG,ORG,Wiki
+times up,reade,provide,ORG,ORG,Wiki
+biden,reade,touch,PERSON,ORG,Wiki
+reade,joseph backholm,tell,ORG,PERSON,Wiki
+who,mcgann,tell,ORG,PERSON,Wiki
+reade,lynda lacasse,tell,ORG,PERSON,Wiki
+lynda lacasse,cnn,tell,PERSON,ORG,Wiki
+lynda lacasse,reade,advise,PERSON,ORG,Wiki
+reade,biden,bring,ORG,PERSON,Wiki
+lynda lacasse,business insider,tell,PERSON,ORG,Wiki
+reade,lynda lacasse,contact,ORG,PERSON,Wiki
+reade,biden,tell,ORG,PERSON,Wiki
+abc news,moulton,interview,ORG,GPE,Wiki
+moulton,abc news,texte,GPE,ORG,Wiki
+reade,kelly klett,phone,ORG,PERSON,Wiki
+fox news,reade,tell,ORG,ORG,Wiki
+harvey weinstein,who,allege,PERSON,ORG,Wiki
+douglas wigdor,reade,represent,PERSON,ORG,Wiki
+biden,reade,work,PERSON,ORG,Wiki
+lawrence odonnell,reade,remember,PERSON,ORG,Wiki
+reade,biden,assault,ORG,PERSON,Wiki
+cnn,savage,tell,ORG,ORG,Wiki
+who,articles,write,ORG,GPE,Wiki
+conservatives,liberals,weaponize,NORP,NORP,Wiki
+cornyn,the texas internet bureau,create,ORG,ORG,Wiki
+cook political,lean republican,rat,PERSON,PERSON,Wiki
+cornyn,samuel alito,confirm,ORG,PERSON,Wiki
+hillary clinton,cornyn,prevent,PERSON,ORG,Wiki
+cornyn,the covid19 pandemic,blame,ORG,ORG,Wiki
+obama,cornyn,replace,PERSON,ORG,Wiki
+obama,merrick garland,replace,PERSON,PERSON,Wiki
+obama,scalia,replace,PERSON,PERSON,Wiki
+the supreme court,roe,overturn,ORG,ORG,Wiki
+cornyn,trump,praise,ORG,ORG,Wiki
+cornyn,trump,warn,ORG,ORG,Wiki
+cornyn,trump,restart,ORG,ORG,Wiki
+cornyn,cruz,tell,ORG,PERSON,Wiki
+cornyn,the trump administration,impose,ORG,ORG,Wiki
+cornyn,sanctions,impose,ORG,PERSON,Wiki
+things,people,eat,ORG,ORG,Wiki
+concealed carry reciprocity,cornyn,support,PERSON,ORG,Wiki
+democrats,legislation,pass,NORP,PERSON,Wiki
+cornyn,biden,accuse,ORG,PERSON,Wiki
+cornyn,pensions,receive,ORG,ORG,Wiki
+buhle,people,assist,PERSON,ORG,Wiki
+the fourth circuit,hb 589,strike,ORG,ORG,Wiki
+folsoms,ivey,receive,ORG,ORG,Wiki
+ivey,bentley,succeed,ORG,PERSON,Wiki
+ivey,a state of emergency,declare,ORG,ORG,Wiki
+ivey,businesses,prohibit,ORG,PERSON,Wiki
+ivey,ruby l. perry,appoint,ORG,PERSON,Wiki
+donald trump,the 2020 presidential election,steal,PERSON,EVENT,Wiki
+the supreme court,breyer,nominate,ORG,GPE,Wiki
+jackson,biden,nominate,PERSON,PERSON,Wiki
+who,bidens,rubberstamp,ORG,PERSON,Wiki
+joe biden,marshall,acknowledge,PERSON,PERSON,Wiki
+mccarthy,the california young republicans,chair,PERSON,ORG,Wiki
+congress,mccarthy,elect,ORG,PERSON,Wiki
+mccarthy,the young republican national federation,chair,PERSON,ORG,Wiki
+the california state assembly,mccarthy,elect,ORG,PERSON,Wiki
+pete sessions,jeb hensarling,challenge,PERSON,PERSON,Wiki
+congress,republicans,accomplish,ORG,NORP,Wiki
+trumps,mccarthy,ask,PERSON,PERSON,Wiki
+mccarthy,trumps,support,PERSON,PERSON,Wiki
+mccarthy,biden,recognize,PERSON,PERSON,Wiki
+mccarthy,people,attack,PERSON,ORG,Wiki
+mccarthy,trump,ask,PERSON,ORG,Wiki
+mccarthy,trump,hold,PERSON,ORG,Wiki
+mccarthy,trump,pay,PERSON,ORG,Wiki
+maxine waters,trump,impeach,PERSON,ORG,Wiki
+mccarthy,republicans,remove,PERSON,NORP,Wiki
+democrats,trump,! investigate,NORP,ORG,Wiki
+mccarthy,hillary clinton,investigate,PERSON,PERSON,Wiki
+mccarthy,trump,! impeach,PERSON,ORG,Wiki
+republicans,mccarthy,criticize,NORP,PERSON,Wiki
+mccarthy,trump,visit,PERSON,ORG,Wiki
+trump,mccarthy,ask,ORG,PERSON,Wiki
+help,mccarthy,ask,ORG,PERSON,Wiki
+trump,the national guard,send,ORG,ORG,Wiki
+putin,rohrabacher,pay,PERSON,PERSON,Wiki
+mccarthy,nancy pelosi,criticize,PERSON,PERSON,Wiki
+mccarthy,biden,assail,PERSON,PERSON,Wiki
+congress,paul ryan,retire,ORG,PERSON,Wiki
+who,ice,support,ORG,ORG,Wiki
+obama,the justice department,defend,PERSON,ORG,Wiki
+mccarthy,boehner,join,PERSON,PERSON,Wiki
+bin laden,alqaeda,lead,PERSON,ORG,Wiki
+the u.s. intelligence community,alzawahiri,track,ORG,PERSON,Wiki
+the kansas senate,kelly,elect,ORG,PERSON,Wiki
+laura,kansans,bring,PERSON,NORP,Wiki
+kelly,the kansas legislature,accept,PERSON,ORG,Wiki
+kelly,kancare,reform,PERSON,ORG,Wiki
+the state,kansas,return,ORG,GPE,Wiki
+posts,dark brandon,reference,NORP,PERSON,Wiki
+2020,graham,reelect,PRODUCT,PERSON,Wiki
+graham,trump,! support,PERSON,ORG,Wiki
+home,lindsey olin graham,remain,ORG,PERSON,Wiki
+oconee county,graham,elect,GPE,PERSON,Wiki
+trump,cnn,nominate,ORG,ORG,Wiki
+trump,john mccain,criticize,ORG,PERSON,Wiki
+john mccain,trump,ban,PERSON,ORG,Wiki
+graham,trumps,condemn,PERSON,PERSON,Wiki
+statements,democrats,reference,PERSON,NORP,Wiki
+biden,trump,defeat,PERSON,ORG,Wiki
+graham,brad raffensperger,ask,PERSON,PERSON,Wiki
+graham,tea party,criticize,PERSON,ORG,Wiki
+graham,tea party,confront,PERSON,ORG,Wiki
+ford,kavanaugh,accuse,ORG,ORG,Wiki
+the senate judiciary committee,ford,question,ORG,ORG,Wiki
+who,kavanaugh,assault,ORG,ORG,Wiki
+the senate judiciary committee,kavanaugh,testify,ORG,ORG,Wiki
+customers,history,browse,ORG,GPE,Wiki
+graham,legislation,introduce,PERSON,PERSON,Wiki
+2013,lieberman,retire,PRODUCT,NORP,Wiki
+graham,barack obama,criticize,PERSON,PERSON,Wiki
+graham,obama,condemn,PERSON,PERSON,Wiki
+graham,the trump administration,recognize,PERSON,ORG,Wiki
+graham,the trump administration,praise,PERSON,ORG,Wiki
+graham,saudi arabia,praise,PERSON,GPE,Wiki
+who,the us,assist,ORG,ORG,Wiki
+steele,the justice department,! charge,NORP,ORG,Wiki
+graham,john mccain,support,PERSON,PERSON,Wiki
+graham,romney,endorse,PERSON,PERSON,Wiki
+graham,chris wallace,tell,PERSON,PERSON,Wiki
+children,graham,! marry,ORG,PERSON,Wiki
+children,graham,! have,ORG,PERSON,Wiki
+who,joe biden,endorse,ORG,PERSON,Wiki
+ken jeong,andrew yang,endorse,PERSON,PERSON,Wiki
+chair of,kirsten gillibrand,endorse,ORG,PERSON,Wiki
+tablighi ijtema,who,attend,PERSON,ORG,Wiki
+us senators,sanctions,impose,ORG,PERSON,Wiki
+opec,mexico,request,ORG,GPE,Wiki
+india,markaz,receive,GPE,GPE,Wiki
+india,the janata curfew,observe,GPE,ORG,Wiki
+the union home ministry,state governments,track,ORG,ORG,Wiki
+mukhtar abbas naqvi,people,hold,PERSON,ORG,Wiki
+delhi police,delhi high court,reprimand,ORG,ORG,Wiki
+who,jamaat,accuse,ORG,GPE,Wiki
+ofqual,williamson,tell,ORG,PERSON,Wiki
+williamson,ocr,inform,PERSON,ORG,Wiki
+cases,singaporeans,return,PERSON,NORP,Wiki
+jesse klaver,geert wilders,accuse,PERSON,PERSON,Wiki
+geert wilders,jesse klaver,remove,PERSON,PERSON,Wiki
+geert wilders,partys,remove,PERSON,ORG,Wiki
+the world health organization,trade,blame,ORG,ORG,Wiki
+the state,quarantines,impose,GPE,PERSON,Wiki
+the covid19 pandemic,black thursday,attribute,ORG,EVENT,Wiki
+min aung hlaing,the state administration council,establish,PERSON,ORG,Wiki
+myanmar,facebook,block,GPE,ORG,Wiki
+tatmadaw,governments,include,PERSON,ORG,Wiki
+governors,the national guard,deploy,ORG,ORG,Wiki
+mississippi,the federal government,ask,GPE,ORG,Wiki
+reports,fda,investigate,ORG,ORG,Wiki
+protesters,foxconn,accuse,ORG,ORG,Wiki
+people,police,stop,ORG,ORG,Wiki
+wuhan university,protests,break,ORG,NORP,Wiki
+students,protests,break,ORG,NORP,Wiki
+home,covid19,quarantine,ORG,PERSON,Wiki
+people,health code,! testing,ORG,ORG,Wiki
+ktv,who,visit,ORG,ORG,Wiki
+weibo,alison alison,post,PRODUCT,PERSON,Wiki
+the covid19 pandemic,shortages,relate,ORG,PERSON,Wiki
+covidien,newport,acquire,ORG,ORG,Wiki
+oxygen,valves,mix,ORG,ORG,Wiki
+air,valves,mix,ORG,ORG,Wiki
+phase iii,abdala,start,PRODUCT,GPE,Wiki
+children,abdala,start,ORG,GPE,Wiki
+the malaysian government,rm600 million,allocate,ORG,ORG,Wiki
+malaysians,households,earn,NORP,PERSON,Wiki
+"rm2,000",who,earn,PRODUCT,ORG,Wiki
+malaysians,who,earn,NORP,ORG,Wiki
+cmco,employers,! operate,ORG,PERSON,Wiki
+reports,the malaysian government,step,ORG,ORG,Wiki
+mercy malaysia,the covid19 pandemic,launch,PERSON,ORG,Wiki
+mcgeer,saudi arabia,visit,PERSON,GPE,Wiki
+uppsala,tegnell,bear,GPE,ORG,Wiki
+people,authorities,remote,ORG,ORG,Wiki
+tegnell,lena einhorn,contact,ORG,PERSON,Wiki
+donald trump,the united states,pull,PERSON,GPE,Wiki
+the thai rak thai party,anutin,join,ORG,ORG,Wiki
+2012,anutin,join,PRODUCT,ORG,Wiki
+napier,bloomfield,bear,GPE,GPE,Wiki
+the atlantic bubble,residents,travel,ORG,PERSON,Wiki
+new brunswick,pei,join,GPE,ORG,Wiki
+prince edward island,the pei pass,establish,GPE,ORG,Wiki
+feroz,ghani,bear,PERSON,ORG,Wiki
+ghani,mathematics,study,ORG,PRODUCT,Wiki
+ghani,imperial college london,join,ORG,ORG,Wiki
+indian,phase,conduct,NORP,GPE,Wiki
+eli lilly,bamlanivimab,withdraw,ORG,ORG,Wiki
+covid19,bamlanivimab,treat,PERSON,ORG,Wiki
+people,bamlanivimab,treat,ORG,ORG,Wiki
+the united states,baricitinib,approve,GPE,PERSON,Wiki
+time,baricitinib,reduce,ORG,PERSON,Wiki
+recovery,baricitinib,reduce,ORG,PERSON,Wiki
+the world health organization,baricitinib,recommend,ORG,PERSON,Wiki
+people,bebtelovimab,! authorize,ORG,ORG,Wiki
+abcellera,bebtelovimab,discover,ORG,ORG,Wiki
+bangladesh,globe,require,GPE,PERSON,Wiki
+taiwans super basketball league,play,suspend,ORG,ORG,Wiki
+yas island,ufc,return,GPE,ORG,Wiki
+the tampa bay rays,tropicana field,nee,ORG,ORG,Wiki
+crozier,gilday,reinstate,ORG,PERSON,Wiki
+aylward,the world health organization,join,ORG,ORG,Wiki
+the ebola response,aylward,appoint,ORG,ORG,Wiki
+taiwan,china,accuse,GPE,GPE,Wiki
+england,restrictions,lift,GPE,PERSON,Wiki
+nhs digital,data,collect,ORG,GPE,Wiki
+johnson,coronavirus,contract,PERSON,GPE,Wiki
+deaths,research,increase,PERSON,ORG,Wiki
+contact tracing,deaths,recommend,PERSON,PERSON,Wiki
+england,restrictions,end,GPE,PERSON,Wiki
+law,businesses,close,PERSON,PERSON,Wiki
+government,food,subsidise,ORG,ORG,Wiki
+douglas edwards,walter cronkite,replace,PERSON,PERSON,Wiki
+anthony fauci,catholic,grow,PERSON,NORP,Wiki
+anthony fauci,cornell universitys medical college,attend,PERSON,ORG,Wiki
+anthony fauci,weill cornell medicine,attend,PERSON,ORG,Wiki
+who,fauci,hate,ORG,ORG,Wiki
+trump,fauci,! meet,ORG,ORG,Wiki
+trump,fauci,fire,ORG,ORG,Wiki
+trump,fauci,praise,ORG,ORG,Wiki
+conservatives,faucis,question,NORP,ORG,Wiki
+donald trump,covid19,contract,PERSON,PERSON,Wiki
+things,maddow,handle,ORG,ORG,Wiki
+fauci,the biden administration,picture,ORG,ORG,Wiki
+covid19,americans,vaccinate,PERSON,NORP,Wiki
+the times,fauci,tell,ORG,ORG,Wiki
+national geographic documentary films,magnolia pictures,produce,ORG,ORG,Wiki
+clinton,reagan,like,PERSON,PERSON,Wiki
+people,coh04s1,target,ORG,ORG,Wiki
+who,covid19,! have,ORG,PERSON,Wiki
+diamond online,hirose,tell,PERSON,PERSON,Wiki
+the covid19 pandemic,people,receive,ORG,ORG,Wiki
+people,air,breathe,ORG,ORG,Wiki
+people,symptoms,! develop,ORG,ORG,Wiki
+covid‑19,who,die,PRODUCT,ORG,Wiki
+hospital,people,reteste,ORG,ORG,Wiki
+particles,air,inhale,GPE,ORG,Wiki
+particles,air,exhale,GPE,ORG,Wiki
+hospital,who,admit,ORG,ORG,Wiki
+covid‑19,who,diagnose,PRODUCT,ORG,Wiki
+the wuhan jianghan cdc,who,inform,ORG,ORG,Wiki
+italy,cases,confirm,GPE,PERSON,Wiki
+who,the solidarity trial,initiate,ORG,PRODUCT,Wiki
+covid‑19,who,recover,PRODUCT,ORG,Wiki
+people,who,recover,ORG,ORG,Wiki
+alert level 2,new zealand,enter,PERSON,GPE,Wiki
+alert level 2,new zealand,alert,PRODUCT,GPE,Wiki
+contact tracing,the health ministry,conduct,PERSON,ORG,Wiki
+advance nz,people,vote,ORG,ORG,Wiki
+police,te kahika,detain,ORG,ORG,Wiki
+media,protesters,confront,GPE,ORG,Wiki
+police,protesters,warn,ORG,ORG,Wiki
+protesters,education,include,ORG,ORG,Wiki
+who,protesters,disrupt,ORG,ORG,Wiki
+who,businesses,disrupt,ORG,PERSON,Wiki
+wellington,antivaccine,hold,GPE,GPE,Wiki
+government,tamaki,silence,ORG,GPE,Wiki
+paul white,health nz,represent,PERSON,ORG,Wiki
+chicago,protesters,meet,GPE,ORG,Wiki
+governors,states,reopen,ORG,GPE,Wiki
+government,moscow,implement,ORG,GPE,Wiki
+individuals,who,expose,GPE,ORG,Wiki
+the australian government,app,announce,ORG,PERSON,Wiki
+bluetooth low energy technology,app,use,ORG,PERSON,Wiki
+jordans,who,leverage,NORP,ORG,Wiki
+mgcq,zamboanga city,transition,ORG,GPE,Wiki
+gcq,mecq,downgrade,ORG,ORG,Wiki
+ecq,catbalogan,place,ORG,PERSON,Wiki
+mecq,tuguegarao,place,ORG,ORG,Wiki
+mecq,the city of,place,ORG,GPE,Wiki
+mecq,iloilo city,place,ORG,ORG,Wiki
+mecq,lanao del sur,place,ORG,ORG,Wiki
+gcq,northern samar,place,ORG,GPE,Wiki
+gcq,lanao del sur,place,ORG,ORG,Wiki
+gcq,santiago,upgrade,ORG,GPE,Wiki
+mgcq,isabela,downgrade,ORG,GPE,Wiki
+gcq,laoag,place,ORG,GPE,Wiki
+ecq,tuguegarao,place,ORG,ORG,Wiki
+ecq,passi,place,ORG,PERSON,Wiki
+ecq,the greater manila area,place,ORG,ORG,Wiki
+mecq,quirino,place,ORG,PERSON,Wiki
+mecq,the greater manila area,place,ORG,ORG,Wiki
+mecq,abra,place,ORG,PERSON,Wiki
+gcq,quezon,place,ORG,GPE,Wiki
+gcq,palawan,place,ORG,GPE,Wiki
+santiago city,mecq,retain,GPE,ORG,Wiki
+gcq,mountain province,downgrade,ORG,GPE,Wiki
+gcq,cotabato city,upgrade,ORG,GPE,Wiki
+metro manila,alert level 3,place,PERSON,PERSON,Wiki
+leaders,cord19,release,ORG,PRODUCT,Wiki
+the uk national health service,guidance,issue,ORG,PRODUCT,Wiki
+covid19,who,diagnose,PERSON,ORG,Wiki
+covid19,people,infect,PERSON,ORG,Wiki
+drugs,malaria,treat,PERSON,GPE,Wiki
+covid19,research,treatment,PERSON,ORG,Wiki
+the royal devon,who,transfer,ORG,ORG,Wiki
+hospital,people,admit,ORG,ORG,Wiki
+sarscov,who,infect,NORP,ORG,Wiki
+anthony fauci,research,direct,PERSON,ORG,Wiki
+businesses,food,offering,PERSON,ORG,Wiki
+residents,wuhan,leave,PERSON,GPE,Wiki
+wuhan,people,travel,GPE,ORG,Wiki
+italy,aircraft,fly,GPE,ORG,Wiki
+west bengal,lockdowns,impose,GPE,NORP,Wiki
+maharashtra,cases,increase,ORG,PERSON,Wiki
+many states,lockdowns,lifting,GPE,NORP,Wiki
+many states,restrictions,lifting,GPE,PERSON,Wiki
+data,google,collect,GPE,ORG,Wiki
+movements,google,collect,PERSON,ORG,Wiki
+who,statements,publish,ORG,PERSON,Wiki
+people,red zone,leave,ORG,GPE,Wiki
+people,red zone,enter,ORG,GPE,Wiki
+lombardy,who,evacuate,ORG,ORG,Wiki
+conte,italians,request,PERSON,NORP,Wiki
+who,covid19,contract,ORG,PERSON,Wiki
+covid19,users,spread,PERSON,ORG,Wiki
+australian,who,deport,NORP,ORG,Wiki
+new zealand,people,enter,GPE,ORG,Wiki
+miq,people,enter,ORG,ORG,Wiki
+who,time,spend,ORG,ORG,Wiki
+ireland,who,base,GPE,ORG,Wiki
+operation protect,who,participate,ORG,ORG,Wiki
+india,who,arrive,GPE,ORG,Wiki
+sydney,who,return,GPE,ORG,Wiki
+brisbane,who,travel,GPE,ORG,Wiki
+china,covid19,import,GPE,PERSON,Wiki
+the united states,china,blame,GPE,GPE,Wiki
+fernández,the world health organization,add,PERSON,ORG,Wiki
+iran,bahrain,accuse,GPE,GPE,Wiki
+god,covid19,eliminate,PERSON,PERSON,Wiki
+nicolás maduro,colombia,accuse,PERSON,GPE,Wiki
+the white house,media,accuse,ORG,GPE,Wiki
+covid19,donald trump,compare,PERSON,PERSON,Wiki
+trump,the obama administration,blame,ORG,ORG,Wiki
+chloroquine,trump,promote,PERSON,ORG,Wiki
+trump,fauci,prevent,ORG,ORG,Wiki
+fauci,research,direct,ORG,ORG,Wiki
+covid19,the us,create,PERSON,ORG,Wiki
+covid19,the us,spread,PERSON,ORG,Wiki
+the united states,sarscov19,create,GPE,GPE,Wiki
+donald trump,iranian,target,PERSON,NORP,Wiki
+jews,covid19,manufacture,NORP,PERSON,Wiki
+food,muslims,sell,ORG,NORP,Wiki
+sarscov2,food,contaminate,PRODUCT,ORG,Wiki
+piers corbyn,covid19,describe,PERSON,PERSON,Wiki
+youtube,videos,remove,ORG,PERSON,Wiki
+facebook,posts,share,ORG,NORP,Wiki
+facebook,reports,spread,ORG,ORG,Wiki
+the chinese government,cases,blame,ORG,PERSON,Wiki
+covid19,muslims,spread,PERSON,NORP,Wiki
+infections,who,recover,ORG,ORG,Wiki
+pilgrims,fatima masumeh shrine,visit,NORP,ORG,Wiki
+myths,muslims,claim,GPE,NORP,Wiki
+rigano,chloroquine,promote,ORG,PERSON,Wiki
+the covid19 pandemic,joe rogan,describe,ORG,PERSON,Wiki
+people,bill gates,track,ORG,PERSON,Wiki
+the chinese communist party,the world,endanger,ORG,ORG,Wiki
+who,restrictions,accept,ORG,PERSON,Wiki
+restrictions,spread,halt,PERSON,NORP,Wiki
+the covid19 pandemic,animals,affect,ORG,GPE,Wiki
+south korea,china,overtake,GPE,GPE,Wiki
+abkhazia,the covid19 pandemic,reach,GPE,ORG,Wiki
+qom,who,return,GPE,ORG,Wiki
+daykundi province,who,die,GPE,ORG,Wiki
+iran,who,return,GPE,ORG,Wiki
+television,lessons,teach,ORG,PERSON,Wiki
+radio,lessons,teach,ORG,PERSON,Wiki
+the central african republic,who,return,GPE,ORG,Wiki
+ethiopia,a state of emergency,declare,GPE,ORG,Wiki
+gabon,who,return,GPE,ORG,Wiki
+france,who,return,GPE,ORG,Wiki
+the us,who,come,ORG,ORG,Wiki
+london,who,come,GPE,ORG,Wiki
+the united kingdom,who,return,GPE,ORG,Wiki
+nigeria,who,work,GPE,ORG,Wiki
+the canary islands,the covid19 pandemic,reach,GPE,ORG,Wiki
+ceuta,the covid19 pandemic,reach,GPE,ORG,Wiki
+melilla,the covid19 pandemic,reach,GPE,ORG,Wiki
+khartoum,who,die,GPE,ORG,Wiki
+the united kingdom,who,travel,GPE,ORG,Wiki
+south africa,who,travel,GPE,ORG,Wiki
+ivey,the alabama 911 board,adopt,ORG,ORG,Wiki
+games,casinos,prohibit,ORG,ORG,Wiki
+kenney,businesses,allow,PERSON,PERSON,Wiki
+home,teachers,require,ORG,ORG,Wiki
+users,alberta,adopt,ORG,GPE,Wiki
+users,alberta,migrate,ORG,GPE,Wiki
+alberta,who,return,GPE,ORG,Wiki
+covid19,travellers,test,PERSON,ORG,Wiki
+covid19,individuals,test,PERSON,GPE,Wiki
+kearl,cases,import,PERSON,PERSON,Wiki
+florence,who,come,GPE,ORG,Wiki
+the red zones,fier,add,ORG,ORG,Wiki
+spain,who,stay,GPE,ORG,Wiki
+france,skikda,stay,GPE,PERSON,Wiki
+algeria,cases,record,GPE,PERSON,Wiki
+american samoa,the fesco askold,leave,ORG,ORG,Wiki
+coronavirus,who,confirm,GPE,ORG,Wiki
+milan,who,return,GPE,ORG,Wiki
+sint maarten,the anguillian newspaper,print,PERSON,ORG,Wiki
+anguilla,shelter in place,tell,ORG,ORG,Wiki
+covid,amundsenscott south pole station,reach,PERSON,ORG,Wiki
+parliament,a state of emergency,extend,ORG,ORG,Wiki
+armenia,passengers,enter,GPE,ORG,Wiki
+armenia,the covid19 pandemic,spread,GPE,ORG,Wiki
+government,a state of emergency,declare,ORG,ORG,Wiki
+canada canada,armenia,provide,ORG,GPE,Wiki
+the european union,armenia,supply,ORG,GPE,Wiki
+new york,who,travel,GPE,ORG,Wiki
+aruba,who,strand,GPE,ORG,Wiki
+covid19,restrictions,relate,PERSON,PERSON,Wiki
+yuma regional medical center,concerns,raise,ORG,PERSON,Wiki
+the state,who,travel,GPE,ORG,Wiki
+maricopa county,native americans,represent,GPE,NORP,Wiki
+who,cases,treat,ORG,PERSON,Wiki
+data,adhs,release,GPE,ORG,Wiki
+cactus league,nascar,race,ORG,ORG,Wiki
+symptoms,who,! have,ORG,ORG,Wiki
+who,country,enter,ORG,ORG,Wiki
+the tucumán provincial police,who,kill,ORG,ORG,Wiki
+bahía blanca,who,find,GPE,ORG,Wiki
+louisiana,the state,send,GPE,GPE,Wiki
+sihanoukville,who,arrive,GPE,ORG,Wiki
+the covid19 pandemic,hubei,manifest,ORG,GPE,Wiki
+georgia,who,return,GPE,ORG,Wiki
+indonesia,covid19,spread,GPE,PERSON,Wiki
+the world health organization,indonesia,perform,ORG,GPE,Wiki
+sarscov2,infections,confirm,PRODUCT,ORG,Wiki
+wuhan,who,travel,GPE,ORG,Wiki
+cases,russia,confirm,PERSON,GPE,Wiki
+taiwan,lockdowns,impose,GPE,NORP,Wiki
+government,people,bar,ORG,ORG,Wiki
+nizamuddin markaz,people,link,PERSON,ORG,Wiki
+covid19,who,cure,PERSON,ORG,Wiki
+coronavirus,tmch,recover,GPE,ORG,Wiki
+coronavirus,jmch,recover,GPE,GPE,Wiki
+the asturian government,phase 2,start,ORG,PRODUCT,Wiki
+luarca,who,live,GPE,ORG,Wiki
+covid19,who,die,PERSON,ORG,Wiki
+asturias,who,die,GPE,ORG,Wiki
+barcelona,who,return,GPE,ORG,Wiki
+gijón,majorca,surpass,GPE,NORP,Wiki
+pravia,grado,surpass,GPE,GPE,Wiki
+austin,cases,! confirm,GPE,PERSON,Wiki
+adler,sxsw,proscribe,PERSON,ORG,Wiki
+iran,who,come,GPE,ORG,Wiki
+iran,who,arrive,GPE,ORG,Wiki
+who,fever,develop,ORG,PERSON,Wiki
+italy,people,come,GPE,ORG,Wiki
+children,schools,remain,ORG,PERSON,Wiki
+supermarkets,persons,enter,ORG,GPE,Wiki
+the royal humanitarian foundation,the feena khair,launch,ORG,ORG,Wiki
+who,covid19,claim,ORG,PERSON,Wiki
+indians,bahrain,leave,NORP,GPE,Wiki
+sitra mall,bahrain,turn,ORG,GPE,Wiki
+the adventist medical center,who,admit,ORG,ORG,Wiki
+ecq,tawi tawi,place,ORG,PERSON,Wiki
+barbados,who,return,PERSON,ORG,Wiki
+home,people,leave,ORG,ORG,Wiki
+bangladesh,lockdown,declare,GPE,ORG,Wiki
+home,transportation,shut,ORG,ORG,Wiki
+home,transportation,leave,ORG,ORG,Wiki
+dhaka,people,leave,GPE,ORG,Wiki
+coronavirus,china,test,GPE,GPE,Wiki
+bangladesh,china,invite,GPE,GPE,Wiki
+covid19,habiba sultana,test,PERSON,PERSON,Wiki
+guangzhou,who,arrive,GPE,ORG,Wiki
+victoria,restrictions,retightene,GPE,PERSON,Wiki
+dubbo hospital,who,die,ORG,ORG,Wiki
+the world,australia,reopen,ORG,GPE,Wiki
+darwin,who,arrive,PERSON,ORG,Wiki
+australia,people,leave,GPE,ORG,Wiki
+australia,the australian government,! manufacture,GPE,ORG,Wiki
+covid19,people,expose,PERSON,ORG,Wiki
+victoria,restrictions,preomicron,GPE,PERSON,Wiki
+who,new south wales,enter,ORG,GPE,Wiki
+the federal government,travellers,block,ORG,ORG,Wiki
+students,australia,visit,ORG,GPE,Wiki
+san pedro town,who,return,GPE,ORG,Wiki
+florida,who,return,GPE,ORG,Wiki
+the united states,who,return,GPE,ORG,Wiki
+belize,belizeans,return,GPE,NORP,Wiki
+belize,residents,! leave,GPE,PERSON,Wiki
+belize,a state of emergency,announce,GPE,ORG,Wiki
+belize,people,travel,GPE,ORG,Wiki
+bermuda,information,relate,PERSON,ORG,Wiki
+home,residents,leave,ORG,PERSON,Wiki
+the department of health,individuals,approve,ORG,GPE,Wiki
+belarus,persons,enter,GPE,GPE,Wiki
+persons,belarus,enter,GPE,GPE,Wiki
+current time tv,who,approach,ORG,ORG,Wiki
+covid19,deaths,attribute,PERSON,PERSON,Wiki
+crépyenvalois,who,return,ORG,ORG,Wiki
+etterbeek,who,treat,GPE,ORG,Wiki
+belgium,saint nicholas day,celebrate,GPE,PERSON,Wiki
+belgium,who,praise,GPE,ORG,Wiki
+belgium,deaths,include,GPE,PERSON,Wiki
+india,who,travel,GPE,ORG,Wiki
+the us,who,study,ORG,ORG,Wiki
+india,bhutanese,evacuate,GPE,NORP,Wiki
+bhutan,who,return,GPE,ORG,Wiki
+new delhi,who,return,GPE,ORG,Wiki
+doha,who,fly,GPE,ORG,Wiki
